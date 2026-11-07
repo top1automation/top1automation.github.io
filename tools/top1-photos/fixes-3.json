@@ -1,0 +1,202 @@
+[
+ {
+  "slug": "toyota-corolla",
+  "name": "Toyota Corolla",
+  "titles": [
+   "Toyota Corolla (E210)"
+  ],
+  "kw": [
+   "Corolla"
+  ],
+  "neg": [
+   "GR ",
+   "GR_",
+   "Cross",
+   "Levin",
+   "Altis",
+   "CNDM",
+   "China",
+   "Prius",
+   "XII CN"
+  ],
+  "min_year": 2018
+ },
+ {
+  "slug": "citroen-jumper",
+  "name": "Citroen Jumper",
+  "titles": [
+   "Citroën Jumper"
+  ],
+  "kw": [
+   "Jumper"
+  ],
+  "neg": [
+   "camper",
+   "Camper",
+   "Wohnmobil",
+   "motorhome",
+   "Motorhome",
+   "Pössl",
+   "Adria",
+   "Hymer",
+   "Knaus",
+   "Dethleffs",
+   "Bürstner",
+   "Weinsberg",
+   "Carado",
+   "Sunlight",
+   "Chausson",
+   "Rapido",
+   "Hobby",
+   "Roller",
+   "Eura",
+   "Malibu",
+   "Westfalia",
+   "DSC 8018"
+  ],
+  "min_year": 2006
+ },
+ {
+  "slug": "smart-1",
+  "name": "Smart #1",
+  "titles": [
+   "Smart 1",
+   "Smart #1"
+  ],
+  "kw": [
+   "Smart 1",
+   "Smart #1",
+   "smart #1",
+   "Smart_1",
+   "smart 1"
+  ],
+  "neg": [
+   "Brabus 005",
+   "Brabus 006",
+   "Brabus 007",
+   "Brabus 008",
+   "Brabus 009",
+   "Innen",
+   "innen"
+  ],
+  "min_year": 2022
+ },
+ {
+  "slug": "lancia-delta",
+  "name": "Lancia Delta",
+  "titles": [
+   "Lancia Delta"
+  ],
+  "kw": [
+   "Delta"
+  ],
+  "neg": [
+   "S4",
+   "HF",
+   "Integrale",
+   "integrale",
+   "rally",
+   "Rally",
+   "WRC",
+   "Evo",
+   "EVO",
+   "Amos",
+   "Futurista",
+   "Safari",
+   "Martini"
+  ],
+  "min_year": 2008
+ },
+ {
+  "slug": "hyundai-ix35",
+  "name": "Hyundai ix35",
+  "titles": [
+   "Hyundai Tucson (LM)",
+   "Hyundai Tucson"
+  ],
+  "kw": [
+   "ix35",
+   "IX35",
+   "iX35",
+   "Tucson"
+  ],
+  "neg": [
+   "Beijing",
+   "China",
+   "NX4",
+   "TL",
+   "N Line",
+   "Fuel Cell",
+   "FCEV",
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026",
+   "2027",
+   "2028",
+   "2029",
+   "2030"
+  ],
+  "min_year": 2009
+ },
+ {
+  "slug": "suzuki-grand-vitara",
+  "name": "Suzuki Grand Vitara",
+  "titles": [
+   "Suzuki Escudo",
+   "Suzuki Grand Vitara"
+  ],
+  "kw": [
+   "Grand Vitara",
+   "Grand_Vitara",
+   "Escudo"
+  ],
+  "neg": [
+   "India",
+   "Maruti",
+   "Zeta",
+   "Alpha",
+   "Sigma",
+   "Hybrid",
+   "Nexa",
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026",
+   "2027",
+   "2028",
+   "2029",
+   "2030"
+  ],
+  "min_year": 2005
+ },
+ {
+  "slug": "opel-movano",
+  "name": "Opel Movano",
+  "titles": [
+   "Renault Master",
+   "Opel Movano B",
+   "Nissan Interstar",
+   "Opel Movano"
+  ],
+  "kw": [
+   "Movano"
+  ],
+  "neg": [],
+  "min_year": 2003
+ }
+]

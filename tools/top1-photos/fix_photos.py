@@ -3,7 +3,7 @@
 interior shot, or a license outside CC0 / public domain / CC BY / CC BY-SA).
 
 Run on the AIGEN station, from this folder, after fetch_photos.py:
-    python3 fix_photos.py          # picks a new photo for every entry of fixes.json, then rebuilds out/
+    python3 fix_photos.py [fixes-3.json]   # picks a new photo for every entry of the file, then rebuilds out/
 Reads fixes.json: for each model a list of exact Wikipedia article titles to try, filename keywords the photo must
 contain (kw), words it must not contain (neg) and the oldest model year allowed in the filename (min_year).
 Takes the article's infobox photo if it passes, otherwise the best matching photo on that article.
@@ -108,8 +108,8 @@ def pick(fx):
     return None, tried
 
 
-def main():
-    fixes = json.load(open(os.path.join(HERE, "fixes.json"), encoding="utf-8"))
+def main(path="fixes.json"):
+    fixes = json.load(open(os.path.join(HERE, path), encoding="utf-8"))
     cache_p = os.path.join(OUT, "cache.json")
     cache = json.load(open(cache_p, encoding="utf-8"))
     report = []
@@ -158,4 +158,5 @@ def review(fixes):
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    main(sys.argv[1] if len(sys.argv) > 1 else "fixes.json")
