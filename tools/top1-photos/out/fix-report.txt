@@ -1,7 +1,12 @@
- 1/7 Toyota Corolla                 OK 2024 Toyota Corolla LE in Classic Silver Metallic, front right.jpg
- 2/7 Citroen Jumper                 OK Citroën Jumper (2014) IMG 0456.jpg
- 3/7 Smart #1                       manual: no good free photo (Smart 1: no matching photo; Smart: no matching photo)
- 4/7 Lancia Delta                   OK 2012 Chrysler Delta SR MultiJet 1.6 Front.jpg
- 5/7 Hyundai ix35                   OK Hyundai Tucson 2.0 CRDi 4WD Premium (III) – Frontansicht, 5. September 2015, Düsseldorf (colour corrected).jpg
- 6/7 Suzuki Grand Vitara            OK Suzuki ESCUDO 5door V6-2.5 (LA-TD62W) front.jpg
- 7/7 Opel Movano                    OK 2015 Vauxhall Movano R3500 L4H3 CDTi 2.3 Front.jpg
+  1/12 Toyota Corolla E11                 OK [search: Toyota Corolla E110] Toyota Corolla E110 front 20080215.jpg
+  2/12 Toyota Corolla E12                 OK [search: Toyota Corolla E120] Toyota Corolla (E120) & Corolla Axio (E160) front.JPG
+  3/12 Toyota Corolla E15                 OK [search: Toyota Corolla E150] TOYOTA COROLLA (E150) China (4).jpg
+  4/12 Toyota Yaris XP10                  OK [search: Toyota Yaris XP10] 2000 Toyota Yaris GS 1.0 Front.jpg
+  5/12 Toyota Yaris XP90                  OK [search: Toyota Yaris XP90] Toyota Yaris NCP91 FL 1.5L Cosmo Red 01.jpg
+  6/12 Toyota Yaris XP130                 OK [search: Toyota Yaris XP130] Toyota Yaris (XP130) – Frontansicht, 21. Juli 2012, Heiligenhaus.jpg
+  7/12 Toyota Hilux 1988–1997             OK [Toyota Hilux] 1995 Toyota HiLux 4X4 Diesel 2.5 Front.jpg
+  8/12 Toyota Hilux 1997–2005             OK [search: Toyota Hilux (sixth generation)] Toyota Hilux DoubleCab 4WD (2001) (52093844042).jpg
+  9/12 Toyota Hilux 2005–2015             OK [search: Toyota Hilux (seventh generation)] Toyota Hilux 2.5D Double Cab (2014) (52171624241).jpg
+ 10/12 Toyota RAV4 XA20                   OK [Category:Toyota RAV4 (XA20)] Diplomatic license plate of Tunisia.jpg
+ 11/12 Toyota Avensis T25                 OK [Category:Toyota Avensis (T250)] Biserica Sf. Ioan Botezatorul din Iasi22.jpg
+ 12/12 Toyota Land Cruiser Prado J120     OK [search: Toyota Land Cruiser Prado J120] 2007 Toyota Land Cruiser Prado (GRJ120R) 01.jpg
