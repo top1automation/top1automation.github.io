@@ -2018,5 +2018,645 @@
 "slug": "lada-niva",
 "name": "Lada Niva",
 "q": "Lada Niva"
+},
+{
+"slug": "bmw-3-e30",
+"name": "BMW Σειρά 3 E30",
+"q": "BMW 3 Series (E30)"
+},
+{
+"slug": "bmw-3-e36",
+"name": "BMW Σειρά 3 E36",
+"q": "BMW 3 Series (E36)"
+},
+{
+"slug": "bmw-3-e46",
+"name": "BMW Σειρά 3 E46",
+"q": "BMW 3 Series (E46)"
+},
+{
+"slug": "bmw-3-e90",
+"name": "BMW Σειρά 3 E90",
+"q": "BMW 3 Series (E90)"
+},
+{
+"slug": "bmw-3-f30",
+"name": "BMW Σειρά 3 F30",
+"q": "BMW 3 Series (F30)"
+},
+{
+"slug": "bmw-5-e39",
+"name": "BMW Σειρά 5 E39",
+"q": "BMW 5 Series (E39)"
+},
+{
+"slug": "bmw-5-e60",
+"name": "BMW Σειρά 5 E60",
+"q": "BMW 5 Series (E60)"
+},
+{
+"slug": "bmw-1-e87",
+"name": "BMW Σειρά 1 E87",
+"q": "BMW 1 Series (E87)"
+},
+{
+"slug": "bmw-x5-e53",
+"name": "BMW X5 E53",
+"q": "BMW X5 (E53)"
+},
+{
+"slug": "mercedes-e-class-w124",
+"name": "Mercedes E-Class W124",
+"q": "Mercedes-Benz W124"
+},
+{
+"slug": "mercedes-c-class-w202",
+"name": "Mercedes C-Class W202",
+"q": "Mercedes-Benz C-Class (W202)"
+},
+{
+"slug": "mercedes-c-class-w203",
+"name": "Mercedes C-Class W203",
+"q": "Mercedes-Benz C-Class (W203)"
+},
+{
+"slug": "mercedes-c-class-w204",
+"name": "Mercedes C-Class W204",
+"q": "Mercedes-Benz C-Class (W204)"
+},
+{
+"slug": "mercedes-e-class-w210",
+"name": "Mercedes E-Class W210",
+"q": "Mercedes-Benz E-Class (W210)"
+},
+{
+"slug": "mercedes-e-class-w211",
+"name": "Mercedes E-Class W211",
+"q": "Mercedes-Benz E-Class (W211)"
+},
+{
+"slug": "mercedes-a-class-w168",
+"name": "Mercedes A-Class W168",
+"q": "Mercedes-Benz A-Class (W168)"
+},
+{
+"slug": "volkswagen-golf-2",
+"name": "Volkswagen Golf 2",
+"q": "Volkswagen Golf Mk2"
+},
+{
+"slug": "volkswagen-golf-3",
+"name": "Volkswagen Golf 3",
+"q": "Volkswagen Golf Mk3"
+},
+{
+"slug": "volkswagen-golf-4",
+"name": "Volkswagen Golf 4",
+"q": "Volkswagen Golf Mk4"
+},
+{
+"slug": "volkswagen-golf-5",
+"name": "Volkswagen Golf 5",
+"q": "Volkswagen Golf Mk5"
+},
+{
+"slug": "volkswagen-golf-6",
+"name": "Volkswagen Golf 6",
+"q": "Volkswagen Golf Mk6"
+},
+{
+"slug": "volkswagen-golf-7",
+"name": "Volkswagen Golf 7",
+"q": "Volkswagen Golf Mk7"
+},
+{
+"slug": "volkswagen-polo-6n",
+"name": "Volkswagen Polo 6N",
+"q": "Volkswagen Polo Mk3"
+},
+{
+"slug": "volkswagen-polo-9n",
+"name": "Volkswagen Polo 9N",
+"q": "Volkswagen Polo Mk4"
+},
+{
+"slug": "volkswagen-polo-6r",
+"name": "Volkswagen Polo 6R",
+"q": "Volkswagen Polo Mk5"
+},
+{
+"slug": "volkswagen-passat-b5",
+"name": "Volkswagen Passat B5",
+"q": "Volkswagen Passat (B5)"
+},
+{
+"slug": "volkswagen-passat-b6",
+"name": "Volkswagen Passat B6",
+"q": "Volkswagen Passat (B6)"
+},
+{
+"slug": "volkswagen-transporter-t4",
+"name": "Volkswagen Transporter T4",
+"q": "Volkswagen Transporter (T4)"
+},
+{
+"slug": "volkswagen-transporter-t5",
+"name": "Volkswagen Transporter T5",
+"q": "Volkswagen Transporter (T5)"
+},
+{
+"slug": "toyota-corolla-e11",
+"name": "Toyota Corolla E11",
+"q": "Toyota Corolla (E110)"
+},
+{
+"slug": "toyota-corolla-e12",
+"name": "Toyota Corolla E12",
+"q": "Toyota Corolla (E120)"
+},
+{
+"slug": "toyota-corolla-e15",
+"name": "Toyota Corolla E15",
+"q": "Toyota Corolla (E140)"
+},
+{
+"slug": "toyota-yaris-xp10",
+"name": "Toyota Yaris XP10",
+"q": "Toyota Yaris (XP10)"
+},
+{
+"slug": "toyota-yaris-xp90",
+"name": "Toyota Yaris XP90",
+"q": "Toyota Yaris (XP90)"
+},
+{
+"slug": "toyota-yaris-xp130",
+"name": "Toyota Yaris XP130",
+"q": "Toyota Yaris (XP130)"
+},
+{
+"slug": "toyota-hilux-1988-1997",
+"name": "Toyota Hilux 1988–1997",
+"q": "Toyota Hilux (fifth generation)"
+},
+{
+"slug": "toyota-hilux-1997-2005",
+"name": "Toyota Hilux 1997–2005",
+"q": "Toyota Hilux (sixth generation)"
+},
+{
+"slug": "toyota-hilux-2005-2015",
+"name": "Toyota Hilux 2005–2015",
+"q": "Toyota Hilux (N70)"
+},
+{
+"slug": "toyota-rav4-xa20",
+"name": "Toyota RAV4 XA20",
+"q": "Toyota RAV4 (XA20)"
+},
+{
+"slug": "toyota-avensis-t25",
+"name": "Toyota Avensis T25",
+"q": "Toyota Avensis (T250)"
+},
+{
+"slug": "opel-corsa-b",
+"name": "Opel Corsa B",
+"q": "Opel Corsa B"
+},
+{
+"slug": "opel-corsa-c",
+"name": "Opel Corsa C",
+"q": "Opel Corsa C"
+},
+{
+"slug": "opel-corsa-d",
+"name": "Opel Corsa D",
+"q": "Opel Corsa D"
+},
+{
+"slug": "opel-corsa-e",
+"name": "Opel Corsa E",
+"q": "Opel Corsa E"
+},
+{
+"slug": "opel-astra-f",
+"name": "Opel Astra F",
+"q": "Opel Astra F"
+},
+{
+"slug": "opel-astra-g",
+"name": "Opel Astra G",
+"q": "Opel Astra G"
+},
+{
+"slug": "opel-astra-h",
+"name": "Opel Astra H",
+"q": "Opel Astra H"
+},
+{
+"slug": "opel-astra-j",
+"name": "Opel Astra J",
+"q": "Opel Astra J"
+},
+{
+"slug": "opel-vectra-b",
+"name": "Opel Vectra B",
+"q": "Opel Vectra B"
+},
+{
+"slug": "opel-frontera",
+"name": "Opel Frontera",
+"q": "Opel Frontera"
+},
+{
+"slug": "ford-fiesta-mk4",
+"name": "Ford Fiesta Mk4",
+"q": "Ford Fiesta (fourth generation)"
+},
+{
+"slug": "ford-fiesta-mk5",
+"name": "Ford Fiesta Mk5",
+"q": "Ford Fiesta (fifth generation)"
+},
+{
+"slug": "ford-fiesta-mk6",
+"name": "Ford Fiesta Mk6",
+"q": "Ford Fiesta (sixth generation)"
+},
+{
+"slug": "ford-focus-mk1",
+"name": "Ford Focus Mk1",
+"q": "Ford Focus (first generation)"
+},
+{
+"slug": "ford-focus-mk2",
+"name": "Ford Focus Mk2",
+"q": "Ford Focus (second generation)"
+},
+{
+"slug": "ford-escort",
+"name": "Ford Escort",
+"q": "Ford Escort (Europe)"
+},
+{
+"slug": "ford-mondeo-mk3",
+"name": "Ford Mondeo Mk3",
+"q": "Ford Mondeo (third generation)"
+},
+{
+"slug": "fiat-punto-1993-1999",
+"name": "Fiat Punto 1993–1999",
+"q": "Fiat Punto (176)"
+},
+{
+"slug": "fiat-punto-1999-2010",
+"name": "Fiat Punto 1999–2010",
+"q": "Fiat Punto (188)"
+},
+{
+"slug": "fiat-panda-2003-2012",
+"name": "Fiat Panda 2003–2012",
+"q": "Fiat Panda (169)"
+},
+{
+"slug": "fiat-panda-1980-2003",
+"name": "Fiat Panda 1980–2003",
+"q": "Fiat Panda (141)"
+},
+{
+"slug": "fiat-stilo",
+"name": "Fiat Stilo",
+"q": "Fiat Stilo"
+},
+{
+"slug": "fiat-bravo-1995-2001",
+"name": "Fiat Bravo 1995–2001",
+"q": "Fiat Bravo and Brava"
+},
+{
+"slug": "fiat-marea",
+"name": "Fiat Marea",
+"q": "Fiat Marea"
+},
+{
+"slug": "fiat-cinquecento",
+"name": "Fiat Cinquecento",
+"q": "Fiat Cinquecento"
+},
+{
+"slug": "nissan-micra-k11",
+"name": "Nissan Micra K11",
+"q": "Nissan Micra (K11)"
+},
+{
+"slug": "nissan-micra-k12",
+"name": "Nissan Micra K12",
+"q": "Nissan Micra (K12)"
+},
+{
+"slug": "nissan-almera-n15",
+"name": "Nissan Almera N15",
+"q": "Nissan Almera (N15)"
+},
+{
+"slug": "nissan-almera-n16",
+"name": "Nissan Almera N16",
+"q": "Nissan Almera (N16)"
+},
+{
+"slug": "nissan-sunny-n14",
+"name": "Nissan Sunny N14",
+"q": "Nissan Sunny (N14)"
+},
+{
+"slug": "nissan-navara-d40",
+"name": "Nissan Navara D40",
+"q": "Nissan Navara (D40)"
+},
+{
+"slug": "nissan-pick-up-d21",
+"name": "Nissan Pick Up D21",
+"q": "Nissan D21"
+},
+{
+"slug": "nissan-qashqai-j10",
+"name": "Nissan Qashqai J10",
+"q": "Nissan Qashqai (J10)"
+},
+{
+"slug": "honda-civic-eg",
+"name": "Honda Civic EG",
+"q": "Honda Civic (fifth generation)"
+},
+{
+"slug": "honda-civic-ek",
+"name": "Honda Civic EK",
+"q": "Honda Civic (sixth generation)"
+},
+{
+"slug": "honda-civic-ep",
+"name": "Honda Civic EP",
+"q": "Honda Civic (seventh generation)"
+},
+{
+"slug": "honda-civic-fk",
+"name": "Honda Civic FK",
+"q": "Honda Civic (eighth generation)"
+},
+{
+"slug": "honda-jazz-2001-2008",
+"name": "Honda Jazz 2001–2008",
+"q": "Honda Fit (first generation)"
+},
+{
+"slug": "hyundai-accent-1994-2000",
+"name": "Hyundai Accent 1994–2000",
+"q": "Hyundai Accent (X3)"
+},
+{
+"slug": "hyundai-accent-2000-2005",
+"name": "Hyundai Accent 2000–2005",
+"q": "Hyundai Accent (LC)"
+},
+{
+"slug": "hyundai-tucson-2004-2010",
+"name": "Hyundai Tucson 2004–2010",
+"q": "Hyundai Tucson (JM)"
+},
+{
+"slug": "kia-rio-2000-2005",
+"name": "Kia Rio 2000–2005",
+"q": "Kia Rio (DC)"
+},
+{
+"slug": "kia-sportage-2004-2010",
+"name": "Kia Sportage 2004–2010",
+"q": "Kia Sportage (KM)"
+},
+{
+"slug": "mitsubishi-lancer-2003-2007",
+"name": "Mitsubishi Lancer 2003–2007",
+"q": "Mitsubishi Lancer (CS)"
+},
+{
+"slug": "mitsubishi-lancer-2007-2017",
+"name": "Mitsubishi Lancer 2007–2017",
+"q": "Mitsubishi Lancer (CY/CZ)"
+},
+{
+"slug": "mitsubishi-l200-2005-2015",
+"name": "Mitsubishi L200 2005–2015",
+"q": "Mitsubishi Triton (fourth generation)"
+},
+{
+"slug": "mitsubishi-l200-1996-2005",
+"name": "Mitsubishi L200 1996–2005",
+"q": "Mitsubishi Triton (third generation)"
+},
+{
+"slug": "mitsubishi-pajero-1991-1999",
+"name": "Mitsubishi Pajero 1991–1999",
+"q": "Mitsubishi Pajero (second generation)"
+},
+{
+"slug": "mitsubishi-colt-1995-2003",
+"name": "Mitsubishi Colt 1995–2003",
+"q": "Mitsubishi Mirage (fifth generation)"
+},
+{
+"slug": "peugeot-205",
+"name": "Peugeot 205",
+"q": "Peugeot 205"
+},
+{
+"slug": "peugeot-106",
+"name": "Peugeot 106",
+"q": "Peugeot 106"
+},
+{
+"slug": "peugeot-306",
+"name": "Peugeot 306",
+"q": "Peugeot 306"
+},
+{
+"slug": "peugeot-406",
+"name": "Peugeot 406",
+"q": "Peugeot 406"
+},
+{
+"slug": "peugeot-405",
+"name": "Peugeot 405",
+"q": "Peugeot 405"
+},
+{
+"slug": "citroen-xsara",
+"name": "Citroen Xsara",
+"q": "Citroën Xsara"
+},
+{
+"slug": "citroen-zx",
+"name": "Citroen ZX",
+"q": "Citroën ZX"
+},
+{
+"slug": "citroen-ax",
+"name": "Citroen AX",
+"q": "Citroën AX"
+},
+{
+"slug": "renault-clio-i",
+"name": "Renault Clio I",
+"q": "Renault Clio I"
+},
+{
+"slug": "renault-clio-ii",
+"name": "Renault Clio II",
+"q": "Renault Clio II"
+},
+{
+"slug": "renault-clio-iii",
+"name": "Renault Clio III",
+"q": "Renault Clio III"
+},
+{
+"slug": "renault-m-gane-i",
+"name": "Renault Mégane I",
+"q": "Renault Mégane I"
+},
+{
+"slug": "renault-m-gane-ii",
+"name": "Renault Mégane II",
+"q": "Renault Mégane II"
+},
+{
+"slug": "renault-19",
+"name": "Renault 19",
+"q": "Renault 19"
+},
+{
+"slug": "renault-twingo-i",
+"name": "Renault Twingo I",
+"q": "Renault Twingo I"
+},
+{
+"slug": "seat-ibiza-6k",
+"name": "Seat Ibiza 6K",
+"q": "SEAT Ibiza Mk2"
+},
+{
+"slug": "seat-ibiza-6l",
+"name": "Seat Ibiza 6L",
+"q": "SEAT Ibiza Mk3"
+},
+{
+"slug": "seat-ibiza-6j",
+"name": "Seat Ibiza 6J",
+"q": "SEAT Ibiza Mk4"
+},
+{
+"slug": "seat-leon-1m",
+"name": "Seat Leon 1M",
+"q": "SEAT León Mk1"
+},
+{
+"slug": "skoda-octavia-1u",
+"name": "Skoda Octavia 1U",
+"q": "Škoda Octavia (1U)"
+},
+{
+"slug": "skoda-fabia-6y",
+"name": "Skoda Fabia 6Y",
+"q": "Škoda Fabia Mk1"
+},
+{
+"slug": "skoda-felicia",
+"name": "Skoda Felicia",
+"q": "Škoda Felicia"
+},
+{
+"slug": "audi-a4-b5",
+"name": "Audi A4 B5",
+"q": "Audi A4 (B5)"
+},
+{
+"slug": "audi-a4-b6-b7",
+"name": "Audi A4 B6/B7",
+"q": "Audi A4 (B6)"
+},
+{
+"slug": "audi-a3-8l",
+"name": "Audi A3 8L",
+"q": "Audi A3 (8L)"
+},
+{
+"slug": "audi-a3-8p",
+"name": "Audi A3 8P",
+"q": "Audi A3 (8P)"
+},
+{
+"slug": "audi-a6-c5",
+"name": "Audi A6 C5",
+"q": "Audi A6 (C5)"
+},
+{
+"slug": "audi-80",
+"name": "Audi 80",
+"q": "Audi 80"
+},
+{
+"slug": "suzuki-swift-1989-2003",
+"name": "Suzuki Swift 1989–2003",
+"q": "Suzuki Cultus"
+},
+{
+"slug": "suzuki-swift-2005-2010",
+"name": "Suzuki Swift 2005–2010",
+"q": "Suzuki Swift (2004)"
+},
+{
+"slug": "suzuki-vitara-1988-1998",
+"name": "Suzuki Vitara 1988–1998",
+"q": "Suzuki Escudo"
+},
+{
+"slug": "mazda-626",
+"name": "Mazda 626",
+"q": "Mazda 626"
+},
+{
+"slug": "mazda-121",
+"name": "Mazda 121",
+"q": "Mazda 121"
+},
+{
+"slug": "isuzu-trooper",
+"name": "Isuzu Trooper",
+"q": "Isuzu Trooper"
+},
+{
+"slug": "jeep-cherokee-xj",
+"name": "Jeep Cherokee XJ",
+"q": "Jeep Cherokee (XJ)"
+},
+{
+"slug": "toyota-land-cruiser-prado-j120",
+"name": "Toyota Land Cruiser Prado J120",
+"q": "Toyota Land Cruiser Prado (J120)"
+},
+{
+"slug": "alfa-romeo-145-146",
+"name": "Alfa Romeo 145 / 146",
+"q": "Alfa Romeo 145 and 146"
+},
+{
+"slug": "alfa-romeo-33",
+"name": "Alfa Romeo 33",
+"q": "Alfa Romeo 33"
+},
+{
+"slug": "lancia-y-ypsilon-1995-2003",
+"name": "Lancia Y (Ypsilon) 1995–2003",
+"q": "Lancia Y"
 }
 ]

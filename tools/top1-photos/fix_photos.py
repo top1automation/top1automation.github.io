@@ -5,7 +5,8 @@ interior shot, or a license outside CC0 / public domain / CC BY / CC BY-SA).
 Run on the AIGEN station, from this folder, after fetch_photos.py:
     python3 fix_photos.py [fixes-3.json]   # picks a new photo for every entry of the file, then rebuilds out/
 Reads fixes.json: for each model a list of exact Wikipedia article titles to try, filename keywords the photo must
-contain (kw), words it must not contain (neg) and the oldest model year allowed in the filename (min_year).
+contain (kw), words it must not contain (neg), the oldest model year allowed in the filename (min_year) and,
+for older generations, the newest model year allowed (max_year).
 Takes the article's infobox photo if it passes, otherwise the best matching photo on that article.
 If nothing passes, the model gets no photo (the site shows its shape thumbnail instead).
 Only GET requests to en.wikipedia.org and commons.wikimedia.org, slowly; downloads happen in fetch_photos.main().
@@ -19,6 +20,9 @@ BAD = re.compile(r"interior|interieur|innenraum|innen|cockpit|dashboard|armature
                  r"badge|logo|emblem|wheel|felge|seats|sitze|trunk|kofferraum|steering|lenkrad|display|screen|"
                  r"taillight|headlight|scheinwerfer|detail|drawing|sketch|\.svg$|\.gif$|\.tif", re.I)
 YEAR = re.compile(r"(?<!\d)(19[5-9]\d|20[0-3]\d)(?!\d)")
+# model year as photographers write it: at the start ("1997 BMW 318i ...") or in brackets ("Golf (1998)");
+# a date later in the name is when the photo was taken, so it is not used for max_year
+MODEL_YEAR = re.compile(r"^(19[5-9]\d|20[0-3]\d)(?!\d)|\((19[5-9]\d|20[0-3]\d)(?!\d)")
 
 
 def ok_name(f, fx):
@@ -31,6 +35,9 @@ def ok_name(f, fx):
         return False
     ys = [int(y) for y in YEAR.findall(name)]
     if ys and min(ys) < fx.get("min_year", 0):
+        return False
+    my = MODEL_YEAR.search(name)
+    if my and fx.get("max_year") and int(my.group(1) or my.group(2)) > fx["max_year"] + 1:
         return False
     return True
 

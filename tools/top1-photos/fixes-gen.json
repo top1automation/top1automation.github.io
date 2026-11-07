@@ -1,0 +1,2532 @@
+[
+ {
+  "slug": "bmw-3-e30",
+  "name": "BMW Σειρά 3 E30",
+  "titles": [
+   "BMW 3 Series (E30)"
+  ],
+  "kw": [
+   "E30",
+   "3 Series",
+   "3er",
+   "318",
+   "320",
+   "325"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible"
+  ],
+  "min_year": 1982,
+  "max_year": 1994
+ },
+ {
+  "slug": "bmw-3-e36",
+  "name": "BMW Σειρά 3 E36",
+  "titles": [
+   "BMW 3 Series (E36)"
+  ],
+  "kw": [
+   "E36",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "323",
+   "325",
+   "328"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "GTR"
+  ],
+  "min_year": 1990,
+  "max_year": 2000
+ },
+ {
+  "slug": "bmw-3-e46",
+  "name": "BMW Σειρά 3 E46",
+  "titles": [
+   "BMW 3 Series (E46)"
+  ],
+  "kw": [
+   "E46",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "325",
+   "330"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "GTR"
+  ],
+  "min_year": 1998,
+  "max_year": 2007
+ },
+ {
+  "slug": "bmw-3-e90",
+  "name": "BMW Σειρά 3 E90",
+  "titles": [
+   "BMW 3 Series (E90)"
+  ],
+  "kw": [
+   "E90",
+   "E91",
+   "E92",
+   "3 Series",
+   "3er",
+   "318",
+   "320",
+   "325",
+   "330"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "GT2",
+   "GT4",
+   "WTCC"
+  ],
+  "min_year": 2005,
+  "max_year": 2013
+ },
+ {
+  "slug": "bmw-3-f30",
+  "name": "BMW Σειρά 3 F30",
+  "titles": [
+   "BMW 3 Series (F30)"
+  ],
+  "kw": [
+   "F30",
+   "F31",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "328",
+   "330"
+  ],
+  "neg": [
+   "GT",
+   "Gran Turismo",
+   "M3"
+  ],
+  "min_year": 2012,
+  "max_year": 2019
+ },
+ {
+  "slug": "bmw-5-e39",
+  "name": "BMW Σειρά 5 E39",
+  "titles": [
+   "BMW 5 Series (E39)"
+  ],
+  "kw": [
+   "E39",
+   "5 Series",
+   "5er",
+   "520",
+   "523",
+   "525",
+   "528",
+   "530",
+   "535",
+   "540"
+  ],
+  "neg": [
+   "M5"
+  ],
+  "min_year": 1995,
+  "max_year": 2004
+ },
+ {
+  "slug": "bmw-5-e60",
+  "name": "BMW Σειρά 5 E60",
+  "titles": [
+   "BMW 5 Series (E60)"
+  ],
+  "kw": [
+   "E60",
+   "E61",
+   "5 Series",
+   "5er",
+   "520",
+   "523",
+   "525",
+   "530",
+   "535",
+   "545",
+   "550"
+  ],
+  "neg": [
+   "M5"
+  ],
+  "min_year": 2003,
+  "max_year": 2010
+ },
+ {
+  "slug": "bmw-1-e87",
+  "name": "BMW Σειρά 1 E87",
+  "titles": [
+   "BMW 1 Series (E87)"
+  ],
+  "kw": [
+   "E87",
+   "E81",
+   "1 Series",
+   "1er",
+   "116",
+   "118",
+   "120",
+   "123",
+   "130"
+  ],
+  "neg": [
+   "Coupé",
+   "Coupe",
+   "Cabrio",
+   "E82",
+   "E88",
+   "M"
+  ],
+  "min_year": 2004,
+  "max_year": 2012
+ },
+ {
+  "slug": "bmw-x5-e53",
+  "name": "BMW X5 E53",
+  "titles": [
+   "BMW X5 (E53)"
+  ],
+  "kw": [
+   "E53",
+   "X5"
+  ],
+  "neg": [
+   "Le Mans"
+  ],
+  "min_year": 1999,
+  "max_year": 2007
+ },
+ {
+  "slug": "mercedes-e-class-w124",
+  "name": "Mercedes E-Class W124",
+  "titles": [
+   "Mercedes-Benz W124",
+   "Mercedes-Benz E-Class (W124)"
+  ],
+  "kw": [
+   "W124",
+   "W 124",
+   "200",
+   "230",
+   "250",
+   "260",
+   "300",
+   "E 2",
+   "E 3",
+   "E2",
+   "E3"
+  ],
+  "neg": [
+   "500 E",
+   "500E",
+   "E 500",
+   "E500",
+   "Cabrio",
+   "taxi",
+   "Taxi"
+  ],
+  "min_year": 1984,
+  "max_year": 1997
+ },
+ {
+  "slug": "mercedes-c-class-w202",
+  "name": "Mercedes C-Class W202",
+  "titles": [
+   "Mercedes-Benz C-Class (W202)"
+  ],
+  "kw": [
+   "W202",
+   "W 202",
+   "C 1",
+   "C 2",
+   "C 3",
+   "C180",
+   "C200",
+   "C220",
+   "C-Klasse",
+   "C-Class"
+  ],
+  "neg": [
+   "AMG",
+   "DTM",
+   "C 36",
+   "C 43"
+  ],
+  "min_year": 1993,
+  "max_year": 2001
+ },
+ {
+  "slug": "mercedes-c-class-w203",
+  "name": "Mercedes C-Class W203",
+  "titles": [
+   "Mercedes-Benz C-Class (W203)"
+  ],
+  "kw": [
+   "W203",
+   "W 203",
+   "C 1",
+   "C 2",
+   "C 3",
+   "C180",
+   "C200",
+   "C220",
+   "C-Klasse",
+   "C-Class"
+  ],
+  "neg": [
+   "AMG",
+   "DTM",
+   "C 32",
+   "C 55"
+  ],
+  "min_year": 2000,
+  "max_year": 2008
+ },
+ {
+  "slug": "mercedes-c-class-w204",
+  "name": "Mercedes C-Class W204",
+  "titles": [
+   "Mercedes-Benz C-Class (W204)"
+  ],
+  "kw": [
+   "W204",
+   "W 204",
+   "C 1",
+   "C 2",
+   "C 3",
+   "C180",
+   "C200",
+   "C220",
+   "C250",
+   "C-Klasse",
+   "C-Class"
+  ],
+  "neg": [
+   "AMG",
+   "DTM",
+   "C 63",
+   "C63",
+   "Black Series"
+  ],
+  "min_year": 2007,
+  "max_year": 2015
+ },
+ {
+  "slug": "mercedes-e-class-w210",
+  "name": "Mercedes E-Class W210",
+  "titles": [
+   "Mercedes-Benz E-Class (W210)"
+  ],
+  "kw": [
+   "W210",
+   "W 210",
+   "E 2",
+   "E 3",
+   "E200",
+   "E220",
+   "E230",
+   "E240",
+   "E290",
+   "E300",
+   "E320",
+   "E-Klasse",
+   "E-Class"
+  ],
+  "neg": [
+   "AMG",
+   "E 55",
+   "E55",
+   "taxi",
+   "Taxi"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "mercedes-e-class-w211",
+  "name": "Mercedes E-Class W211",
+  "titles": [
+   "Mercedes-Benz E-Class (W211)"
+  ],
+  "kw": [
+   "W211",
+   "W 211",
+   "E 2",
+   "E 3",
+   "E200",
+   "E220",
+   "E270",
+   "E280",
+   "E320",
+   "E350",
+   "E-Klasse",
+   "E-Class"
+  ],
+  "neg": [
+   "AMG",
+   "E 63",
+   "E63",
+   "taxi",
+   "Taxi"
+  ],
+  "min_year": 2002,
+  "max_year": 2009
+ },
+ {
+  "slug": "mercedes-a-class-w168",
+  "name": "Mercedes A-Class W168",
+  "titles": [
+   "Mercedes-Benz A-Class (W168)"
+  ],
+  "kw": [
+   "W168",
+   "W 168",
+   "A 1",
+   "A140",
+   "A160",
+   "A170",
+   "A190",
+   "A-Klasse",
+   "A-Class"
+  ],
+  "neg": [],
+  "min_year": 1997,
+  "max_year": 2005
+ },
+ {
+  "slug": "volkswagen-golf-2",
+  "name": "Volkswagen Golf 2",
+  "titles": [
+   "Volkswagen Golf Mk2"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "GTI 16V Rallye",
+   "Rallye",
+   "Country",
+   "Cabrio",
+   "Jetta"
+  ],
+  "min_year": 1983,
+  "max_year": 1992
+ },
+ {
+  "slug": "volkswagen-golf-3",
+  "name": "Volkswagen Golf 3",
+  "titles": [
+   "Volkswagen Golf Mk3"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Cabrio",
+   "Jetta",
+   "Vento"
+  ],
+  "min_year": 1991,
+  "max_year": 1999
+ },
+ {
+  "slug": "volkswagen-golf-4",
+  "name": "Volkswagen Golf 4",
+  "titles": [
+   "Volkswagen Golf Mk4"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Cabrio",
+   "Bora",
+   "Jetta",
+   "R32"
+  ],
+  "min_year": 1997,
+  "max_year": 2006
+ },
+ {
+  "slug": "volkswagen-golf-5",
+  "name": "Volkswagen Golf 5",
+  "titles": [
+   "Volkswagen Golf Mk5"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Plus",
+   "Jetta",
+   "R32",
+   "GTI W12"
+  ],
+  "min_year": 2003,
+  "max_year": 2009
+ },
+ {
+  "slug": "volkswagen-golf-6",
+  "name": "Volkswagen Golf 6",
+  "titles": [
+   "Volkswagen Golf Mk6"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Plus",
+   "Cabrio",
+   "Jetta",
+   "R"
+  ],
+  "min_year": 2008,
+  "max_year": 2014
+ },
+ {
+  "slug": "volkswagen-golf-7",
+  "name": "Volkswagen Golf 7",
+  "titles": [
+   "Volkswagen Golf Mk7"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Sportsvan",
+   "e-Golf",
+   "R ",
+   "GTI TCR"
+  ],
+  "min_year": 2012,
+  "max_year": 2020
+ },
+ {
+  "slug": "volkswagen-polo-6n",
+  "name": "Volkswagen Polo 6N",
+  "titles": [
+   "Volkswagen Polo Mk3"
+  ],
+  "kw": [
+   "Polo"
+  ],
+  "neg": [
+   "Classic",
+   "Variant",
+   "Harlekin"
+  ],
+  "min_year": 1994,
+  "max_year": 2002
+ },
+ {
+  "slug": "volkswagen-polo-9n",
+  "name": "Volkswagen Polo 9N",
+  "titles": [
+   "Volkswagen Polo Mk4"
+  ],
+  "kw": [
+   "Polo"
+  ],
+  "neg": [
+   "Sedan",
+   "Cross",
+   "GTI"
+  ],
+  "min_year": 2001,
+  "max_year": 2009
+ },
+ {
+  "slug": "volkswagen-polo-6r",
+  "name": "Volkswagen Polo 6R",
+  "titles": [
+   "Volkswagen Polo Mk5"
+  ],
+  "kw": [
+   "Polo"
+  ],
+  "neg": [
+   "Sedan",
+   "Vento",
+   "R WRC",
+   "WRC",
+   "Cross"
+  ],
+  "min_year": 2009,
+  "max_year": 2017
+ },
+ {
+  "slug": "volkswagen-passat-b5",
+  "name": "Volkswagen Passat B5",
+  "titles": [
+   "Volkswagen Passat (B5)"
+  ],
+  "kw": [
+   "Passat"
+  ],
+  "neg": [
+   "W8"
+  ],
+  "min_year": 1996,
+  "max_year": 2005
+ },
+ {
+  "slug": "volkswagen-passat-b6",
+  "name": "Volkswagen Passat B6",
+  "titles": [
+   "Volkswagen Passat (B6)"
+  ],
+  "kw": [
+   "Passat"
+  ],
+  "neg": [
+   "CC"
+  ],
+  "min_year": 2005,
+  "max_year": 2011
+ },
+ {
+  "slug": "volkswagen-transporter-t4",
+  "name": "Volkswagen Transporter T4",
+  "titles": [
+   "Volkswagen Transporter (T4)"
+  ],
+  "kw": [
+   "T4",
+   "Transporter",
+   "Caravelle",
+   "Multivan"
+  ],
+  "neg": [
+   "California",
+   "Camper"
+  ],
+  "min_year": 1990,
+  "max_year": 2003
+ },
+ {
+  "slug": "volkswagen-transporter-t5",
+  "name": "Volkswagen Transporter T5",
+  "titles": [
+   "Volkswagen Transporter (T5)"
+  ],
+  "kw": [
+   "T5",
+   "Transporter",
+   "Caravelle",
+   "Multivan"
+  ],
+  "neg": [
+   "California",
+   "Camper",
+   "Amarok"
+  ],
+  "min_year": 2003,
+  "max_year": 2015
+ },
+ {
+  "slug": "toyota-corolla-e11",
+  "name": "Toyota Corolla E11",
+  "titles": [
+   "Toyota Corolla (E110)"
+  ],
+  "kw": [
+   "Corolla",
+   "E11"
+  ],
+  "neg": [
+   "Levin",
+   "Trueno",
+   "Spacio",
+   "WRC"
+  ],
+  "min_year": 1995,
+  "max_year": 2002
+ },
+ {
+  "slug": "toyota-corolla-e12",
+  "name": "Toyota Corolla E12",
+  "titles": [
+   "Toyota Corolla (E120)"
+  ],
+  "kw": [
+   "Corolla",
+   "E12"
+  ],
+  "neg": [
+   "Verso",
+   "Spacio",
+   "Fielder",
+   "Altis",
+   "Runx",
+   "Allex",
+   "WRC"
+  ],
+  "min_year": 2000,
+  "max_year": 2008
+ },
+ {
+  "slug": "toyota-corolla-e15",
+  "name": "Toyota Corolla E15",
+  "titles": [
+   "Toyota Corolla (E140)",
+   "Toyota Corolla (E150)"
+  ],
+  "kw": [
+   "Corolla"
+  ],
+  "neg": [
+   "Fielder",
+   "Axio",
+   "Rumion",
+   "Auris",
+   "Altis",
+   "Levin"
+  ],
+  "min_year": 2006,
+  "max_year": 2014
+ },
+ {
+  "slug": "toyota-yaris-xp10",
+  "name": "Toyota Yaris XP10",
+  "titles": [
+   "Toyota Yaris (XP10)",
+   "Toyota Vitz (XP10)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz",
+   "Echo"
+  ],
+  "neg": [
+   "Verso",
+   "Sedan",
+   "sedan",
+   "Platz",
+   "WRC"
+  ],
+  "min_year": 1999,
+  "max_year": 2006
+ },
+ {
+  "slug": "toyota-yaris-xp90",
+  "name": "Toyota Yaris XP90",
+  "titles": [
+   "Toyota Yaris (XP90)",
+   "Toyota Vitz (XP90)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "Belta",
+   "Vios"
+  ],
+  "min_year": 2005,
+  "max_year": 2012
+ },
+ {
+  "slug": "toyota-yaris-xp130",
+  "name": "Toyota Yaris XP130",
+  "titles": [
+   "Toyota Yaris (XP130)",
+   "Toyota Vitz (XP130)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "WRC",
+   "GRMN",
+   "iA"
+  ],
+  "min_year": 2011,
+  "max_year": 2020
+ },
+ {
+  "slug": "toyota-hilux-1988-1997",
+  "name": "Toyota Hilux 1988–1997",
+  "titles": [
+   "Toyota Hilux (fifth generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux",
+   "LN"
+  ],
+  "neg": [
+   "Surf",
+   "4Runner",
+   "Champ"
+  ],
+  "min_year": 1988,
+  "max_year": 1997
+ },
+ {
+  "slug": "toyota-hilux-1997-2005",
+  "name": "Toyota Hilux 1997–2005",
+  "titles": [
+   "Toyota Hilux (sixth generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Surf",
+   "4Runner",
+   "Champ",
+   "Tiger"
+  ],
+  "min_year": 1997,
+  "max_year": 2005
+ },
+ {
+  "slug": "toyota-hilux-2005-2015",
+  "name": "Toyota Hilux 2005–2015",
+  "titles": [
+   "Toyota Hilux (N70)",
+   "Toyota Hilux (seventh generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Champ",
+   "Revo",
+   "Arctic",
+   "Surf"
+  ],
+  "min_year": 2005,
+  "max_year": 2015
+ },
+ {
+  "slug": "toyota-rav4-xa20",
+  "name": "Toyota RAV4 XA20",
+  "titles": [
+   "Toyota RAV4 (XA20)"
+  ],
+  "kw": [
+   "RAV4",
+   "RAV 4",
+   "XA20"
+  ],
+  "neg": [
+   "EV"
+  ],
+  "min_year": 2000,
+  "max_year": 2006
+ },
+ {
+  "slug": "toyota-avensis-t25",
+  "name": "Toyota Avensis T25",
+  "titles": [
+   "Toyota Avensis (T250)"
+  ],
+  "kw": [
+   "Avensis",
+   "T25"
+  ],
+  "neg": [],
+  "min_year": 2003,
+  "max_year": 2009
+ },
+ {
+  "slug": "opel-corsa-b",
+  "name": "Opel Corsa B",
+  "titles": [
+   "Opel Corsa B"
+  ],
+  "kw": [
+   "Corsa"
+  ],
+  "neg": [
+   "Combo",
+   "Tigra",
+   "Sedan",
+   "Utility",
+   "Classic",
+   "Kit Car",
+   "Rally"
+  ],
+  "min_year": 1993,
+  "max_year": 2001
+ },
+ {
+  "slug": "opel-corsa-c",
+  "name": "Opel Corsa C",
+  "titles": [
+   "Opel Corsa C"
+  ],
+  "kw": [
+   "Corsa"
+  ],
+  "neg": [
+   "Combo",
+   "Tigra",
+   "Sedan",
+   "Utility",
+   "Classic",
+   "Rally",
+   "Meriva"
+  ],
+  "min_year": 2000,
+  "max_year": 2007
+ },
+ {
+  "slug": "opel-corsa-d",
+  "name": "Opel Corsa D",
+  "titles": [
+   "Opel Corsa D"
+  ],
+  "kw": [
+   "Corsa"
+  ],
+  "neg": [
+   "OPC Nürburgring",
+   "Rally",
+   "Combo",
+   "Utility",
+   "Utilitaire"
+  ],
+  "min_year": 2006,
+  "max_year": 2015
+ },
+ {
+  "slug": "opel-corsa-e",
+  "name": "Opel Corsa E",
+  "titles": [
+   "Opel Corsa E"
+  ],
+  "kw": [
+   "Corsa"
+  ],
+  "neg": [
+   "Rally",
+   "R2"
+  ],
+  "min_year": 2014,
+  "max_year": 2019
+ },
+ {
+  "slug": "opel-astra-f",
+  "name": "Opel Astra F",
+  "titles": [
+   "Opel Astra F"
+  ],
+  "kw": [
+   "Astra"
+  ],
+  "neg": [
+   "Cabrio",
+   "Van",
+   "Vectra",
+   "Kadett"
+  ],
+  "min_year": 1991,
+  "max_year": 2002
+ },
+ {
+  "slug": "opel-astra-g",
+  "name": "Opel Astra G",
+  "titles": [
+   "Opel Astra G"
+  ],
+  "kw": [
+   "Astra"
+  ],
+  "neg": [
+   "Cabrio",
+   "Coupé",
+   "Coupe",
+   "Van",
+   "OPC",
+   "Classic",
+   "DTM",
+   "V8"
+  ],
+  "min_year": 1998,
+  "max_year": 2005
+ },
+ {
+  "slug": "opel-astra-h",
+  "name": "Opel Astra H",
+  "titles": [
+   "Opel Astra H"
+  ],
+  "kw": [
+   "Astra"
+  ],
+  "neg": [
+   "TwinTop",
+   "Van",
+   "OPC",
+   "Classic",
+   "GTC"
+  ],
+  "min_year": 2004,
+  "max_year": 2011
+ },
+ {
+  "slug": "opel-astra-j",
+  "name": "Opel Astra J",
+  "titles": [
+   "Opel Astra J"
+  ],
+  "kw": [
+   "Astra"
+  ],
+  "neg": [
+   "OPC",
+   "GTC",
+   "Sedan"
+  ],
+  "min_year": 2009,
+  "max_year": 2016
+ },
+ {
+  "slug": "opel-vectra-b",
+  "name": "Opel Vectra B",
+  "titles": [
+   "Opel Vectra B"
+  ],
+  "kw": [
+   "Vectra"
+  ],
+  "neg": [
+   "BTCC",
+   "STW",
+   "Touring Car"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "opel-frontera",
+  "name": "Opel Frontera",
+  "titles": [
+   "Opel Frontera"
+  ],
+  "kw": [
+   "Frontera"
+  ],
+  "neg": [],
+  "min_year": 1991,
+  "max_year": 2004
+ },
+ {
+  "slug": "ford-fiesta-mk4",
+  "name": "Ford Fiesta Mk4",
+  "titles": [
+   "Ford Fiesta (fourth generation)",
+   "Ford Fiesta Mk4"
+  ],
+  "kw": [
+   "Fiesta"
+  ],
+  "neg": [
+   "Courier",
+   "Van",
+   "Rally",
+   "Ikon",
+   "Mazda"
+  ],
+  "min_year": 1995,
+  "max_year": 2002
+ },
+ {
+  "slug": "ford-fiesta-mk5",
+  "name": "Ford Fiesta Mk5",
+  "titles": [
+   "Ford Fiesta (fifth generation)",
+   "Ford Fiesta Mk5"
+  ],
+  "kw": [
+   "Fiesta"
+  ],
+  "neg": [
+   "Rally",
+   "Ikon",
+   "Sedan",
+   "sedan",
+   "ST "
+  ],
+  "min_year": 2001,
+  "max_year": 2008
+ },
+ {
+  "slug": "ford-fiesta-mk6",
+  "name": "Ford Fiesta Mk6",
+  "titles": [
+   "Ford Fiesta (sixth generation)",
+   "Ford Fiesta Mk6"
+  ],
+  "kw": [
+   "Fiesta"
+  ],
+  "neg": [
+   "Rally",
+   "WRC",
+   "Sedan",
+   "sedan",
+   "R5",
+   "RS"
+  ],
+  "min_year": 2008,
+  "max_year": 2017
+ },
+ {
+  "slug": "ford-focus-mk1",
+  "name": "Ford Focus Mk1",
+  "titles": [
+   "Ford Focus (first generation)"
+  ],
+  "kw": [
+   "Focus"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "RS",
+   "Sedan",
+   "BTCC"
+  ],
+  "min_year": 1998,
+  "max_year": 2005
+ },
+ {
+  "slug": "ford-focus-mk2",
+  "name": "Ford Focus Mk2",
+  "titles": [
+   "Ford Focus (second generation)"
+  ],
+  "kw": [
+   "Focus"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "RS",
+   "ST",
+   "Coupé",
+   "CC",
+   "BTCC",
+   "C-Max"
+  ],
+  "min_year": 2004,
+  "max_year": 2012
+ },
+ {
+  "slug": "ford-escort",
+  "name": "Ford Escort",
+  "titles": [
+   "Ford Escort (Europe)"
+  ],
+  "kw": [
+   "Escort"
+  ],
+  "neg": [
+   "RS",
+   "Cosworth",
+   "Mexico",
+   "Rally",
+   "WRC",
+   "Van",
+   "Cabrio",
+   "XR3"
+  ],
+  "min_year": 1990,
+  "max_year": 2002
+ },
+ {
+  "slug": "ford-mondeo-mk3",
+  "name": "Ford Mondeo Mk3",
+  "titles": [
+   "Ford Mondeo (third generation)"
+  ],
+  "kw": [
+   "Mondeo"
+  ],
+  "neg": [
+   "BTCC",
+   "ST220"
+  ],
+  "min_year": 2000,
+  "max_year": 2007
+ },
+ {
+  "slug": "fiat-punto-1993-1999",
+  "name": "Fiat Punto 1993–1999",
+  "titles": [
+   "Fiat Punto (176)",
+   "Fiat Punto"
+  ],
+  "kw": [
+   "Punto"
+  ],
+  "neg": [
+   "Grande",
+   "Evo",
+   "Cabrio",
+   "Abarth",
+   "Rally",
+   "Kit"
+  ],
+  "min_year": 1993,
+  "max_year": 1999
+ },
+ {
+  "slug": "fiat-punto-1999-2010",
+  "name": "Fiat Punto 1999–2010",
+  "titles": [
+   "Fiat Punto (188)",
+   "Fiat Punto"
+  ],
+  "kw": [
+   "Punto"
+  ],
+  "neg": [
+   "Grande",
+   "Evo",
+   "Abarth",
+   "Rally",
+   "Super 1600",
+   "Van"
+  ],
+  "min_year": 1999,
+  "max_year": 2010
+ },
+ {
+  "slug": "fiat-panda-2003-2012",
+  "name": "Fiat Panda 2003–2012",
+  "titles": [
+   "Fiat Panda (169)",
+   "Fiat Panda"
+  ],
+  "kw": [
+   "Panda"
+  ],
+  "neg": [
+   "Cross",
+   "Rally",
+   "Alessi",
+   "100HP"
+  ],
+  "min_year": 2003,
+  "max_year": 2012
+ },
+ {
+  "slug": "fiat-panda-1980-2003",
+  "name": "Fiat Panda 1980–2003",
+  "titles": [
+   "Fiat Panda (141)",
+   "Fiat Panda"
+  ],
+  "kw": [
+   "Panda"
+  ],
+  "neg": [
+   "Cross",
+   "Rally",
+   "Van"
+  ],
+  "min_year": 1980,
+  "max_year": 2003
+ },
+ {
+  "slug": "fiat-stilo",
+  "name": "Fiat Stilo",
+  "titles": [
+   "Fiat Stilo"
+  ],
+  "kw": [
+   "Stilo"
+  ],
+  "neg": [
+   "Abarth",
+   "Rally",
+   "S1600"
+  ],
+  "min_year": 2001,
+  "max_year": 2008
+ },
+ {
+  "slug": "fiat-bravo-1995-2001",
+  "name": "Fiat Bravo 1995–2001",
+  "titles": [
+   "Fiat Bravo and Brava"
+  ],
+  "kw": [
+   "Bravo",
+   "Brava"
+  ],
+  "neg": [
+   "Rally",
+   "Kit"
+  ],
+  "min_year": 1995,
+  "max_year": 2002
+ },
+ {
+  "slug": "fiat-marea",
+  "name": "Fiat Marea",
+  "titles": [
+   "Fiat Marea"
+  ],
+  "kw": [
+   "Marea"
+  ],
+  "neg": [],
+  "min_year": 1996,
+  "max_year": 2007
+ },
+ {
+  "slug": "fiat-cinquecento",
+  "name": "Fiat Cinquecento",
+  "titles": [
+   "Fiat Cinquecento"
+  ],
+  "kw": [
+   "Cinquecento"
+  ],
+  "neg": [
+   "Trofeo",
+   "Rally"
+  ],
+  "min_year": 1991,
+  "max_year": 1998
+ },
+ {
+  "slug": "nissan-micra-k11",
+  "name": "Nissan Micra K11",
+  "titles": [
+   "Nissan Micra (K11)"
+  ],
+  "kw": [
+   "Micra",
+   "March",
+   "K11"
+  ],
+  "neg": [
+   "C+C",
+   "Cabrio",
+   "Box",
+   "Rally"
+  ],
+  "min_year": 1992,
+  "max_year": 2003
+ },
+ {
+  "slug": "nissan-micra-k12",
+  "name": "Nissan Micra K12",
+  "titles": [
+   "Nissan Micra (K12)"
+  ],
+  "kw": [
+   "Micra",
+   "March",
+   "K12"
+  ],
+  "neg": [
+   "C+C",
+   "CC",
+   "Cabrio",
+   "Rally"
+  ],
+  "min_year": 2002,
+  "max_year": 2010
+ },
+ {
+  "slug": "nissan-almera-n15",
+  "name": "Nissan Almera N15",
+  "titles": [
+   "Nissan Almera (N15)",
+   "Nissan Almera"
+  ],
+  "kw": [
+   "Almera",
+   "Pulsar",
+   "N15"
+  ],
+  "neg": [
+   "GTI",
+   "BTCC",
+   "Tino"
+  ],
+  "min_year": 1995,
+  "max_year": 2000
+ },
+ {
+  "slug": "nissan-almera-n16",
+  "name": "Nissan Almera N16",
+  "titles": [
+   "Nissan Almera (N16)",
+   "Nissan Almera"
+  ],
+  "kw": [
+   "Almera",
+   "Bluebird Sylphy",
+   "N16"
+  ],
+  "neg": [
+   "Tino",
+   "Classic",
+   "BTCC"
+  ],
+  "min_year": 2000,
+  "max_year": 2007
+ },
+ {
+  "slug": "nissan-sunny-n14",
+  "name": "Nissan Sunny N14",
+  "titles": [
+   "Nissan Sunny (N14)",
+   "Nissan Pulsar (N14)"
+  ],
+  "kw": [
+   "Sunny",
+   "Pulsar",
+   "N14"
+  ],
+  "neg": [
+   "GTI-R",
+   "GTi-R",
+   "Rally"
+  ],
+  "min_year": 1990,
+  "max_year": 1996
+ },
+ {
+  "slug": "nissan-navara-d40",
+  "name": "Nissan Navara D40",
+  "titles": [
+   "Nissan Navara (D40)"
+  ],
+  "kw": [
+   "Navara",
+   "Frontier",
+   "D40"
+  ],
+  "neg": [
+   "Pathfinder",
+   "Paladin",
+   "Xterra"
+  ],
+  "min_year": 2005,
+  "max_year": 2016
+ },
+ {
+  "slug": "nissan-pick-up-d21",
+  "name": "Nissan Pick Up D21",
+  "titles": [
+   "Nissan D21",
+   "Nissan Hardbody"
+  ],
+  "kw": [
+   "D21",
+   "Hardbody",
+   "Pick",
+   "Navara",
+   "Datsun",
+   "King Cab"
+  ],
+  "neg": [
+   "Pathfinder",
+   "Terrano"
+  ],
+  "min_year": 1985,
+  "max_year": 2015
+ },
+ {
+  "slug": "nissan-qashqai-j10",
+  "name": "Nissan Qashqai J10",
+  "titles": [
+   "Nissan Qashqai (J10)"
+  ],
+  "kw": [
+   "Qashqai",
+   "Dualis",
+   "J10"
+  ],
+  "neg": [
+   "+2",
+   "Rogue"
+  ],
+  "min_year": 2006,
+  "max_year": 2014
+ },
+ {
+  "slug": "honda-civic-eg",
+  "name": "Honda Civic EG",
+  "titles": [
+   "Honda Civic (fifth generation)"
+  ],
+  "kw": [
+   "Civic"
+  ],
+  "neg": [
+   "del Sol",
+   "Del Sol",
+   "Coupé",
+   "Coupe",
+   "Ferio"
+  ],
+  "min_year": 1991,
+  "max_year": 1996
+ },
+ {
+  "slug": "honda-civic-ek",
+  "name": "Honda Civic EK",
+  "titles": [
+   "Honda Civic (sixth generation)"
+  ],
+  "kw": [
+   "Civic"
+  ],
+  "neg": [
+   "Coupé",
+   "Coupe",
+   "Type R",
+   "Aerodeck",
+   "Ferio"
+  ],
+  "min_year": 1995,
+  "max_year": 2001
+ },
+ {
+  "slug": "honda-civic-ep",
+  "name": "Honda Civic EP",
+  "titles": [
+   "Honda Civic (seventh generation)"
+  ],
+  "kw": [
+   "Civic"
+  ],
+  "neg": [
+   "Coupé",
+   "Coupe",
+   "Type R",
+   "Hybrid",
+   "Ferio",
+   "Si "
+  ],
+  "min_year": 2000,
+  "max_year": 2006
+ },
+ {
+  "slug": "honda-civic-fk",
+  "name": "Honda Civic FK",
+  "titles": [
+   "Honda Civic (eighth generation)"
+  ],
+  "kw": [
+   "Civic"
+  ],
+  "neg": [
+   "Coupé",
+   "Coupe",
+   "Type R",
+   "Hybrid",
+   "Si ",
+   "BTCC",
+   "WTCC"
+  ],
+  "min_year": 2005,
+  "max_year": 2012
+ },
+ {
+  "slug": "honda-jazz-2001-2008",
+  "name": "Honda Jazz 2001–2008",
+  "titles": [
+   "Honda Fit (first generation)",
+   "Honda Jazz (first generation)"
+  ],
+  "kw": [
+   "Jazz",
+   "Fit"
+  ],
+  "neg": [
+   "Aria",
+   "Sedan",
+   "sedan",
+   "Shuttle"
+  ],
+  "min_year": 2001,
+  "max_year": 2009
+ },
+ {
+  "slug": "hyundai-accent-1994-2000",
+  "name": "Hyundai Accent 1994–2000",
+  "titles": [
+   "Hyundai Accent (X3)",
+   "Hyundai Accent (first generation)"
+  ],
+  "kw": [
+   "Accent",
+   "Excel",
+   "Pony"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "Coupe"
+  ],
+  "min_year": 1994,
+  "max_year": 2000
+ },
+ {
+  "slug": "hyundai-accent-2000-2005",
+  "name": "Hyundai Accent 2000–2005",
+  "titles": [
+   "Hyundai Accent (LC)",
+   "Hyundai Accent (second generation)"
+  ],
+  "kw": [
+   "Accent",
+   "Verna"
+  ],
+  "neg": [
+   "WRC",
+   "Rally"
+  ],
+  "min_year": 1999,
+  "max_year": 2006
+ },
+ {
+  "slug": "hyundai-tucson-2004-2010",
+  "name": "Hyundai Tucson 2004–2010",
+  "titles": [
+   "Hyundai Tucson (JM)",
+   "Hyundai Tucson (first generation)"
+  ],
+  "kw": [
+   "Tucson"
+  ],
+  "neg": [
+   "FCEV",
+   "Fuel Cell",
+   "Concept"
+  ],
+  "min_year": 2004,
+  "max_year": 2010
+ },
+ {
+  "slug": "kia-rio-2000-2005",
+  "name": "Kia Rio 2000–2005",
+  "titles": [
+   "Kia Rio (DC)",
+   "Kia Rio (first generation)"
+  ],
+  "kw": [
+   "Rio",
+   "Pride"
+  ],
+  "neg": [],
+  "min_year": 2000,
+  "max_year": 2005
+ },
+ {
+  "slug": "kia-sportage-2004-2010",
+  "name": "Kia Sportage 2004–2010",
+  "titles": [
+   "Kia Sportage (KM)",
+   "Kia Sportage (second generation)"
+  ],
+  "kw": [
+   "Sportage"
+  ],
+  "neg": [],
+  "min_year": 2004,
+  "max_year": 2010
+ },
+ {
+  "slug": "mitsubishi-lancer-2003-2007",
+  "name": "Mitsubishi Lancer 2003–2007",
+  "titles": [
+   "Mitsubishi Lancer (CS)",
+   "Mitsubishi Lancer (seventh generation)"
+  ],
+  "kw": [
+   "Lancer",
+   "Cedia"
+  ],
+  "neg": [
+   "Evolution",
+   "Evo",
+   "EVO",
+   "WRC",
+   "Rally"
+  ],
+  "min_year": 2000,
+  "max_year": 2009
+ },
+ {
+  "slug": "mitsubishi-lancer-2007-2017",
+  "name": "Mitsubishi Lancer 2007–2017",
+  "titles": [
+   "Mitsubishi Lancer (CY/CZ)",
+   "Mitsubishi Lancer (CY)",
+   "Mitsubishi Lancer (eighth generation)"
+  ],
+  "kw": [
+   "Lancer",
+   "Galant Fortis"
+  ],
+  "neg": [
+   "Evolution",
+   "Evo",
+   "EVO",
+   "Ralliart",
+   "Rally",
+   "WRC"
+  ],
+  "min_year": 2007,
+  "max_year": 2017
+ },
+ {
+  "slug": "mitsubishi-l200-2005-2015",
+  "name": "Mitsubishi L200 2005–2015",
+  "titles": [
+   "Mitsubishi Triton (fourth generation)",
+   "Mitsubishi Triton"
+  ],
+  "kw": [
+   "L200",
+   "Triton",
+   "L 200"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally"
+  ],
+  "min_year": 2005,
+  "max_year": 2015
+ },
+ {
+  "slug": "mitsubishi-l200-1996-2005",
+  "name": "Mitsubishi L200 1996–2005",
+  "titles": [
+   "Mitsubishi Triton (third generation)",
+   "Mitsubishi Triton"
+  ],
+  "kw": [
+   "L200",
+   "Strada",
+   "Triton",
+   "L 200"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally"
+  ],
+  "min_year": 1996,
+  "max_year": 2006
+ },
+ {
+  "slug": "mitsubishi-pajero-1991-1999",
+  "name": "Mitsubishi Pajero 1991–1999",
+  "titles": [
+   "Mitsubishi Pajero (second generation)",
+   "Mitsubishi Pajero"
+  ],
+  "kw": [
+   "Pajero",
+   "Montero",
+   "Shogun"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally",
+   "Mini",
+   "iO",
+   "Pinin",
+   "Sport"
+  ],
+  "min_year": 1991,
+  "max_year": 2000
+ },
+ {
+  "slug": "mitsubishi-colt-1995-2003",
+  "name": "Mitsubishi Colt 1995–2003",
+  "titles": [
+   "Mitsubishi Mirage (fifth generation)",
+   "Mitsubishi Colt"
+  ],
+  "kw": [
+   "Colt",
+   "Mirage"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "Asti",
+   "Dingo",
+   "Rally"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "peugeot-205",
+  "name": "Peugeot 205",
+  "titles": [
+   "Peugeot 205"
+  ],
+  "kw": [
+   "205"
+  ],
+  "neg": [
+   "T16",
+   "Turbo 16",
+   "Rally",
+   "Cabrio",
+   "CTI"
+  ],
+  "min_year": 1983,
+  "max_year": 1998
+ },
+ {
+  "slug": "peugeot-106",
+  "name": "Peugeot 106",
+  "titles": [
+   "Peugeot 106"
+  ],
+  "kw": [
+   "106"
+  ],
+  "neg": [
+   "Rally",
+   "Maxi",
+   "Kit"
+  ],
+  "min_year": 1991,
+  "max_year": 2003
+ },
+ {
+  "slug": "peugeot-306",
+  "name": "Peugeot 306",
+  "titles": [
+   "Peugeot 306"
+  ],
+  "kw": [
+   "306"
+  ],
+  "neg": [
+   "Maxi",
+   "Rally",
+   "Cabrio",
+   "Cabriolet",
+   "BTCC"
+  ],
+  "min_year": 1993,
+  "max_year": 2002
+ },
+ {
+  "slug": "peugeot-406",
+  "name": "Peugeot 406",
+  "titles": [
+   "Peugeot 406"
+  ],
+  "kw": [
+   "406"
+  ],
+  "neg": [
+   "BTCC",
+   "Taxi",
+   "taxi",
+   "STW"
+  ],
+  "min_year": 1995,
+  "max_year": 2005
+ },
+ {
+  "slug": "peugeot-405",
+  "name": "Peugeot 405",
+  "titles": [
+   "Peugeot 405"
+  ],
+  "kw": [
+   "405"
+  ],
+  "neg": [
+   "T16",
+   "Rally",
+   "Dakar"
+  ],
+  "min_year": 1987,
+  "max_year": 1999
+ },
+ {
+  "slug": "citroen-xsara",
+  "name": "Citroen Xsara",
+  "titles": [
+   "Citroën Xsara"
+  ],
+  "kw": [
+   "Xsara"
+  ],
+  "neg": [
+   "Picasso",
+   "WRC",
+   "Kit Car",
+   "Rally"
+  ],
+  "min_year": 1997,
+  "max_year": 2006
+ },
+ {
+  "slug": "citroen-zx",
+  "name": "Citroen ZX",
+  "titles": [
+   "Citroën ZX"
+  ],
+  "kw": [
+   "ZX"
+  ],
+  "neg": [
+   "Rally",
+   "Dakar"
+  ],
+  "min_year": 1991,
+  "max_year": 1998
+ },
+ {
+  "slug": "citroen-ax",
+  "name": "Citroen AX",
+  "titles": [
+   "Citroën AX"
+  ],
+  "kw": [
+   "AX"
+  ],
+  "neg": [
+   "Rally",
+   "GTi Rally"
+  ],
+  "min_year": 1986,
+  "max_year": 1998
+ },
+ {
+  "slug": "renault-clio-i",
+  "name": "Renault Clio I",
+  "titles": [
+   "Renault Clio I"
+  ],
+  "kw": [
+   "Clio"
+  ],
+  "neg": [
+   "Williams",
+   "V6",
+   "Rally",
+   "Cup"
+  ],
+  "min_year": 1990,
+  "max_year": 1998
+ },
+ {
+  "slug": "renault-clio-ii",
+  "name": "Renault Clio II",
+  "titles": [
+   "Renault Clio II"
+  ],
+  "kw": [
+   "Clio"
+  ],
+  "neg": [
+   "V6",
+   "Rally",
+   "Cup",
+   "Symbol",
+   "Thalia"
+  ],
+  "min_year": 1998,
+  "max_year": 2012
+ },
+ {
+  "slug": "renault-clio-iii",
+  "name": "Renault Clio III",
+  "titles": [
+   "Renault Clio III"
+  ],
+  "kw": [
+   "Clio"
+  ],
+  "neg": [
+   "Rally",
+   "Cup",
+   "R3"
+  ],
+  "min_year": 2005,
+  "max_year": 2014
+ },
+ {
+  "slug": "renault-m-gane-i",
+  "name": "Renault Mégane I",
+  "titles": [
+   "Renault Mégane I"
+  ],
+  "kw": [
+   "Megane",
+   "Mégane"
+  ],
+  "neg": [
+   "Scénic",
+   "Scenic",
+   "Cabrio",
+   "Maxi",
+   "Kit",
+   "Rally",
+   "Coupé Cabriolet"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "renault-m-gane-ii",
+  "name": "Renault Mégane II",
+  "titles": [
+   "Renault Mégane II"
+  ],
+  "kw": [
+   "Megane",
+   "Mégane"
+  ],
+  "neg": [
+   "Scénic",
+   "Scenic",
+   "CC",
+   "Coupé-Cabriolet",
+   "Trophy",
+   "Rally"
+  ],
+  "min_year": 2002,
+  "max_year": 2010
+ },
+ {
+  "slug": "renault-19",
+  "name": "Renault 19",
+  "titles": [
+   "Renault 19"
+  ],
+  "kw": [
+   "19"
+  ],
+  "neg": [
+   "Cabrio",
+   "Rally"
+  ],
+  "min_year": 1988,
+  "max_year": 2000
+ },
+ {
+  "slug": "renault-twingo-i",
+  "name": "Renault Twingo I",
+  "titles": [
+   "Renault Twingo I"
+  ],
+  "kw": [
+   "Twingo"
+  ],
+  "neg": [
+   "Rally"
+  ],
+  "min_year": 1993,
+  "max_year": 2012
+ },
+ {
+  "slug": "seat-ibiza-6k",
+  "name": "Seat Ibiza 6K",
+  "titles": [
+   "SEAT Ibiza Mk2"
+  ],
+  "kw": [
+   "Ibiza"
+  ],
+  "neg": [
+   "Kit Car",
+   "Rally",
+   "Cordoba"
+  ],
+  "min_year": 1993,
+  "max_year": 2002
+ },
+ {
+  "slug": "seat-ibiza-6l",
+  "name": "Seat Ibiza 6L",
+  "titles": [
+   "SEAT Ibiza Mk3"
+  ],
+  "kw": [
+   "Ibiza"
+  ],
+  "neg": [
+   "Rally",
+   "Cupra R",
+   "Cordoba"
+  ],
+  "min_year": 2002,
+  "max_year": 2009
+ },
+ {
+  "slug": "seat-ibiza-6j",
+  "name": "Seat Ibiza 6J",
+  "titles": [
+   "SEAT Ibiza Mk4"
+  ],
+  "kw": [
+   "Ibiza"
+  ],
+  "neg": [
+   "Rally",
+   "Cupra",
+   "Bocanegra"
+  ],
+  "min_year": 2008,
+  "max_year": 2017
+ },
+ {
+  "slug": "seat-leon-1m",
+  "name": "Seat Leon 1M",
+  "titles": [
+   "SEAT León Mk1"
+  ],
+  "kw": [
+   "Leon",
+   "León"
+  ],
+  "neg": [
+   "Supercopa",
+   "Cupra R",
+   "Rally",
+   "Toledo"
+  ],
+  "min_year": 1999,
+  "max_year": 2006
+ },
+ {
+  "slug": "skoda-octavia-1u",
+  "name": "Skoda Octavia 1U",
+  "titles": [
+   "Škoda Octavia (1U)",
+   "Škoda Octavia Mk1"
+  ],
+  "kw": [
+   "Octavia"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "Kit Car"
+  ],
+  "min_year": 1996,
+  "max_year": 2010
+ },
+ {
+  "slug": "skoda-fabia-6y",
+  "name": "Skoda Fabia 6Y",
+  "titles": [
+   "Škoda Fabia Mk1",
+   "Škoda Fabia (6Y)"
+  ],
+  "kw": [
+   "Fabia"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "Sedan",
+   "sedan",
+   "Praktik"
+  ],
+  "min_year": 1999,
+  "max_year": 2008
+ },
+ {
+  "slug": "skoda-felicia",
+  "name": "Skoda Felicia",
+  "titles": [
+   "Škoda Felicia"
+  ],
+  "kw": [
+   "Felicia"
+  ],
+  "neg": [
+   "Kit Car",
+   "Rally",
+   "Pick",
+   "Fun"
+  ],
+  "min_year": 1994,
+  "max_year": 2001
+ },
+ {
+  "slug": "audi-a4-b5",
+  "name": "Audi A4 B5",
+  "titles": [
+   "Audi A4 (B5)"
+  ],
+  "kw": [
+   "A4",
+   "B5"
+  ],
+  "neg": [
+   "RS4",
+   "RS 4",
+   "S4",
+   "STW",
+   "BTCC",
+   "Supertouring"
+  ],
+  "min_year": 1994,
+  "max_year": 2001
+ },
+ {
+  "slug": "audi-a4-b6-b7",
+  "name": "Audi A4 B6/B7",
+  "titles": [
+   "Audi A4 (B6)",
+   "Audi A4 (B7)"
+  ],
+  "kw": [
+   "A4",
+   "B6",
+   "B7"
+  ],
+  "neg": [
+   "RS4",
+   "RS 4",
+   "S4",
+   "Cabrio",
+   "DTM"
+  ],
+  "min_year": 2000,
+  "max_year": 2009
+ },
+ {
+  "slug": "audi-a3-8l",
+  "name": "Audi A3 8L",
+  "titles": [
+   "Audi A3 (8L)"
+  ],
+  "kw": [
+   "A3",
+   "8L"
+  ],
+  "neg": [
+   "S3"
+  ],
+  "min_year": 1996,
+  "max_year": 2003
+ },
+ {
+  "slug": "audi-a3-8p",
+  "name": "Audi A3 8P",
+  "titles": [
+   "Audi A3 (8P)"
+  ],
+  "kw": [
+   "A3",
+   "8P"
+  ],
+  "neg": [
+   "S3",
+   "RS3",
+   "Cabrio",
+   "Cabriolet"
+  ],
+  "min_year": 2003,
+  "max_year": 2013
+ },
+ {
+  "slug": "audi-a6-c5",
+  "name": "Audi A6 C5",
+  "titles": [
+   "Audi A6 (C5)"
+  ],
+  "kw": [
+   "A6",
+   "C5"
+  ],
+  "neg": [
+   "RS6",
+   "RS 6",
+   "S6",
+   "allroad",
+   "Allroad"
+  ],
+  "min_year": 1997,
+  "max_year": 2005
+ },
+ {
+  "slug": "audi-80",
+  "name": "Audi 80",
+  "titles": [
+   "Audi 80"
+  ],
+  "kw": [
+   "80"
+  ],
+  "neg": [
+   "quattro",
+   "Quattro",
+   "Coupé",
+   "Coupe",
+   "Cabrio",
+   "B1",
+   "B2",
+   "1970",
+   "1972",
+   "1974",
+   "1976",
+   "1978"
+  ],
+  "min_year": 1986,
+  "max_year": 1996
+ },
+ {
+  "slug": "suzuki-swift-1989-2003",
+  "name": "Suzuki Swift 1989–2003",
+  "titles": [
+   "Suzuki Cultus",
+   "Suzuki Swift"
+  ],
+  "kw": [
+   "Swift",
+   "Cultus"
+  ],
+  "neg": [
+   "Sport",
+   "Rally",
+   "Kit",
+   "Ignis",
+   "Super 1600"
+  ],
+  "min_year": 1989,
+  "max_year": 2004
+ },
+ {
+  "slug": "suzuki-swift-2005-2010",
+  "name": "Suzuki Swift 2005–2010",
+  "titles": [
+   "Suzuki Swift (2004)",
+   "Suzuki Swift"
+  ],
+  "kw": [
+   "Swift"
+  ],
+  "neg": [
+   "Sport",
+   "Rally",
+   "S1600",
+   "Super 1600",
+   "Dzire",
+   "Sedan",
+   "sedan"
+  ],
+  "min_year": 2004,
+  "max_year": 2011
+ },
+ {
+  "slug": "suzuki-vitara-1988-1998",
+  "name": "Suzuki Vitara 1988–1998",
+  "titles": [
+   "Suzuki Escudo",
+   "Suzuki Vitara"
+  ],
+  "kw": [
+   "Vitara",
+   "Escudo",
+   "Sidekick"
+  ],
+  "neg": [
+   "Grand",
+   "XL-7",
+   "Pikes",
+   "Pike"
+  ],
+  "min_year": 1988,
+  "max_year": 1999
+ },
+ {
+  "slug": "mazda-626",
+  "name": "Mazda 626",
+  "titles": [
+   "Mazda 626",
+   "Mazda Capella"
+  ],
+  "kw": [
+   "626",
+   "Capella"
+  ],
+  "neg": [
+   "Rally",
+   "BTCC",
+   "Coupé",
+   "Coupe",
+   "1979",
+   "1982",
+   "1983"
+  ],
+  "min_year": 1987,
+  "max_year": 2002
+ },
+ {
+  "slug": "mazda-121",
+  "name": "Mazda 121",
+  "titles": [
+   "Mazda 121"
+  ],
+  "kw": [
+   "121",
+   "Demio"
+  ],
+  "neg": [
+   "Ford Fiesta"
+  ],
+  "min_year": 1991,
+  "max_year": 2003
+ },
+ {
+  "slug": "isuzu-trooper",
+  "name": "Isuzu Trooper",
+  "titles": [
+   "Isuzu Trooper"
+  ],
+  "kw": [
+   "Trooper",
+   "Bighorn"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally"
+  ],
+  "min_year": 1991,
+  "max_year": 2002
+ },
+ {
+  "slug": "jeep-cherokee-xj",
+  "name": "Jeep Cherokee XJ",
+  "titles": [
+   "Jeep Cherokee (XJ)"
+  ],
+  "kw": [
+   "Cherokee"
+  ],
+  "neg": [
+   "Grand",
+   "Wagoneer",
+   "Comanche"
+  ],
+  "min_year": 1984,
+  "max_year": 2001
+ },
+ {
+  "slug": "toyota-land-cruiser-prado-j120",
+  "name": "Toyota Land Cruiser Prado J120",
+  "titles": [
+   "Toyota Land Cruiser Prado (J120)",
+   "Toyota Land Cruiser Prado"
+  ],
+  "kw": [
+   "Prado",
+   "J120",
+   "J12",
+   "Land Cruiser",
+   "4Runner"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally",
+   "J150",
+   "J90"
+  ],
+  "min_year": 2002,
+  "max_year": 2010
+ },
+ {
+  "slug": "alfa-romeo-145-146",
+  "name": "Alfa Romeo 145 / 146",
+  "titles": [
+   "Alfa Romeo 145 and 146"
+  ],
+  "kw": [
+   "145",
+   "146"
+  ],
+  "neg": [
+   "Cloverleaf Rally",
+   "Rally"
+  ],
+  "min_year": 1994,
+  "max_year": 2001
+ },
+ {
+  "slug": "alfa-romeo-33",
+  "name": "Alfa Romeo 33",
+  "titles": [
+   "Alfa Romeo 33"
+  ],
+  "kw": [
+   "33"
+  ],
+  "neg": [
+   "Stradale",
+   "TT",
+   "Rally",
+   "Sport Prototipo",
+   "1967",
+   "1968",
+   "1969",
+   "1970"
+  ],
+  "min_year": 1983,
+  "max_year": 1995
+ },
+ {
+  "slug": "lancia-y-ypsilon-1995-2003",
+  "name": "Lancia Y (Ypsilon) 1995–2003",
+  "titles": [
+   "Lancia Y",
+   "Lancia Y10"
+  ],
+  "kw": [
+   "Lancia Y",
+   "Lancia_Y",
+   "Y10"
+  ],
+  "neg": [
+   "Ypsilon"
+  ],
+  "min_year": 1985,
+  "max_year": 2003
+ }
+]
