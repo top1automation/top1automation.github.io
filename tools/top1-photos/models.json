@@ -2658,5 +2658,160 @@
 "slug": "lancia-y-ypsilon-1995-2003",
 "name": "Lancia Y (Ypsilon) 1995–2003",
 "q": "Lancia Y"
+},
+{
+"slug": "omoda-5",
+"name": "Omoda 5",
+"q": "Omoda 5"
+},
+{
+"slug": "jaecoo-7",
+"name": "Jaecoo 7",
+"q": "Jaecoo 7"
+},
+{
+"slug": "leapmotor-t03",
+"name": "Leapmotor T03",
+"q": "Leapmotor T03"
+},
+{
+"slug": "leapmotor-c10",
+"name": "Leapmotor C10",
+"q": "Leapmotor C10"
+},
+{
+"slug": "xpeng-g6",
+"name": "Xpeng G6",
+"q": "Xpeng G6"
+},
+{
+"slug": "ds-3-2009-2019",
+"name": "DS 3 2009–2019",
+"q": "Citroën DS3"
+},
+{
+"slug": "ds-3-crossback",
+"name": "DS 3 Crossback",
+"q": "DS 3 Crossback"
+},
+{
+"slug": "ds-4",
+"name": "DS 4",
+"q": "DS 4 (2021)"
+},
+{
+"slug": "ds-7",
+"name": "DS 7",
+"q": "DS 7 Crossback"
+},
+{
+"slug": "jaguar-x-type",
+"name": "Jaguar X-Type",
+"q": "Jaguar X-Type"
+},
+{
+"slug": "jaguar-xf",
+"name": "Jaguar XF",
+"q": "Jaguar XF"
+},
+{
+"slug": "jaguar-e-pace",
+"name": "Jaguar E-Pace",
+"q": "Jaguar E-Pace"
+},
+{
+"slug": "jaguar-f-pace",
+"name": "Jaguar F-Pace",
+"q": "Jaguar F-Pace"
+},
+{
+"slug": "saab-9-3",
+"name": "Saab 9-3",
+"q": "Saab 9-3"
+},
+{
+"slug": "saab-9-5",
+"name": "Saab 9-5",
+"q": "Saab 9-5"
+},
+{
+"slug": "infiniti-q30",
+"name": "Infiniti Q30",
+"q": "Infiniti Q30"
+},
+{
+"slug": "infiniti-q50",
+"name": "Infiniti Q50",
+"q": "Infiniti Q50"
+},
+{
+"slug": "bmw-5-e34",
+"name": "BMW Σειρά 5 E34",
+"q": "BMW 5 Series (E34)"
+},
+{
+"slug": "vw-bora",
+"name": "Volkswagen Bora",
+"q": "Volkswagen Bora"
+},
+{
+"slug": "fiat-multipla",
+"name": "Fiat Multipla",
+"q": "Fiat Multipla"
+},
+{
+"slug": "opel-tigra-a",
+"name": "Opel Tigra",
+"q": "Opel Tigra"
+},
+{
+"slug": "toyota-corolla-verso",
+"name": "Toyota Corolla Verso",
+"q": "Toyota Corolla Verso"
+},
+{
+"slug": "kia-carnival",
+"name": "Kia Carnival",
+"q": "Kia Carnival (KA4)"
+},
+{
+"slug": "kia-carnival-1998-2014",
+"name": "Kia Carnival 1998–2014",
+"q": "Kia Carnival (UP/GQ)"
+},
+{
+"slug": "hyundai-terracan",
+"name": "Hyundai Terracan",
+"q": "Hyundai Terracan"
+},
+{
+"slug": "hyundai-galloper",
+"name": "Hyundai Galloper",
+"q": "Hyundai Galloper"
+},
+{
+"slug": "mitsubishi-l300",
+"name": "Mitsubishi L300",
+"q": "Mitsubishi Delica"
+},
+{
+"slug": "mitsubishi-carisma",
+"name": "Mitsubishi Carisma",
+"q": "Mitsubishi Carisma"
+},
+{
+"slug": "nissan-vanette",
+"name": "Nissan Vanette",
+"q": "Nissan Vanette"
+},
+{
+"slug": "daewoo-nubira",
+"name": "Daewoo Nubira",
+"q": "Daewoo Nubira"
+},
+{
+"slug": "seat-arosa",
+"name": "Seat Arosa",
+"q": "SEAT Arosa"
 }
 ]

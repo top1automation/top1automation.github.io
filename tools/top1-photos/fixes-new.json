@@ -1,0 +1,561 @@
+[
+ {
+  "slug": "omoda-5",
+  "name": "Omoda 5",
+  "titles": [
+   "Omoda 5",
+   "Chery Omoda 5"
+  ],
+  "kw": [
+   "Omoda"
+  ],
+  "neg": [
+   "Jaecoo"
+  ],
+  "min_year": 2022,
+  "max_year": 2030
+ },
+ {
+  "slug": "jaecoo-7",
+  "name": "Jaecoo 7",
+  "titles": [
+   "Jaecoo 7",
+   "Jaecoo J7"
+  ],
+  "kw": [
+   "Jaecoo"
+  ],
+  "neg": [],
+  "min_year": 2023,
+  "max_year": 2030
+ },
+ {
+  "slug": "leapmotor-t03",
+  "name": "Leapmotor T03",
+  "titles": [
+   "Leapmotor T03"
+  ],
+  "kw": [
+   "T03"
+  ],
+  "neg": [],
+  "min_year": 2020,
+  "max_year": 2030
+ },
+ {
+  "slug": "leapmotor-c10",
+  "name": "Leapmotor C10",
+  "titles": [
+   "Leapmotor C10"
+  ],
+  "kw": [
+   "C10"
+  ],
+  "neg": [],
+  "min_year": 2023,
+  "max_year": 2030
+ },
+ {
+  "slug": "xpeng-g6",
+  "name": "Xpeng G6",
+  "titles": [
+   "Xpeng G6"
+  ],
+  "kw": [
+   "G6"
+  ],
+  "neg": [],
+  "min_year": 2023,
+  "max_year": 2030
+ },
+ {
+  "slug": "ds-3-2009-2019",
+  "name": "DS 3 2009–2019",
+  "titles": [
+   "Citroën DS3",
+   "DS 3"
+  ],
+  "kw": [
+   "DS3",
+   "DS 3"
+  ],
+  "neg": [
+   "Crossback",
+   "Rally",
+   "WRC",
+   "R3",
+   "R5",
+   "Cabrio",
+   "Racing"
+  ],
+  "min_year": 2009,
+  "max_year": 2019
+ },
+ {
+  "slug": "ds-3-crossback",
+  "name": "DS 3 Crossback",
+  "titles": [
+   "DS 3 Crossback"
+  ],
+  "kw": [
+   "Crossback",
+   "DS 3",
+   "DS3"
+  ],
+  "neg": [],
+  "min_year": 2019,
+  "max_year": 2030
+ },
+ {
+  "slug": "ds-4",
+  "name": "DS 4",
+  "titles": [
+   "DS 4 (2021)",
+   "DS 4"
+  ],
+  "kw": [
+   "DS 4",
+   "DS4"
+  ],
+  "neg": [
+   "Citroën",
+   "Citroen",
+   "2011",
+   "2012",
+   "2013",
+   "2014",
+   "2015",
+   "2016"
+  ],
+  "min_year": 2021,
+  "max_year": 2030
+ },
+ {
+  "slug": "ds-7",
+  "name": "DS 7",
+  "titles": [
+   "DS 7 Crossback",
+   "DS 7"
+  ],
+  "kw": [
+   "DS 7",
+   "DS7"
+  ],
+  "neg": [],
+  "min_year": 2017,
+  "max_year": 2030
+ },
+ {
+  "slug": "jaguar-x-type",
+  "name": "Jaguar X-Type",
+  "titles": [
+   "Jaguar X-Type"
+  ],
+  "kw": [
+   "X-Type",
+   "X Type",
+   "XType"
+  ],
+  "neg": [
+   "Rally"
+  ],
+  "min_year": 2001,
+  "max_year": 2010
+ },
+ {
+  "slug": "jaguar-xf",
+  "name": "Jaguar XF",
+  "titles": [
+   "Jaguar XF"
+  ],
+  "kw": [
+   "XF"
+  ],
+  "neg": [
+   "XFR-S",
+   "Concept",
+   "C-XF"
+  ],
+  "min_year": 2007,
+  "max_year": 2030
+ },
+ {
+  "slug": "jaguar-e-pace",
+  "name": "Jaguar E-Pace",
+  "titles": [
+   "Jaguar E-Pace"
+  ],
+  "kw": [
+   "E-Pace",
+   "E Pace"
+  ],
+  "neg": [],
+  "min_year": 2017,
+  "max_year": 2030
+ },
+ {
+  "slug": "jaguar-f-pace",
+  "name": "Jaguar F-Pace",
+  "titles": [
+   "Jaguar F-Pace"
+  ],
+  "kw": [
+   "F-Pace",
+   "F Pace"
+  ],
+  "neg": [
+   "SVR",
+   "Concept",
+   "C-X17"
+  ],
+  "min_year": 2016,
+  "max_year": 2030
+ },
+ {
+  "slug": "saab-9-3",
+  "name": "Saab 9-3",
+  "titles": [
+   "Saab 9-3"
+  ],
+  "kw": [
+   "9-3",
+   "9 3",
+   "93"
+  ],
+  "neg": [
+   "Viggen",
+   "Cabrio",
+   "Convertible",
+   "1998",
+   "1999",
+   "2000",
+   "2001"
+  ],
+  "min_year": 2002,
+  "max_year": 2014
+ },
+ {
+  "slug": "saab-9-5",
+  "name": "Saab 9-5",
+  "titles": [
+   "Saab 9-5"
+  ],
+  "kw": [
+   "9-5",
+   "9 5",
+   "95"
+  ],
+  "neg": [
+   "2011",
+   "2012",
+   "Concept"
+  ],
+  "min_year": 1997,
+  "max_year": 2010
+ },
+ {
+  "slug": "infiniti-q30",
+  "name": "Infiniti Q30",
+  "titles": [
+   "Infiniti Q30"
+  ],
+  "kw": [
+   "Q30"
+  ],
+  "neg": [
+   "Concept"
+  ],
+  "min_year": 2015,
+  "max_year": 2019
+ },
+ {
+  "slug": "infiniti-q50",
+  "name": "Infiniti Q50",
+  "titles": [
+   "Infiniti Q50"
+  ],
+  "kw": [
+   "Q50"
+  ],
+  "neg": [
+   "Eau Rouge",
+   "Concept"
+  ],
+  "min_year": 2013,
+  "max_year": 2030
+ },
+ {
+  "slug": "bmw-5-e34",
+  "name": "BMW Σειρά 5 E34",
+  "titles": [
+   "BMW 5 Series (E34)"
+  ],
+  "kw": [
+   "E34",
+   "5 Series",
+   "5er",
+   "518",
+   "520",
+   "524",
+   "525",
+   "530",
+   "535",
+   "540"
+  ],
+  "neg": [
+   "M5",
+   "Alpina"
+  ],
+  "min_year": 1988,
+  "max_year": 1996
+ },
+ {
+  "slug": "vw-bora",
+  "name": "Volkswagen Bora",
+  "titles": [
+   "Volkswagen Bora",
+   "Volkswagen Jetta (A4)"
+  ],
+  "kw": [
+   "Bora"
+  ],
+  "neg": [
+   "Golf"
+  ],
+  "min_year": 1998,
+  "max_year": 2006
+ },
+ {
+  "slug": "fiat-multipla",
+  "name": "Fiat Multipla",
+  "titles": [
+   "Fiat Multipla"
+  ],
+  "kw": [
+   "Multipla"
+  ],
+  "neg": [
+   "600",
+   "1956",
+   "1957",
+   "1958",
+   "1959",
+   "1960",
+   "1961",
+   "1962",
+   "1963",
+   "1964",
+   "1965",
+   "1966",
+   "1967",
+   "1968",
+   "1969"
+  ],
+  "min_year": 1998,
+  "max_year": 2010
+ },
+ {
+  "slug": "opel-tigra-a",
+  "name": "Opel Tigra",
+  "titles": [
+   "Opel Tigra"
+  ],
+  "kw": [
+   "Tigra"
+  ],
+  "neg": [
+   "TwinTop",
+   "Twin Top",
+   "Twintop",
+   "2004",
+   "2005",
+   "2006",
+   "2007",
+   "2008",
+   "2009"
+  ],
+  "min_year": 1994,
+  "max_year": 2001
+ },
+ {
+  "slug": "toyota-corolla-verso",
+  "name": "Toyota Corolla Verso",
+  "titles": [
+   "Toyota Corolla Verso"
+  ],
+  "kw": [
+   "Corolla Verso"
+  ],
+  "neg": [],
+  "min_year": 2001,
+  "max_year": 2010
+ },
+ {
+  "slug": "kia-carnival",
+  "name": "Kia Carnival",
+  "titles": [
+   "Kia Carnival (KA4)",
+   "Kia Carnival"
+  ],
+  "kw": [
+   "Carnival",
+   "Sedona"
+  ],
+  "neg": [
+   "1998",
+   "1999",
+   "2000",
+   "2001",
+   "2002",
+   "2003",
+   "2004",
+   "2005",
+   "2006",
+   "2010",
+   "2015",
+   "2016",
+   "2017"
+  ],
+  "min_year": 2020,
+  "max_year": 2030
+ },
+ {
+  "slug": "kia-carnival-1998-2014",
+  "name": "Kia Carnival 1998–2014",
+  "titles": [
+   "Kia Carnival (UP/GQ)",
+   "Kia Carnival (VQ)",
+   "Kia Carnival"
+  ],
+  "kw": [
+   "Carnival",
+   "Sedona"
+  ],
+  "neg": [
+   "KA4",
+   "YP"
+  ],
+  "min_year": 1998,
+  "max_year": 2014
+ },
+ {
+  "slug": "hyundai-terracan",
+  "name": "Hyundai Terracan",
+  "titles": [
+   "Hyundai Terracan"
+  ],
+  "kw": [
+   "Terracan"
+  ],
+  "neg": [],
+  "min_year": 2001,
+  "max_year": 2008
+ },
+ {
+  "slug": "hyundai-galloper",
+  "name": "Hyundai Galloper",
+  "titles": [
+   "Hyundai Galloper"
+  ],
+  "kw": [
+   "Galloper"
+  ],
+  "neg": [],
+  "min_year": 1991,
+  "max_year": 2004
+ },
+ {
+  "slug": "mitsubishi-l300",
+  "name": "Mitsubishi L300",
+  "titles": [
+   "Mitsubishi Delica"
+  ],
+  "kw": [
+   "L300",
+   "L 300",
+   "Delica"
+  ],
+  "neg": [
+   "Space Gear",
+   "D:5",
+   "D5",
+   "Star Wagon",
+   "1968",
+   "1969",
+   "1970",
+   "1975",
+   "1979"
+  ],
+  "min_year": 1986,
+  "max_year": 2013
+ },
+ {
+  "slug": "mitsubishi-carisma",
+  "name": "Mitsubishi Carisma",
+  "titles": [
+   "Mitsubishi Carisma"
+  ],
+  "kw": [
+   "Carisma"
+  ],
+  "neg": [
+   "Rally",
+   "Evo",
+   "GT"
+  ],
+  "min_year": 1995,
+  "max_year": 2004
+ },
+ {
+  "slug": "nissan-vanette",
+  "name": "Nissan Vanette",
+  "titles": [
+   "Nissan Vanette"
+  ],
+  "kw": [
+   "Vanette"
+  ],
+  "neg": [
+   "NV200",
+   "Serena",
+   "2010",
+   "2011",
+   "2012"
+  ],
+  "min_year": 1986,
+  "max_year": 2001
+ },
+ {
+  "slug": "daewoo-nubira",
+  "name": "Daewoo Nubira",
+  "titles": [
+   "Daewoo Nubira"
+  ],
+  "kw": [
+   "Nubira"
+  ],
+  "neg": [
+   "Rally",
+   "Kit Car",
+   "Lacetti"
+  ],
+  "min_year": 1997,
+  "max_year": 2004
+ },
+ {
+  "slug": "seat-arosa",
+  "name": "Seat Arosa",
+  "titles": [
+   "SEAT Arosa"
+  ],
+  "kw": [
+   "Arosa"
+  ],
+  "neg": [
+   "Racer",
+   "Rally"
+  ],
+  "min_year": 1997,
+  "max_year": 2005
+ }
+]
