@@ -4453,10 +4453,10 @@
 "name": "BMW Σειρά 3 E30",
 "i": 403,
 "article": "Category:BMW E30",
-"author": "nakhon100",
-"license": "CC BY 2.0",
-"license_url": "https://creativecommons.org/licenses/by/2.0",
-"page": "https://commons.wikimedia.org/wiki/File:2x_BMW_E30s_(6644811987).jpg",
+"author": "Rudolf Stricker",
+"license": "CC BY-SA 3.0",
+"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"page": "https://commons.wikimedia.org/wiki/File:BMW_E30_front_20080116.jpg",
 "skip": null
 },
 {
@@ -4464,10 +4464,10 @@
 "name": "BMW Σειρά 3 E36",
 "i": 404,
 "article": "Category:BMW E36",
-"author": "nakhon100",
-"license": "CC BY 2.0",
-"license_url": "https://creativecommons.org/licenses/by/2.0",
-"page": "https://commons.wikimedia.org/wiki/File:BMW_3_Series_Pick_Up_E36_(6652869621).jpg",
+"author": "No machine-readable author provided. Milkmandan~commonswiki assumed (based on copyright claims).",
+"license": "CC BY-SA 3.0",
+"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"page": "https://commons.wikimedia.org/wiki/File:1993_bmw_325is_front_left.jpg",
 "skip": null
 },
 {
@@ -4475,10 +4475,10 @@
 "name": "BMW Σειρά 3 E46",
 "i": 405,
 "article": "Category:BMW E46",
-"author": "Triplec85",
+"author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:BMW_E46_Autobatterie_Ladeger%C3%A4t_in_Tauberbischofsheim_2.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2003_(53)_BMW_3-Series_320Ci_Sport_(E46)_-_2171cc_2.2_170PS_Petrol_-_15-04-2025,_Front_Right.jpg",
 "skip": null
 },
 {
@@ -4497,10 +4497,10 @@
 "name": "BMW Σειρά 3 F30",
 "i": 407,
 "article": "Category:BMW F30",
-"author": "Andreas Bunen",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Bmw_Front_(214466313).jpeg",
+"author": "DieselFordMondeo",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2018_BMW_3-Series_320d_Sport_(F30)_-_2.0_(160PS)_diesel_automatic_-_2025-07-08,_front_right.jpg",
 "skip": null
 },
 {
@@ -4508,10 +4508,10 @@
 "name": "BMW Σειρά 5 E39",
 "i": 408,
 "article": "Category:BMW E39",
-"author": "Fable1981",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Baumwoll-Sportluftfilter_BMW_E39_2.JPG",
+"author": "Ethan Llamas",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2004_BMW_528i_E39,_front_left,_05-24-2024.jpg",
 "skip": null
 },
 {
@@ -4528,18 +4528,18 @@
 {
 "slug": "bmw-1-e87",
 "name": "BMW Σειρά 1 E87",
-"i": 410,
-"article": "Category:BMW E87",
-"author": "Jean Housen",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:20170805_030_obernai.jpg",
-"skip": null
+"i": -1,
+"article": "",
+"author": null,
+"license": null,
+"license_url": null,
+"page": null,
+"skip": "manual: no photo for this generation (BMW E87: empty or missing; BMW 1 Series (E87): empty or missing; BMW E81: empty or missing; search: nothing named for this generation; article: nothing named for this generation)"
 },
 {
 "slug": "bmw-x5-e53",
 "name": "BMW X5 E53",
-"i": 411,
+"i": 410,
 "article": "Category:BMW E53",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4550,7 +4550,7 @@
 {
 "slug": "mercedes-e-class-w124",
 "name": "Mercedes E-Class W124",
-"i": 412,
+"i": 411,
 "article": "Category:Mercedes-Benz W124",
 "author": "Tokumeigakarinoaoshima",
 "license": "CC0",
@@ -4561,7 +4561,7 @@
 {
 "slug": "mercedes-c-class-w202",
 "name": "Mercedes C-Class W202",
-"i": 413,
+"i": 412,
 "article": "Category:Mercedes-Benz W202",
 "author": "Alex Neman",
 "license": "CC BY-SA 4.0",
@@ -4572,51 +4572,51 @@
 {
 "slug": "mercedes-c-class-w203",
 "name": "Mercedes C-Class W203",
-"i": 414,
+"i": 413,
 "article": "Category:Mercedes-Benz W203",
-"author": "Dinkun Chen",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:MERCEDES_BENZ_C-CLASS_(W203)_China_(2).jpg",
+"author": "Ethan Llamas",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:2001_Mercedes-Benz_W203_C200_Kompressor,_front_left,_06-29-2024.jpg",
 "skip": null
 },
 {
 "slug": "mercedes-c-class-w204",
 "name": "Mercedes C-Class W204",
-"i": 415,
+"i": 414,
 "article": "Category:Mercedes-Benz W204",
-"author": "Kadir9311",
-"license": "CC BY 4.0",
-"license_url": "https://creativecommons.org/licenses/by/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W204_in_Kerpe.jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2008_Mercedes-Benz_C220_Sport_CDi_Automatic_2.1_Front.jpg",
 "skip": null
 },
 {
 "slug": "mercedes-e-class-w210",
 "name": "Mercedes E-Class W210",
-"i": 416,
+"i": 415,
 "article": "Category:Mercedes-Benz W210",
-"author": "Kieran White from Manchester, England",
-"license": "CC BY 2.0",
-"license_url": "https://creativecommons.org/licenses/by/2.0",
-"page": "https://commons.wikimedia.org/wiki/File:1996_Mercedes_E_300_Diesel_Avantgarde_(18881528595).jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:1997_Mercedes-Benz_E200_Elegance_Automatic_2.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "mercedes-e-class-w211",
 "name": "Mercedes E-Class W211",
-"i": 417,
+"i": 416,
 "article": "Category:Mercedes-Benz W211",
-"author": "czernik.jerzy",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Saranda_Albania_-_panoramio_(14).jpg",
+"author": "M 93",
+"license": "Public domain",
+"license_url": "",
+"page": "https://commons.wikimedia.org/wiki/File:Mercedes_E-Klasse_(W211)_Avantgarde_20090610_front.JPG",
 "skip": null
 },
 {
 "slug": "mercedes-a-class-w168",
 "name": "Mercedes A-Class W168",
-"i": 418,
+"i": 417,
 "article": "Category:Mercedes-Benz W168",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -4627,7 +4627,7 @@
 {
 "slug": "volkswagen-golf-2",
 "name": "Volkswagen Golf 2",
-"i": 419,
+"i": 418,
 "article": "Category:Volkswagen Golf II",
 "author": "Rutger van der Maar",
 "license": "CC BY 2.0",
@@ -4638,7 +4638,7 @@
 {
 "slug": "volkswagen-golf-3",
 "name": "Volkswagen Golf 3",
-"i": 420,
+"i": 419,
 "article": "Category:Volkswagen Golf III",
 "author": "Ap320",
 "license": "CC BY-SA 4.0",
@@ -4649,7 +4649,7 @@
 {
 "slug": "volkswagen-golf-4",
 "name": "Volkswagen Golf 4",
-"i": 421,
+"i": 420,
 "article": "Category:Volkswagen Golf IV",
 "author": "No machine-readable author provided. M 93 assumed (based on copyright claims).",
 "license": "CC BY-SA 3.0",
@@ -4660,7 +4660,7 @@
 {
 "slug": "volkswagen-golf-5",
 "name": "Volkswagen Golf 5",
-"i": 422,
+"i": 421,
 "article": "Category:Volkswagen Golf V",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -4671,7 +4671,7 @@
 {
 "slug": "volkswagen-golf-6",
 "name": "Volkswagen Golf 6",
-"i": 423,
+"i": 422,
 "article": "Category:Volkswagen Golf VI",
 "author": "Santeri Viinamäki",
 "license": "CC BY-SA 4.0",
@@ -4682,7 +4682,7 @@
 {
 "slug": "volkswagen-golf-7",
 "name": "Volkswagen Golf 7",
-"i": 424,
+"i": 423,
 "article": "Category:Volkswagen Golf VII",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4693,18 +4693,18 @@
 {
 "slug": "volkswagen-polo-6n",
 "name": "Volkswagen Polo 6N",
-"i": 425,
+"i": 424,
 "article": "Category:Volkswagen Polo III",
-"author": "Charles from Port Chester, New York",
-"license": "CC BY 2.0",
-"license_url": "https://creativecommons.org/licenses/by/2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Volkswagen_Polo_III_1.6_(1995)_(52926192838).jpg",
+"author": "Rudolf Stricker",
+"license": "CC BY-SA 3.0",
+"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"page": "https://commons.wikimedia.org/wiki/File:VW_Polo_3_front_20071007.jpg",
 "skip": null
 },
 {
 "slug": "volkswagen-polo-9n",
 "name": "Volkswagen Polo 9N",
-"i": 426,
+"i": 425,
 "article": "Category:Volkswagen Polo IV",
 "author": "User3204",
 "license": "CC BY-SA 4.0",
@@ -4715,18 +4715,18 @@
 {
 "slug": "volkswagen-polo-6r",
 "name": "Volkswagen Polo 6R",
-"i": 427,
+"i": 426,
 "article": "Category:Volkswagen Polo V",
-"author": "Charles from Port Chester, New York",
-"license": "CC BY 2.0",
-"license_url": "https://creativecommons.org/licenses/by/2.0",
-"page": "https://commons.wikimedia.org/wiki/File:Volkswagen_Polo_V_1.0_MPI_(2014)_(52023967904).jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2011_Volkswagen_Polo_S_60_1.2_Front.jpg",
 "skip": null
 },
 {
 "slug": "volkswagen-passat-b5",
 "name": "Volkswagen Passat B5",
-"i": 428,
+"i": 427,
 "article": "Category:Volkswagen Passat B5",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4737,7 +4737,7 @@
 {
 "slug": "volkswagen-passat-b6",
 "name": "Volkswagen Passat B6",
-"i": 429,
+"i": 428,
 "article": "Category:Volkswagen Passat B6",
 "author": "Doubleyewgee",
 "license": "CC BY 3.0",
@@ -4748,7 +4748,7 @@
 {
 "slug": "volkswagen-transporter-t4",
 "name": "Volkswagen Transporter T4",
-"i": 430,
+"i": 429,
 "article": "Category:Volkswagen T4",
 "author": "Detectandpreserve",
 "license": "CC BY 3.0",
@@ -4759,18 +4759,18 @@
 {
 "slug": "volkswagen-transporter-t5",
 "name": "Volkswagen Transporter T5",
-"i": 431,
+"i": 430,
 "article": "Category:Volkswagen T5",
-"author": "Jackus2008 at English Wikipedia",
-"license": "Public domain",
-"license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:Fire_Investigation_Unit.JPG",
+"author": "Aciarium",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:DSC05468_HIO_Johanniter_Wien,_Volkswagen_T5,_Front_Right,_2023-10.jpg",
 "skip": null
 },
 {
 "slug": "toyota-corolla-e11",
 "name": "Toyota Corolla E11",
-"i": 432,
+"i": 431,
 "article": "search: Toyota Corolla E110",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -4781,18 +4781,18 @@
 {
 "slug": "toyota-corolla-e12",
 "name": "Toyota Corolla E12",
-"i": 433,
+"i": 432,
 "article": "search: Toyota Corolla E120",
-"author": "Tokumeigakarinoaoshima",
-"license": "CC0",
-"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_(E120)_%26_Corolla_Axio_(E160)_front.JPG",
+"author": "DieselFordMondeo",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2004_Toyota_Corolla_Saloon_(Front).png",
 "skip": null
 },
 {
 "slug": "toyota-corolla-e15",
 "name": "Toyota Corolla E15",
-"i": 434,
+"i": 433,
 "article": "search: Toyota Corolla E150",
 "author": "Dinkun Chen",
 "license": "CC BY-SA 4.0",
@@ -4803,7 +4803,7 @@
 {
 "slug": "toyota-yaris-xp10",
 "name": "Toyota Yaris XP10",
-"i": 435,
+"i": 434,
 "article": "search: Toyota Yaris XP10",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4814,7 +4814,7 @@
 {
 "slug": "toyota-yaris-xp90",
 "name": "Toyota Yaris XP90",
-"i": 436,
+"i": 435,
 "article": "search: Toyota Yaris XP90",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -4825,7 +4825,7 @@
 {
 "slug": "toyota-yaris-xp130",
 "name": "Toyota Yaris XP130",
-"i": 437,
+"i": 436,
 "article": "search: Toyota Yaris XP130",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4836,7 +4836,7 @@
 {
 "slug": "toyota-hilux-1988-1997",
 "name": "Toyota Hilux 1988–1997",
-"i": 438,
+"i": 437,
 "article": "Toyota Hilux",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4847,7 +4847,7 @@
 {
 "slug": "toyota-hilux-1997-2005",
 "name": "Toyota Hilux 1997–2005",
-"i": 439,
+"i": 438,
 "article": "search: Toyota Hilux (sixth generation)",
 "author": "Charles from Port Chester, New York",
 "license": "CC BY 2.0",
@@ -4858,7 +4858,7 @@
 {
 "slug": "toyota-hilux-2005-2015",
 "name": "Toyota Hilux 2005–2015",
-"i": 440,
+"i": 439,
 "article": "search: Toyota Hilux (seventh generation)",
 "author": "Charles from Port Chester, New York",
 "license": "CC BY 2.0",
@@ -4869,29 +4869,29 @@
 {
 "slug": "toyota-rav4-xa20",
 "name": "Toyota RAV4 XA20",
-"i": 441,
+"i": 440,
 "article": "Category:Toyota RAV4 (XA20)",
-"author": "2538O",
-"license": "CC0",
-"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Diplomatic_license_plate_of_Tunisia.jpg",
+"author": "Elise240SX",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2002_Toyota_Rav4_L_2-Door_in_Super_White,_Front_Right,_03-17-2023.jpg",
 "skip": null
 },
 {
 "slug": "toyota-avensis-t25",
 "name": "Toyota Avensis T25",
-"i": 442,
+"i": 441,
 "article": "Category:Toyota Avensis (T250)",
-"author": "Cezar Suceveanu",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Biserica_Sf._Ioan_Botezatorul_din_Iasi22.jpg",
+"author": "Makizox",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2003_Toyota_Avensis_T3-S_1.8_Front.jpg",
 "skip": null
 },
 {
 "slug": "opel-corsa-b",
 "name": "Opel Corsa B",
-"i": 443,
+"i": 442,
 "article": "Category:Opel Corsa B",
 "author": "Interesting.cars.insta",
 "license": "CC0",
@@ -4902,18 +4902,18 @@
 {
 "slug": "opel-corsa-c",
 "name": "Opel Corsa C",
-"i": 444,
+"i": 443,
 "article": "Category:Opel Corsa C",
-"author": "Detectandpreserve",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Opel_Corsa_C_2000-2006_special_edition_BLACK_frontfederleft_2008-05-01_A.jpg",
+"author": "M 93 (talk) 19:25, 4 February 2009 (UTC)",
+"license": "Public domain",
+"license_url": "",
+"page": "https://commons.wikimedia.org/wiki/File:Opel_Corsa_C_front.jpg",
 "skip": null
 },
 {
 "slug": "opel-corsa-d",
 "name": "Opel Corsa D",
-"i": 445,
+"i": 444,
 "article": "Category:Opel Corsa D",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4924,7 +4924,7 @@
 {
 "slug": "opel-corsa-e",
 "name": "Opel Corsa E",
-"i": 446,
+"i": 445,
 "article": "Category:Opel Corsa E",
 "author": "Mr.choppers",
 "license": "CC BY-SA 3.0",
@@ -4935,7 +4935,7 @@
 {
 "slug": "opel-astra-f",
 "name": "Opel Astra F",
-"i": 447,
+"i": 446,
 "article": "Category:Opel Astra F",
 "author": "Mr.choppers",
 "license": "CC BY-SA 3.0",
@@ -4946,7 +4946,7 @@
 {
 "slug": "opel-astra-g",
 "name": "Opel Astra G",
-"i": 448,
+"i": 447,
 "article": "Category:Opel Astra G",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -4957,7 +4957,7 @@
 {
 "slug": "opel-astra-h",
 "name": "Opel Astra H",
-"i": 449,
+"i": 448,
 "article": "Category:Opel Astra H",
 "author": "Cutlass",
 "license": "CC0",
@@ -4968,7 +4968,7 @@
 {
 "slug": "opel-astra-j",
 "name": "Opel Astra J",
-"i": 450,
+"i": 449,
 "article": "Category:Opel Astra J",
 "author": "Corvettec6r",
 "license": "Public domain",
@@ -4979,7 +4979,7 @@
 {
 "slug": "opel-vectra-b",
 "name": "Opel Vectra B",
-"i": 451,
+"i": 450,
 "article": "Category:Opel Vectra B",
 "author": "Pitak",
 "license": "CC BY-SA 3.0",
@@ -4990,7 +4990,7 @@
 {
 "slug": "opel-frontera",
 "name": "Opel Frontera",
-"i": 452,
+"i": 451,
 "article": "Category:Opel Frontera B",
 "author": "Rutger van der Maar",
 "license": "CC BY 2.0",
@@ -5001,18 +5001,18 @@
 {
 "slug": "ford-fiesta-mk4",
 "name": "Ford Fiesta Mk4",
-"i": 453,
+"i": 452,
 "article": "search: Ford Fiesta IV",
-"author": "Navigator84",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Ford_Fiesta_IV_sedan_China_2016-04-08.jpg",
+"author": "Kieran White from Manchester, England",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"page": "https://commons.wikimedia.org/wiki/File:1996_Ford_Fiesta_1.3_LX_(28212307366).jpg",
 "skip": null
 },
 {
 "slug": "ford-fiesta-mk5",
 "name": "Ford Fiesta Mk5",
-"i": 454,
+"i": 453,
 "article": "search: Ford Fiesta V",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5023,7 +5023,7 @@
 {
 "slug": "ford-fiesta-mk6",
 "name": "Ford Fiesta Mk6",
-"i": 455,
+"i": 454,
 "article": "search: Ford Fiesta VI",
 "author": "M 93",
 "license": "Public domain",
@@ -5034,7 +5034,7 @@
 {
 "slug": "ford-focus-mk1",
 "name": "Ford Focus Mk1",
-"i": 456,
+"i": 455,
 "article": "search: Ford Focus I",
 "author": "M 93",
 "license": "Public domain",
@@ -5045,7 +5045,7 @@
 {
 "slug": "ford-focus-mk2",
 "name": "Ford Focus Mk2",
-"i": 457,
+"i": 456,
 "article": "search: Ford Focus II",
 "author": "M 93",
 "license": "CC BY-SA 3.0",
@@ -5056,7 +5056,7 @@
 {
 "slug": "ford-escort",
 "name": "Ford Escort",
-"i": 458,
+"i": 457,
 "article": "search: Ford Escort VII",
 "author": "Calreyn88",
 "license": "CC BY-SA 4.0",
@@ -5067,7 +5067,7 @@
 {
 "slug": "ford-mondeo-mk3",
 "name": "Ford Mondeo Mk3",
-"i": 459,
+"i": 458,
 "article": "search: Ford Mondeo III",
 "author": "User3204",
 "license": "CC BY-SA 4.0",
@@ -5078,7 +5078,7 @@
 {
 "slug": "fiat-punto-1993-1999",
 "name": "Fiat Punto 1993–1999",
-"i": 460,
+"i": 459,
 "article": "search: Fiat Punto (176)",
 "author": "Alessandro Antonelli",
 "license": "CC BY 3.0",
@@ -5089,7 +5089,7 @@
 {
 "slug": "fiat-punto-1999-2010",
 "name": "Fiat Punto 1999–2010",
-"i": 461,
+"i": 460,
 "article": "search: Fiat Punto (188)",
 "author": "Corvettec6r",
 "license": "Public domain",
@@ -5100,7 +5100,7 @@
 {
 "slug": "fiat-panda-2003-2012",
 "name": "Fiat Panda 2003–2012",
-"i": 462,
+"i": 461,
 "article": "search: Fiat Panda (169)",
 "author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
@@ -5111,7 +5111,7 @@
 {
 "slug": "fiat-panda-1980-2003",
 "name": "Fiat Panda 1980–2003",
-"i": 463,
+"i": 462,
 "article": "search: Fiat Panda (141)",
 "author": "Damian B Oh",
 "license": "CC BY-SA 4.0",
@@ -5122,7 +5122,7 @@
 {
 "slug": "fiat-stilo",
 "name": "Fiat Stilo",
-"i": 464,
+"i": 463,
 "article": "Category:Fiat Stilo",
 "author": "Harvey Bold",
 "license": "CC BY 4.0",
@@ -5133,7 +5133,7 @@
 {
 "slug": "fiat-bravo-1995-2001",
 "name": "Fiat Bravo 1995–2001",
-"i": 465,
+"i": 464,
 "article": "Category:Fiat Brava",
 "author": "Rudolf Stricker",
 "license": "Public domain",
@@ -5144,7 +5144,7 @@
 {
 "slug": "fiat-marea",
 "name": "Fiat Marea",
-"i": 466,
+"i": 465,
 "article": "Category:Fiat Marea",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -5155,7 +5155,7 @@
 {
 "slug": "fiat-cinquecento",
 "name": "Fiat Cinquecento",
-"i": 467,
+"i": 466,
 "article": "Category:Fiat Cinquecento",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -5166,7 +5166,7 @@
 {
 "slug": "nissan-micra-k11",
 "name": "Nissan Micra K11",
-"i": 468,
+"i": 467,
 "article": "Category:Nissan Micra (K11)",
 "author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
@@ -5177,7 +5177,7 @@
 {
 "slug": "nissan-micra-k12",
 "name": "Nissan Micra K12",
-"i": 469,
+"i": 468,
 "article": "Category:Nissan Micra (K12)",
 "author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
@@ -5188,7 +5188,7 @@
 {
 "slug": "nissan-almera-n15",
 "name": "Nissan Almera N15",
-"i": 470,
+"i": 469,
 "article": "Category:Nissan Almera (N15)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5199,7 +5199,7 @@
 {
 "slug": "nissan-almera-n16",
 "name": "Nissan Almera N16",
-"i": 471,
+"i": 470,
 "article": "Category:Nissan Almera (N16)",
 "author": "Throwawayacc222",
 "license": "CC0",
@@ -5210,7 +5210,7 @@
 {
 "slug": "nissan-sunny-n14",
 "name": "Nissan Sunny N14",
-"i": 472,
+"i": 471,
 "article": "Category:Nissan Sunny (N14)",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -5221,7 +5221,7 @@
 {
 "slug": "nissan-navara-d40",
 "name": "Nissan Navara D40",
-"i": 473,
+"i": 472,
 "article": "Category:Nissan Navara (D40)",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -5232,7 +5232,7 @@
 {
 "slug": "nissan-pick-up-d21",
 "name": "Nissan Pick Up D21",
-"i": 474,
+"i": 473,
 "article": "Category:Nissan D21",
 "author": "Cutlass",
 "license": "CC0",
@@ -5243,7 +5243,7 @@
 {
 "slug": "nissan-qashqai-j10",
 "name": "Nissan Qashqai J10",
-"i": 475,
+"i": 474,
 "article": "Category:Nissan Qashqai (J10)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5254,7 +5254,7 @@
 {
 "slug": "honda-civic-eg",
 "name": "Honda Civic EG",
-"i": 476,
+"i": 475,
 "article": "search: Honda Civic V",
 "author": "Drjacky",
 "license": "CC BY-SA 3.0",
@@ -5265,7 +5265,7 @@
 {
 "slug": "honda-civic-ek",
 "name": "Honda Civic EK",
-"i": 477,
+"i": 476,
 "article": "search: Honda Civic VI",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -5276,7 +5276,7 @@
 {
 "slug": "honda-civic-ep",
 "name": "Honda Civic EP",
-"i": 478,
+"i": 477,
 "article": "search: Honda Civic VII",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5287,7 +5287,7 @@
 {
 "slug": "honda-civic-fk",
 "name": "Honda Civic FK",
-"i": 479,
+"i": 478,
 "article": "search: Honda Civic VIII",
 "author": "M 93",
 "license": "Public domain",
@@ -5298,7 +5298,7 @@
 {
 "slug": "honda-jazz-2001-2008",
 "name": "Honda Jazz 2001–2008",
-"i": 480,
+"i": 479,
 "article": "search: Honda Jazz I",
 "author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
@@ -5309,7 +5309,7 @@
 {
 "slug": "hyundai-accent-1994-2000",
 "name": "Hyundai Accent 1994–2000",
-"i": 481,
+"i": 480,
 "article": "Category:Hyundai Accent (X3)",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -5320,7 +5320,7 @@
 {
 "slug": "hyundai-accent-2000-2005",
 "name": "Hyundai Accent 2000–2005",
-"i": 482,
+"i": 481,
 "article": "Category:Hyundai Accent (LC)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5331,7 +5331,7 @@
 {
 "slug": "hyundai-tucson-2004-2010",
 "name": "Hyundai Tucson 2004–2010",
-"i": 483,
+"i": 482,
 "article": "Category:Hyundai Tucson (JM)",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -5342,7 +5342,7 @@
 {
 "slug": "kia-rio-2000-2005",
 "name": "Kia Rio 2000–2005",
-"i": 484,
+"i": 483,
 "article": "Category:Kia Rio (DC)",
 "author": "Cutlass",
 "license": "CC0",
@@ -5353,7 +5353,7 @@
 {
 "slug": "kia-sportage-2004-2010",
 "name": "Kia Sportage 2004–2010",
-"i": 485,
+"i": 484,
 "article": "Category:Kia Sportage (KM)",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -5364,7 +5364,7 @@
 {
 "slug": "mitsubishi-lancer-2003-2007",
 "name": "Mitsubishi Lancer 2003–2007",
-"i": 486,
+"i": 485,
 "article": "search: Mitsubishi Lancer IX",
 "author": "Hyena2007",
 "license": "CC BY-SA 4.0",
@@ -5375,7 +5375,7 @@
 {
 "slug": "mitsubishi-lancer-2007-2017",
 "name": "Mitsubishi Lancer 2007–2017",
-"i": 487,
+"i": 486,
 "article": "search: Mitsubishi Lancer X",
 "author": "JustAnotherCarDesigner",
 "license": "CC0",
@@ -5386,7 +5386,7 @@
 {
 "slug": "mitsubishi-l200-2005-2015",
 "name": "Mitsubishi L200 2005–2015",
-"i": 488,
+"i": 487,
 "article": "Mitsubishi Triton",
 "author": "OSX",
 "license": "Public domain",
@@ -5397,7 +5397,7 @@
 {
 "slug": "mitsubishi-l200-1996-2005",
 "name": "Mitsubishi L200 1996–2005",
-"i": 489,
+"i": 488,
 "article": "Mitsubishi Triton",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5408,7 +5408,7 @@
 {
 "slug": "mitsubishi-pajero-1991-1999",
 "name": "Mitsubishi Pajero 1991–1999",
-"i": 490,
+"i": 489,
 "article": "search: Mitsubishi Pajero II",
 "author": "Dinkun Chen",
 "license": "CC BY-SA 4.0",
@@ -5419,7 +5419,7 @@
 {
 "slug": "mitsubishi-colt-1995-2003",
 "name": "Mitsubishi Colt 1995–2003",
-"i": 491,
+"i": 490,
 "article": "Mitsubishi Colt",
 "author": "User:Two hundred percent.",
 "license": "CC BY-SA 3.0",
@@ -5430,7 +5430,7 @@
 {
 "slug": "peugeot-205",
 "name": "Peugeot 205",
-"i": 492,
+"i": 491,
 "article": "Category:Peugeot 205",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5441,7 +5441,7 @@
 {
 "slug": "peugeot-106",
 "name": "Peugeot 106",
-"i": 493,
+"i": 492,
 "article": "Category:Peugeot 106",
 "author": "Calreyn88",
 "license": "CC BY-SA 4.0",
@@ -5452,29 +5452,29 @@
 {
 "slug": "peugeot-306",
 "name": "Peugeot 306",
-"i": 494,
+"i": 493,
 "article": "Category:Peugeot 306",
-"author": "Calreyn88",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:1995_Peugeot_306_Roland_Garros_Auto.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:1998_Peugeot_306_GLX_Automatic_Estate_2.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "peugeot-406",
 "name": "Peugeot 406",
-"i": 495,
+"i": 494,
 "article": "Category:Peugeot 406",
-"author": "Calreyn88",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:1999_Peugeot_406_Coupe_V6.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:1998_Peugeot_406_LX_DT_Break_1.9_Front.jpg",
 "skip": null
 },
 {
 "slug": "peugeot-405",
 "name": "Peugeot 405",
-"i": 496,
+"i": 495,
 "article": "Category:Peugeot 405",
 "author": "Rutger van der Maar",
 "license": "CC BY 2.0",
@@ -5485,7 +5485,7 @@
 {
 "slug": "citroen-xsara",
 "name": "Citroen Xsara",
-"i": 497,
+"i": 496,
 "article": "Category:Citroën Xsara",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5496,7 +5496,7 @@
 {
 "slug": "citroen-zx",
 "name": "Citroen ZX",
-"i": 498,
+"i": 497,
 "article": "Category:Citroën ZX",
 "author": "Calreyn88",
 "license": "CC BY-SA 4.0",
@@ -5507,7 +5507,7 @@
 {
 "slug": "citroen-ax",
 "name": "Citroen AX",
-"i": 499,
+"i": 498,
 "article": "Category:Citroën AX",
 "author": "Calreyn88",
 "license": "CC BY-SA 4.0",
@@ -5518,7 +5518,7 @@
 {
 "slug": "renault-clio-i",
 "name": "Renault Clio I",
-"i": 500,
+"i": 499,
 "article": "Category:Renault Clio I",
 "author": "Rutger van der Maar",
 "license": "CC BY 2.0",
@@ -5529,7 +5529,7 @@
 {
 "slug": "renault-clio-ii",
 "name": "Renault Clio II",
-"i": 501,
+"i": 500,
 "article": "Category:Renault Clio II",
 "author": "Calreyn88",
 "license": "CC BY-SA 4.0",
@@ -5540,7 +5540,7 @@
 {
 "slug": "renault-clio-iii",
 "name": "Renault Clio III",
-"i": 502,
+"i": 501,
 "article": "Category:Renault Clio III",
 "author": "ZafiraBeno1999",
 "license": "CC BY-SA 4.0",
@@ -5551,7 +5551,7 @@
 {
 "slug": "renault-m-gane-i",
 "name": "Renault Mégane I",
-"i": 503,
+"i": 502,
 "article": "Category:Renault Mégane I",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5562,7 +5562,7 @@
 {
 "slug": "renault-m-gane-ii",
 "name": "Renault Mégane II",
-"i": 504,
+"i": 503,
 "article": "Category:Renault Mégane II",
 "author": "DieselFordMondeo",
 "license": "CC BY-SA 4.0",
@@ -5573,7 +5573,7 @@
 {
 "slug": "renault-19",
 "name": "Renault 19",
-"i": 505,
+"i": 504,
 "article": "Category:Renault 19",
 "author": "File:1989 Renault 19 1.4 Cat in Silver, front right.jpg: Nunobraga\nderivative work: Mr.choppers",
 "license": "Public domain",
@@ -5584,7 +5584,7 @@
 {
 "slug": "renault-twingo-i",
 "name": "Renault Twingo I",
-"i": 506,
+"i": 505,
 "article": "Category:Renault Twingo I",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -5595,7 +5595,7 @@
 {
 "slug": "seat-ibiza-6k",
 "name": "Seat Ibiza 6K",
-"i": 507,
+"i": 506,
 "article": "Category:SEAT Ibiza 6K",
 "author": "OSX",
 "license": "Public domain",
@@ -5606,7 +5606,7 @@
 {
 "slug": "seat-ibiza-6l",
 "name": "Seat Ibiza 6L",
-"i": 508,
+"i": 507,
 "article": "Category:SEAT Ibiza 6L",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5617,7 +5617,7 @@
 {
 "slug": "seat-ibiza-6j",
 "name": "Seat Ibiza 6J",
-"i": 509,
+"i": 508,
 "article": "search: SEAT Ibiza 6J",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -5628,7 +5628,7 @@
 {
 "slug": "seat-leon-1m",
 "name": "Seat Leon 1M",
-"i": 510,
+"i": 509,
 "article": "search: SEAT León I",
 "author": "Thomas doerfer",
 "license": "CC BY-SA 3.0",
@@ -5639,7 +5639,7 @@
 {
 "slug": "skoda-octavia-1u",
 "name": "Skoda Octavia 1U",
-"i": 511,
+"i": 510,
 "article": "Category:Škoda Octavia I",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -5650,29 +5650,29 @@
 {
 "slug": "skoda-fabia-6y",
 "name": "Skoda Fabia 6Y",
-"i": 512,
+"i": 511,
 "article": "Category:Škoda Fabia I",
-"author": "Hundehalter",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Fabia_I_(2003)_accident_front_right.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2001_Skoda_Fabia_Comfort_8V_1.4_Front.jpg",
 "skip": null
 },
 {
 "slug": "skoda-felicia",
 "name": "Skoda Felicia",
-"i": 513,
+"i": 512,
 "article": "Category:Škoda Felicia",
-"author": "Wikimedia Commons",
-"license": "Public domain",
-"license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:Skoda_felicia_1962_front.jpg",
+"author": "Robotriot",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Skoda_Felicia_Front.jpg",
 "skip": null
 },
 {
 "slug": "audi-a4-b5",
 "name": "Audi A4 B5",
-"i": 514,
+"i": 513,
 "article": "Category:Audi A4 B5",
 "author": "OSX",
 "license": "Public domain",
@@ -5683,7 +5683,7 @@
 {
 "slug": "audi-a4-b6-b7",
 "name": "Audi A4 B6/B7",
-"i": 515,
+"i": 514,
 "article": "Category:Audi A4 B6",
 "author": "No machine-readable author provided. M 93 assumed (based on copyright claims).",
 "license": "CC BY-SA 3.0",
@@ -5694,7 +5694,7 @@
 {
 "slug": "audi-a3-8l",
 "name": "Audi A3 8L",
-"i": 516,
+"i": 515,
 "article": "Category:Audi A3 8L",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5705,7 +5705,7 @@
 {
 "slug": "audi-a3-8p",
 "name": "Audi A3 8P",
-"i": 517,
+"i": 516,
 "article": "Category:Audi A3 8P",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -5716,7 +5716,7 @@
 {
 "slug": "audi-a6-c5",
 "name": "Audi A6 C5",
-"i": 518,
+"i": 517,
 "article": "Category:Audi A6 C5",
 "author": "No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims).",
 "license": "CC BY-SA 3.0",
@@ -5727,7 +5727,7 @@
 {
 "slug": "audi-80",
 "name": "Audi 80",
-"i": 519,
+"i": 518,
 "article": "Category:Audi 80 B4",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -5738,29 +5738,29 @@
 {
 "slug": "suzuki-swift-1989-2003",
 "name": "Suzuki Swift 1989–2003",
-"i": 520,
-"article": "search: Suzuki Swift II",
-"author": "Évelyne Le Hen",
-"license": "CC BY 4.0",
-"license_url": "https://creativecommons.org/licenses/by/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Joaquim_Martins_(%C5%A0koda_Fabia_II),_Lambert_Galland_(Renault_Clio_II),_Franck_Hardonni%C3%A8re_(Suzuki_Swift_I)_-_Dreux_2012.jpg",
+"i": 519,
+"article": "Suzuki Cultus",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2000_Suzuki_Swift_GLS_1.3_Front.jpg",
 "skip": null
 },
 {
 "slug": "suzuki-swift-2005-2010",
 "name": "Suzuki Swift 2005–2010",
-"i": 521,
+"i": 520,
 "article": "Category:Suzuki Swift (2004)",
-"author": "Nard Louws",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:May_2011_Albany,_NZ_tornado-_car_with_front_under_rubble.jpg",
+"author": "Rudolf Stricker",
+"license": "CC BY-SA 3.0",
+"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+"page": "https://commons.wikimedia.org/wiki/File:Suzuki_Swift_front_20070902.jpg",
 "skip": null
 },
 {
 "slug": "suzuki-vitara-1988-1998",
 "name": "Suzuki Vitara 1988–1998",
-"i": 522,
+"i": 521,
 "article": "Category:Suzuki Sidekick",
 "author": "SsmIntrigue",
 "license": "CC BY-SA 4.0",
@@ -5771,7 +5771,7 @@
 {
 "slug": "mazda-626",
 "name": "Mazda 626",
-"i": 523,
+"i": 522,
 "article": "Category:Mazda 626 (GF)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5782,7 +5782,7 @@
 {
 "slug": "mazda-121",
 "name": "Mazda 121",
-"i": 524,
+"i": 523,
 "article": "Category:Mazda 121 (DB)",
 "author": "Rutger van der Maar",
 "license": "CC BY 2.0",
@@ -5793,7 +5793,7 @@
 {
 "slug": "isuzu-trooper",
 "name": "Isuzu Trooper",
-"i": 525,
+"i": 524,
 "article": "Category:Isuzu Trooper",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -5804,7 +5804,7 @@
 {
 "slug": "jeep-cherokee-xj",
 "name": "Jeep Cherokee XJ",
-"i": 526,
+"i": 525,
 "article": "Category:Jeep Cherokee (XJ)",
 "author": "Mr.choppers",
 "license": "CC BY-SA 4.0",
@@ -5815,7 +5815,7 @@
 {
 "slug": "toyota-land-cruiser-prado-j120",
 "name": "Toyota Land Cruiser Prado J120",
-"i": 527,
+"i": 526,
 "article": "search: Toyota Land Cruiser Prado J120",
 "author": "OSX",
 "license": "Public domain",
@@ -5826,7 +5826,7 @@
 {
 "slug": "alfa-romeo-145-146",
 "name": "Alfa Romeo 145 / 146",
-"i": 528,
+"i": 527,
 "article": "Category:Alfa Romeo 145",
 "author": "AlfaTigerGT",
 "license": "CC BY-SA 3.0",
@@ -5837,7 +5837,7 @@
 {
 "slug": "alfa-romeo-33",
 "name": "Alfa Romeo 33",
-"i": 529,
+"i": 528,
 "article": "Category:Alfa Romeo 33",
 "author": "Kieran White from Manchester, England",
 "license": "CC BY 2.0",
@@ -5848,12 +5848,12 @@
 {
 "slug": "lancia-y-ypsilon-1995-2003",
 "name": "Lancia Y (Ypsilon) 1995–2003",
-"i": 530,
+"i": 529,
 "article": "Category:Lancia Y",
-"author": "Pava",
-"license": "CC BY-SA 3.0 it",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/it/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:%22_15_-_ITALY_-_sportbacks_cars_Lancia_Y_red_and_Alfa_Romeo_Giulietta_white_front_view.jpg",
+"author": "Corvettec6r",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Lancia_Y_1.4_12V_front.JPG",
 "skip": null
 }
 ]

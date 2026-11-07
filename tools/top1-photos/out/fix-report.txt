@@ -1,12 +1,32 @@
-  1/12 Toyota Corolla E11                 OK [search: Toyota Corolla E110] Toyota Corolla E110 front 20080215.jpg
-  2/12 Toyota Corolla E12                 OK [search: Toyota Corolla E120] Toyota Corolla (E120) & Corolla Axio (E160) front.JPG
-  3/12 Toyota Corolla E15                 OK [search: Toyota Corolla E150] TOYOTA COROLLA (E150) China (4).jpg
-  4/12 Toyota Yaris XP10                  OK [search: Toyota Yaris XP10] 2000 Toyota Yaris GS 1.0 Front.jpg
-  5/12 Toyota Yaris XP90                  OK [search: Toyota Yaris XP90] Toyota Yaris NCP91 FL 1.5L Cosmo Red 01.jpg
-  6/12 Toyota Yaris XP130                 OK [search: Toyota Yaris XP130] Toyota Yaris (XP130) – Frontansicht, 21. Juli 2012, Heiligenhaus.jpg
-  7/12 Toyota Hilux 1988–1997             OK [Toyota Hilux] 1995 Toyota HiLux 4X4 Diesel 2.5 Front.jpg
-  8/12 Toyota Hilux 1997–2005             OK [search: Toyota Hilux (sixth generation)] Toyota Hilux DoubleCab 4WD (2001) (52093844042).jpg
-  9/12 Toyota Hilux 2005–2015             OK [search: Toyota Hilux (seventh generation)] Toyota Hilux 2.5D Double Cab (2014) (52171624241).jpg
- 10/12 Toyota RAV4 XA20                   OK [Category:Toyota RAV4 (XA20)] Diplomatic license plate of Tunisia.jpg
- 11/12 Toyota Avensis T25                 OK [Category:Toyota Avensis (T250)] Biserica Sf. Ioan Botezatorul din Iasi22.jpg
- 12/12 Toyota Land Cruiser Prado J120     OK [search: Toyota Land Cruiser Prado J120] 2007 Toyota Land Cruiser Prado (GRJ120R) 01.jpg
+  1/32 BMW Σειρά 3 E30                    OK [Category:BMW E30] BMW E30 front 20080116.jpg
+  2/32 BMW Σειρά 3 E36                    OK [Category:BMW E36] 1993 bmw 325is front left.jpg
+  3/32 BMW Σειρά 3 E46                    OK [Category:BMW E46] 2003 (53) BMW 3-Series 320Ci Sport (E46) - 2171cc 2.2 170PS Petrol - 15-04-2025, Front Right.jpg
+  4/32 BMW Σειρά 3 F30                    OK [Category:BMW F30] 2018 BMW 3-Series 320d Sport (F30) - 2.0 (160PS) diesel automatic - 2025-07-08, front right.jpg
+  5/32 BMW Σειρά 5 E39                    OK [Category:BMW E39] 2004 BMW 528i E39, front left, 05-24-2024.jpg
+  6/32 BMW Σειρά 1 E87                    manual: no photo for this generation (BMW E87: empty or missing; BMW 1 Series (E87): empty or missing; BMW E81: empty or missing; search: nothing named for this generation; article: nothing named for this generation)
+  7/32 Mercedes C-Class W203              OK [Category:Mercedes-Benz W203] 2001 Mercedes-Benz W203 C200 Kompressor, front left, 06-29-2024.jpg
+  8/32 Mercedes C-Class W204              OK [Category:Mercedes-Benz W204] 2008 Mercedes-Benz C220 Sport CDi Automatic 2.1 Front.jpg
+  9/32 Mercedes E-Class W210              OK [Category:Mercedes-Benz W210] 1997 Mercedes-Benz E200 Elegance Automatic 2.0 Front.jpg
+ 10/32 Mercedes E-Class W211              OK [Category:Mercedes-Benz W211] Mercedes E-Klasse (W211) Avantgarde 20090610 front.JPG
+ 11/32 Volkswagen Transporter T5          OK [Category:Volkswagen T5] DSC05468 HIO Johanniter Wien, Volkswagen T5, Front Right, 2023-10.jpg
+ 12/32 Volkswagen Polo 6N                 OK [Category:Volkswagen Polo III] VW Polo 3 front 20071007.jpg
+ 13/32 Volkswagen Polo 6R                 OK [Category:Volkswagen Polo V] 2011 Volkswagen Polo S 60 1.2 Front.jpg
+ 14/32 Volkswagen Golf 6                  OK [Category:Volkswagen Golf VI] Volkswagen Golf VI 1.4 TSI hatchback (2009).jpg
+ 15/32 Opel Corsa C                       OK [Category:Opel Corsa C] Opel Corsa C front.jpg
+ 16/32 Opel Frontera                      OK [Category:Opel Frontera B] 1999 Opel Frontera Sport 2.2 16V (52757795900).jpg
+ 17/32 Toyota RAV4 XA20                   OK [Category:Toyota RAV4 (XA20)] 2002 Toyota Rav4 L 2-Door in Super White, Front Right, 03-17-2023.jpg
+ 18/32 Toyota Avensis T25                 OK [Category:Toyota Avensis (T250)] 2003 Toyota Avensis T3-S 1.8 Front.jpg
+ 19/32 Toyota Hilux 1997–2005             OK [search: Toyota Hilux (sixth generation)] Toyota Hilux DoubleCab 4WD (2001) (52093844042).jpg
+ 20/32 Toyota Hilux 2005–2015             OK [search: Toyota Hilux (seventh generation)] Toyota Hilux 2.5D Double Cab (2014) (52171624241).jpg
+ 21/32 Toyota Corolla E12                 OK [search: Toyota Corolla E120] 2004 Toyota Corolla Saloon (Front).png
+ 22/32 Mitsubishi Pajero 1991–1999        OK [search: Mitsubishi Pajero II] MITSUBISHI PAJERO, MONTERO (V20- ,NH, NJ, NK, NL) China (3).jpg
+ 23/32 Mitsubishi Colt 1995–2003          OK [Mitsubishi Colt] Mitsubishi Colt (WALD) (2003) (front), Serdang.jpg
+ 24/32 Skoda Fabia 6Y                     OK [Category:Škoda Fabia I] 2001 Skoda Fabia Comfort 8V 1.4 Front.jpg
+ 25/32 Skoda Felicia                      OK [Category:Škoda Felicia] Skoda Felicia Front.jpg
+ 26/32 Suzuki Swift 1989–2003             OK [Suzuki Cultus] 2000 Suzuki Swift GLS 1.3 Front.jpg
+ 27/32 Suzuki Swift 2005–2010             OK [Category:Suzuki Swift (2004)] Suzuki Swift front 20070902.jpg
+ 28/32 Lancia Y (Ypsilon) 1995–2003       OK [Category:Lancia Y] Lancia Y 1.4 12V front.JPG
+ 29/32 Fiat Punto 1993–1999               OK [search: Fiat Punto (176)] 1996 Fiat Punto 55 - front.jpg
+ 30/32 Peugeot 306                        OK [Category:Peugeot 306] 1998 Peugeot 306 GLX Automatic Estate 2.0 Front.jpg
+ 31/32 Peugeot 406                        OK [Category:Peugeot 406] 1998 Peugeot 406 LX DT Break 1.9 Front.jpg
+ 32/32 Ford Fiesta Mk4                    OK [search: Ford Fiesta IV] 1996 Ford Fiesta 1.3 LX (28212307366).jpg
