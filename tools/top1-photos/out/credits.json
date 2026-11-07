@@ -85,22 +85,22 @@
 "slug": "toyota-c-hr",
 "name": "Toyota C-HR",
 "i": 7,
-"article": "Toyota C-HR+",
-"author": "© M 93",
-"license": "CC BY-SA 3.0 de",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Toyota_C-HR%2B_Teamplayer_%E2%80%93_f_05042026.jpg",
+"article": "Toyota C-HR",
+"author": "EurovisionNim",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Toyota_C-HR_GR_Sport_Hybrid,_2021_front.jpg",
 "skip": null
 },
 {
 "slug": "toyota-corolla",
 "name": "Toyota Corolla",
 "i": 8,
-"article": "Toyota GR Corolla",
-"author": "Elise240SX",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2024_Toyota_GR_Corolla_Circuit_Edition_in_Blue_Flame,_front_right,_2024-06-30.jpg",
+"article": "Toyota Corolla (E210)",
+"author": "Poprace",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Toyota_Corolla_XII_CNDM_MY2026_(front).jpg",
 "skip": null
 },
 {
@@ -371,22 +371,22 @@
 "slug": "fiat-500",
 "name": "Fiat 500",
 "i": 33,
-"article": "Fiat 500",
-"author": "IFCAR",
-"license": "Public domain",
-"license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:1970_Fiat_500_L_--_2011_DC_1.jpg",
+"article": "Fiat 500 (2007)",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2017_Fiat_500_Anniversario_1.2_Front.jpg",
 "skip": null
 },
 {
 "slug": "ford-puma",
 "name": "Ford Puma",
 "i": 34,
-"article": "Ford Puma (coupé)",
+"article": "Ford Puma (crossover)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:1999_Ford_Puma_16_1.7.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2020_Ford_Puma_ST-Line_X_EcoBoost_Hybrid_1.0_Front.jpg",
 "skip": null
 },
 {
@@ -525,11 +525,11 @@
 "slug": "toyota-hilux",
 "name": "Toyota Hilux",
 "i": 47,
-"article": "Toyota Hilux Champ",
-"author": "Chanokchon",
+"article": "Toyota Hilux",
+"author": "Andra Febrian",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2023_Toyota_Hilux_Champ_2.4_Diesel_SWB_Attractive_Package.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2024_Toyota_Hilux_2.4_V_4x4_Crew_Cab_(Indonesia)_front_view.jpg",
 "skip": null
 },
 {
@@ -581,21 +581,21 @@
 "name": "Nissan Pick Up",
 "i": 52,
 "article": "Nissan Navara",
-"author": "Vogue2Voke",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2021_Nissan_Navara_facelift_(cropped).jpg",
+"author": "EEJCC",
+"license": "CC0",
+"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Nissan_Frontier_D22.jpg",
 "skip": null
 },
 {
 "slug": "isuzu-pick-up",
 "name": "Isuzu Pick Up",
 "i": 53,
-"article": "Isuzu Piazza",
-"author": "Cutlass",
-"license": "CC0",
-"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:1987_Isuzu_Impulse_RS_Turbo_in_Pure_White,_front_left,_11-05-2022.jpg",
+"article": "Isuzu Faster",
+"author": "Mr.choppers",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:1990_Isuzu_Pickup_2WD,_front_left.jpg",
 "skip": null
 },
 {
@@ -668,11 +668,11 @@
 "slug": "jeep-gladiator",
 "name": "Jeep Gladiator",
 "i": 60,
-"article": "Jeep Gladiator (SJ)",
-"author": "CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikiped",
+"article": "Jeep Gladiator (JT)",
+"author": "Kevauto",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:1974_Jeep_J10_pickup_truck_all-original_finished_in_green_at_2017_AMO_meet_01of12.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2020_Jeep_Gladiator_Rubicon,_front_10.25.20.jpg",
 "skip": null
 },
 {
@@ -767,11 +767,11 @@
 "slug": "kia-k2500",
 "name": "Kia K2500",
 "i": 69,
-"article": "Kia EV9",
-"author": "Alexander-93",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Kia_EV9_1X7A2472.jpg",
+"article": "Kia Bongo",
+"author": "Phasmatisnox",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Kia_Bongo_Frontier.jpg",
 "skip": null
 },
 {
@@ -789,11 +789,11 @@
 "slug": "piaggio-porter",
 "name": "Piaggio Porter",
 "i": 71,
-"article": "Piaggio",
-"author": "Piaggio",
+"article": "Piaggio Porter",
+"author": "MartinHansV",
 "license": "Public domain",
 "license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:Piaggio_Group_logo.svg",
+"page": "https://commons.wikimedia.org/wiki/File:MHV_Piaggio_Porter_01.jpg",
 "skip": null
 },
 {
@@ -844,11 +844,11 @@
 "slug": "ford-tourneo",
 "name": "Ford Tourneo",
 "i": 76,
-"article": "Ford Transit",
-"author": "Vauxford",
+"article": "Ford Transit Custom",
+"author": "Alexander-93",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2016_Ford_Transit_350_2.2.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:Ford_E-Tourneo_Custom_(2023)_Auto_Zuerich_2023_1X7A1173.jpg",
 "skip": null
 },
 {
@@ -921,22 +921,22 @@
 "slug": "citroen-jumper",
 "name": "Citroen Jumper",
 "i": 83,
-"article": "Citroën C3 WRC",
-"author": "Citroën Racing",
-"license": "CC BY 4.0",
-"license_url": "https://creativecommons.org/licenses/by/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:C3_WRC_in_Monte_Carlo_-_fotocredd_Citro%C3%ABn_Racing.jpg",
+"article": "Fiat Ducato",
+"author": "Alexander Migl",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Jumper_(2024)_DSC_8018.jpg",
 "skip": null
 },
 {
 "slug": "citroen-nemo",
 "name": "Citroen Nemo",
 "i": 84,
-"article": "Citroën C3 WRC",
-"author": "Citroën Racing",
-"license": "CC BY 4.0",
-"license_url": "https://creativecommons.org/licenses/by/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:C3_WRC_in_Monte_Carlo_-_fotocredd_Citro%C3%ABn_Racing.jpg",
+"article": "Fiat Fiorino",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2012_Citroen_Nemo_600_Enterprise_HDi_1.2_Front.jpg",
 "skip": null
 },
 {
@@ -944,10 +944,10 @@
 "name": "Peugeot Partner",
 "i": 85,
 "article": "Citroën Berlingo",
-"author": "© M 93",
-"license": "CC BY-SA 3.0 de",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_(III)_%E2%80%93_f_02012021.jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Peugeot_Partner_Tepee_Active_Front.jpg",
 "skip": null
 },
 {
@@ -955,10 +955,10 @@
 "name": "Peugeot Rifter",
 "i": 86,
 "article": "Citroën Berlingo",
-"author": "© M 93",
-"license": "CC BY-SA 3.0 de",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Citro%C3%ABn_Berlingo_XL_BlueHDi_130_EAT8_Shine_XTR_(III)_%E2%80%93_f_02012021.jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Peugeot_Rifter_Allure_BlueHDi_1.6_Front.jpg",
 "skip": null
 },
 {
@@ -966,38 +966,38 @@
 "name": "Peugeot Expert",
 "i": 87,
 "article": "Citroën Jumpy",
-"author": "Vauxford",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2016_Citroen_Dispatch_1000_BlueHDi_X_S_1.6_Front.jpg",
+"author": "Harvey Bold",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2024_Peugeot_Expert_Professional_L1_BlueHDi_-_1499cc_1.5_(120PS)_Diesel_-_White_-_06-2024,_Front.jpg",
 "skip": null
 },
 {
 "slug": "peugeot-boxer",
 "name": "Peugeot Boxer",
-"i": -1,
-"article": "Peugeot 406",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"i": 88,
+"article": "Fiat Ducato",
+"author": "Alexander Migl",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Peugeot_Boxer_(2024)_DSC_8785.jpg",
+"skip": null
 },
 {
 "slug": "peugeot-bipper",
 "name": "Peugeot Bipper",
-"i": 88,
-"article": "Peugeot RCZ",
-"author": "M 93",
-"license": "CC BY-SA 3.0 de",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Peugeot_RCZ_(Facelift)_%E2%80%93_Frontansicht,_7._Dezember_2014,_Ratingen.jpg",
+"i": 89,
+"article": "Fiat Fiorino",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2010_Peugeot_Bipper_Professional_HDi_1.4_Front.jpg",
 "skip": null
 },
 {
 "slug": "renault-kangoo",
 "name": "Renault Kangoo",
-"i": 89,
+"i": 90,
 "article": "Renault Kangoo",
 "author": "Cutlass",
 "license": "CC0",
@@ -1008,7 +1008,7 @@
 {
 "slug": "renault-trafic",
 "name": "Renault Trafic",
-"i": 90,
+"i": 91,
 "article": "Renault Trafic",
 "author": "LuvsMG481",
 "license": "CC BY-SA 4.0",
@@ -1019,7 +1019,7 @@
 {
 "slug": "renault-master",
 "name": "Renault Master",
-"i": 91,
+"i": 92,
 "article": "Renault Master",
 "author": "Cutlass",
 "license": "CC0",
@@ -1030,7 +1030,7 @@
 {
 "slug": "opel-combo",
 "name": "Opel Combo",
-"i": 92,
+"i": 93,
 "article": "Opel Combo",
 "author": "Lüko Willms",
 "license": "CC BY-SA 3.0",
@@ -1041,7 +1041,7 @@
 {
 "slug": "opel-vivaro",
 "name": "Opel Vivaro",
-"i": 93,
+"i": 94,
 "article": "Opel Vivaro",
 "author": "M 93",
 "license": "CC BY-SA 3.0",
@@ -1052,13 +1052,13 @@
 {
 "slug": "opel-movano",
 "name": "Opel Movano",
-"i": 94,
-"article": "Opel Corsa",
-"author": "Alexander Migl",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg",
-"skip": null
+"i": -1,
+"article": "",
+"author": null,
+"license": null,
+"license_url": null,
+"page": null,
+"skip": "manual: no good free photo (Opel Movano: no article; Vauxhall Movano: no article)"
 },
 {
 "slug": "volkswagen-caddy",
@@ -1108,11 +1108,11 @@
 "slug": "mercedes-v-class",
 "name": "Mercedes V-Class",
 "i": 99,
-"article": "Mercedes-Benz E-Class",
-"author": "Alexander-93",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W214_1X7A1841.jpg",
+"article": "Mercedes-Benz Vito",
+"author": "© M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_V_250_d_Exclusive_AMG_Line_Lang_(V_447)_%E2%80%93_Frontansicht,_29._Juni_2016,_D%C3%BCsseldorf.jpg",
 "skip": null
 },
 {
@@ -1141,11 +1141,11 @@
 "slug": "toyota-proace",
 "name": "Toyota Proace",
 "i": 102,
-"article": "Toyota GR GT",
-"author": "Aos.1905",
+"article": "Citroën Jumpy",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Toyota_GR_GT_prototype_(front_three-quarter_view)_at_Osaka_Auto_Messe_2026_(cropped).jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Toyota_Proace_Comfort_1.6_Front.jpg",
 "skip": null
 },
 {
@@ -1185,22 +1185,22 @@
 "slug": "nissan-nv350",
 "name": "Nissan NV350",
 "i": 106,
-"article": "Nissan Z-car",
-"author": "Charles01",
+"article": "Nissan Caravan",
+"author": "Mr.choppers",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Datsun_240Z_mfd_1970_registered_January_1971_per_dvla_2393cc.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2022_Nissan_Caravan_DX_in_White,_front_right.jpg",
 "skip": null
 },
 {
 "slug": "nissan-primastar",
 "name": "Nissan Primastar",
 "i": 107,
-"article": "Nissan Leaf",
-"author": "Alexander Migl",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf_(ZE2)_autoMOBIL_T%C3%BCbingen_2025_DSC_2752.jpg",
+"article": "Renault Trafic",
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Nissan_Primastar_dCi_100_%E2%80%93_Frontansicht,_1._M%C3%A4rz_2014,_Wuppertal.jpg",
 "skip": null
 },
 {
@@ -1240,11 +1240,11 @@
 "slug": "dacia-spring",
 "name": "Dacia Spring",
 "i": 111,
-"article": "Automobile Dacia",
-"author": "Matti Blume",
+"article": "Dacia Spring",
+"author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Dacia,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0127).jpg",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2024_Dacia_Spring_DSC_7937.jpg",
 "skip": null
 },
 {
@@ -1646,18 +1646,18 @@
 {
 "slug": "opel-meriva",
 "name": "Opel Meriva",
-"i": -1,
+"i": 148,
 "article": "Opel Meriva",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Opel_Meriva_1.4_Design_Edition_(B)_%E2%80%93_Frontansicht,_11._M%C3%A4rz_2012,_Heiligenhaus.jpg",
+"skip": null
 },
 {
 "slug": "opel-zafira",
 "name": "Opel Zafira",
-"i": 148,
+"i": 149,
 "article": "Opel Zafira",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -1668,7 +1668,7 @@
 {
 "slug": "opel-agila",
 "name": "Opel Agila",
-"i": 149,
+"i": 150,
 "article": "Opel Agila",
 "author": "M 93",
 "license": "CC BY-SA 3.0",
@@ -1679,7 +1679,7 @@
 {
 "slug": "opel-kadett",
 "name": "Opel Kadett",
-"i": 150,
+"i": 151,
 "article": "Opel Kadett",
 "author": "Charles01",
 "license": "CC BY-SA 3.0",
@@ -1690,7 +1690,7 @@
 {
 "slug": "ford-ka",
 "name": "Ford Ka",
-"i": 151,
+"i": 152,
 "article": "Ford Ka",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1701,7 +1701,7 @@
 {
 "slug": "ford-mondeo",
 "name": "Ford Mondeo",
-"i": 152,
+"i": 153,
 "article": "Ford Mondeo",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -1712,7 +1712,7 @@
 {
 "slug": "ford-c-max",
 "name": "Ford C-Max",
-"i": 153,
+"i": 154,
 "article": "Ford C-Max",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -1723,7 +1723,7 @@
 {
 "slug": "ford-s-max",
 "name": "Ford S-Max",
-"i": 154,
+"i": 155,
 "article": "Ford S-Max",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1734,7 +1734,7 @@
 {
 "slug": "ford-galaxy",
 "name": "Ford Galaxy",
-"i": 155,
+"i": 156,
 "article": "Ford Galaxy",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1745,18 +1745,18 @@
 {
 "slug": "ford-fusion",
 "name": "Ford Fusion",
-"i": 156,
-"article": "Ford Fusion (Americas)",
-"author": "Kevauto",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2019_Ford_Fusion_Titanium_Energi,_front_2.29.20.jpg",
+"i": 157,
+"article": "Ford Fusion (Europe)",
+"author": "No machine-readable author provided. M 93 assumed (based on copyright claims).",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:Ford_Fusion_(2002%E2%80%932005)_front_MJ.JPG",
 "skip": null
 },
 {
 "slug": "ford-ecosport",
 "name": "Ford EcoSport",
-"i": 157,
+"i": 158,
 "article": "Ford EcoSport",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1767,7 +1767,7 @@
 {
 "slug": "ford-mustang",
 "name": "Ford Mustang",
-"i": 158,
+"i": 159,
 "article": "Ford Mustang",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -1778,7 +1778,7 @@
 {
 "slug": "ford-mustang-mach-e",
 "name": "Ford Mustang Mach-E",
-"i": 159,
+"i": 160,
 "article": "Ford Mustang Mach-E",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1789,7 +1789,7 @@
 {
 "slug": "fiat-500x",
 "name": "Fiat 500X",
-"i": 160,
+"i": 161,
 "article": "Fiat 500X",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1800,7 +1800,7 @@
 {
 "slug": "fiat-500l",
 "name": "Fiat 500L",
-"i": 161,
+"i": 162,
 "article": "Fiat 500L",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1811,7 +1811,7 @@
 {
 "slug": "fiat-punto",
 "name": "Fiat Punto",
-"i": 162,
+"i": 163,
 "article": "Fiat Punto",
 "author": "Corvettec6r",
 "license": "CC0",
@@ -1822,7 +1822,7 @@
 {
 "slug": "fiat-grande-punto",
 "name": "Fiat Grande Punto",
-"i": 163,
+"i": 164,
 "article": "Fiat Punto",
 "author": "Corvettec6r",
 "license": "CC0",
@@ -1833,7 +1833,7 @@
 {
 "slug": "fiat-tipo",
 "name": "Fiat Tipo",
-"i": 164,
+"i": 165,
 "article": "Fiat Tipo (2015)",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -1844,18 +1844,18 @@
 {
 "slug": "fiat-bravo",
 "name": "Fiat Bravo",
-"i": 165,
-"article": "Fiat Bravo and Brava",
-"author": "Charles01",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Fiat_Bravo_ca_1995_aus_Hof_(Bayern)_bei_Mill_Road_in_Cambridge_2011.jpg",
+"i": 166,
+"article": "Fiat Bravo (2007)",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2010_Fiat_Bravo_Sport_Multijet_165_2.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "fiat-seicento",
 "name": "Fiat Seicento",
-"i": 166,
+"i": 167,
 "article": "Fiat Seicento",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -1866,7 +1866,7 @@
 {
 "slug": "fiat-linea",
 "name": "Fiat Linea",
-"i": 167,
+"i": 168,
 "article": "Fiat Linea",
 "author": "order_242 from Chile",
 "license": "CC BY-SA 2.0",
@@ -1877,7 +1877,7 @@
 {
 "slug": "fiat-uno",
 "name": "Fiat Uno",
-"i": 168,
+"i": 169,
 "article": "Fiat Uno",
 "author": "juan elo;Cropped and digitally altered by uploader Mr.choppers",
 "license": "CC BY-SA 2.0",
@@ -1888,7 +1888,7 @@
 {
 "slug": "fiat-sedici",
 "name": "Fiat Sedici",
-"i": 169,
+"i": 170,
 "article": "Fiat Sedici",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1899,7 +1899,7 @@
 {
 "slug": "nissan-micra",
 "name": "Nissan Micra",
-"i": 170,
+"i": 171,
 "article": "Nissan Micra",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -1910,7 +1910,7 @@
 {
 "slug": "nissan-x-trail",
 "name": "Nissan X-Trail",
-"i": 171,
+"i": 172,
 "article": "Nissan X-Trail",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -1921,7 +1921,7 @@
 {
 "slug": "nissan-note",
 "name": "Nissan Note",
-"i": 172,
+"i": 173,
 "article": "Nissan Note",
 "author": "TTTNIS",
 "license": "CC0",
@@ -1932,7 +1932,7 @@
 {
 "slug": "nissan-almera",
 "name": "Nissan Almera",
-"i": 173,
+"i": 174,
 "article": "Nissan Almera",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -1943,7 +1943,7 @@
 {
 "slug": "nissan-primera",
 "name": "Nissan Primera",
-"i": 174,
+"i": 175,
 "article": "Nissan Primera",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -1954,7 +1954,7 @@
 {
 "slug": "nissan-leaf",
 "name": "Nissan Leaf",
-"i": 175,
+"i": 176,
 "article": "Nissan Leaf",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -1965,7 +1965,7 @@
 {
 "slug": "nissan-patrol",
 "name": "Nissan Patrol",
-"i": 176,
+"i": 177,
 "article": "Nissan Patrol",
 "author": "EurovisionNim",
 "license": "CC BY-SA 4.0",
@@ -1976,7 +1976,7 @@
 {
 "slug": "nissan-pathfinder",
 "name": "Nissan Pathfinder",
-"i": 177,
+"i": 178,
 "article": "Nissan Pathfinder",
 "author": "Mr.choppers",
 "license": "CC BY-SA 3.0",
@@ -1987,7 +1987,7 @@
 {
 "slug": "nissan-terrano",
 "name": "Nissan Terrano",
-"i": 178,
+"i": 179,
 "article": "Nissan Terrano II",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -1998,7 +1998,7 @@
 {
 "slug": "nissan-ariya",
 "name": "Nissan Ariya",
-"i": 179,
+"i": 180,
 "article": "Nissan Ariya",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2009,7 +2009,7 @@
 {
 "slug": "nissan-370z",
 "name": "Nissan 370Z",
-"i": 180,
+"i": 181,
 "article": "Nissan 370Z",
 "author": "TTTNIS",
 "license": "CC0",
@@ -2020,7 +2020,7 @@
 {
 "slug": "hyundai-i30",
 "name": "Hyundai i30",
-"i": 181,
+"i": 182,
 "article": "Hyundai i30",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2031,7 +2031,7 @@
 {
 "slug": "hyundai-bayon",
 "name": "Hyundai Bayon",
-"i": 182,
+"i": 183,
 "article": "Hyundai Bayon",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2042,7 +2042,7 @@
 {
 "slug": "hyundai-santa-fe",
 "name": "Hyundai Santa Fe",
-"i": 183,
+"i": 184,
 "article": "Hyundai Santa Fe",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -2053,18 +2053,18 @@
 {
 "slug": "hyundai-ix35",
 "name": "Hyundai ix35",
-"i": 184,
-"article": "Hyundai ix35 (China)",
-"author": "Anonymousfox36",
+"i": 185,
+"article": "Hyundai Tucson",
+"author": "User3204",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Hyundai_ix35_II_facelift_IMG001.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2017_Beijing-Hyundai_ix35_(front).jpg",
 "skip": null
 },
 {
 "slug": "hyundai-ix20",
 "name": "Hyundai ix20",
-"i": 185,
+"i": 186,
 "article": "Hyundai ix20",
 "author": "Harvey Bold",
 "license": "CC0",
@@ -2075,7 +2075,7 @@
 {
 "slug": "hyundai-getz",
 "name": "Hyundai Getz",
-"i": 186,
+"i": 187,
 "article": "Hyundai Getz",
 "author": "Mick from Northamptonshire, England",
 "license": "CC BY 2.0",
@@ -2086,7 +2086,7 @@
 {
 "slug": "hyundai-atos",
 "name": "Hyundai Atos",
-"i": 187,
+"i": 188,
 "article": "Hyundai Atos",
 "author": "order_242 from Chile",
 "license": "CC BY-SA 2.0",
@@ -2097,7 +2097,7 @@
 {
 "slug": "hyundai-accent",
 "name": "Hyundai Accent",
-"i": 188,
+"i": 189,
 "article": "Hyundai Accent",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -2108,7 +2108,7 @@
 {
 "slug": "hyundai-elantra",
 "name": "Hyundai Elantra",
-"i": 189,
+"i": 190,
 "article": "Hyundai Elantra",
 "author": "Cutlass",
 "license": "CC0",
@@ -2119,18 +2119,18 @@
 {
 "slug": "hyundai-ioniq",
 "name": "Hyundai Ioniq",
-"i": 190,
-"article": "Hyundai Ioniq 3",
-"author": "AutoGids",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:2026_Hyundai_Ioniq_3_N_Line_(Europe)_front_view_02.png",
+"i": 191,
+"article": "Hyundai Ioniq",
+"author": "Elise240SX",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Ioniq_Plug-In_Hybrid,_Front_Right,_10-17-2021.jpg",
 "skip": null
 },
 {
 "slug": "hyundai-ioniq-5",
 "name": "Hyundai Ioniq 5",
-"i": 191,
+"i": 192,
 "article": "Hyundai Ioniq 5",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2141,7 +2141,7 @@
 {
 "slug": "hyundai-ioniq-6",
 "name": "Hyundai Ioniq 6",
-"i": 192,
+"i": 193,
 "article": "Hyundai Ioniq 6",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -2152,7 +2152,7 @@
 {
 "slug": "hyundai-coupe",
 "name": "Hyundai Coupe",
-"i": 193,
+"i": 194,
 "article": "Hyundai Tiburon",
 "author": "Cryostasis",
 "license": "CC BY-SA 2.0",
@@ -2163,18 +2163,18 @@
 {
 "slug": "hyundai-matrix",
 "name": "Hyundai Matrix",
-"i": 194,
-"article": "Hyundai Ioniq 3",
-"author": "AutoGids",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:2026_Hyundai_Ioniq_3_N_Line_(Europe)_front_view_02.png",
+"i": 195,
+"article": "Hyundai Lavita",
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Hyundai_Matrix_1.6_Comfort_(2._Facelift)_%E2%80%93_Frontansicht,_14._August_2011,_Heiligenhaus.jpg",
 "skip": null
 },
 {
 "slug": "kia-ceed",
 "name": "Kia Ceed",
-"i": 195,
+"i": 196,
 "article": "Kia Ceed",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2185,18 +2185,18 @@
 {
 "slug": "kia-xceed",
 "name": "Kia XCeed",
-"i": 196,
+"i": 197,
 "article": "Kia Ceed",
-"author": "Vauxford",
+"author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2018_Kia_Ceed_First_Edition_1.4_Front.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:Kia_XCeed_(2026)_IMG_7509.jpg",
 "skip": null
 },
 {
 "slug": "kia-niro",
 "name": "Kia Niro",
-"i": 197,
+"i": 198,
 "article": "Kia Niro",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2207,7 +2207,7 @@
 {
 "slug": "kia-rio",
 "name": "Kia Rio",
-"i": 198,
+"i": 199,
 "article": "Kia Rio",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2218,7 +2218,7 @@
 {
 "slug": "kia-sorento",
 "name": "Kia Sorento",
-"i": 199,
+"i": 200,
 "article": "Kia Sorento",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -2229,7 +2229,7 @@
 {
 "slug": "kia-ev6",
 "name": "Kia EV6",
-"i": 200,
+"i": 201,
 "article": "Kia EV6",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2240,7 +2240,7 @@
 {
 "slug": "kia-carens",
 "name": "Kia Carens",
-"i": 201,
+"i": 202,
 "article": "Kia Carens",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -2251,7 +2251,7 @@
 {
 "slug": "kia-venga",
 "name": "Kia Venga",
-"i": 202,
+"i": 203,
 "article": "Kia Venga",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2262,7 +2262,7 @@
 {
 "slug": "kia-soul",
 "name": "Kia Soul",
-"i": 203,
+"i": 204,
 "article": "Kia Soul",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -2273,7 +2273,7 @@
 {
 "slug": "kia-cerato",
 "name": "Kia Cerato",
-"i": 204,
+"i": 205,
 "article": "Kia Cerato",
 "author": "LuvsMG481",
 "license": "CC BY-SA 4.0",
@@ -2284,7 +2284,7 @@
 {
 "slug": "suzuki-dzire",
 "name": "Suzuki Dzire",
-"i": 205,
+"i": 206,
 "article": "Suzuki Dzire",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -2295,18 +2295,18 @@
 {
 "slug": "suzuki-grand-vitara",
 "name": "Suzuki Grand Vitara",
-"i": 206,
+"i": 207,
 "article": "Suzuki Vitara",
-"author": "EurovisionNim",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2018_Suzuki_Vitara_(LY)_S_Turbo_wagon_(2018-11-02)_01.jpg",
+"author": "Siddharth Antre",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:2022_Maruti_Suzuki_Grand_Vitara_Zeta_Smart_Hybrid_(India)_front_view.jpg",
 "skip": null
 },
 {
 "slug": "suzuki-jimny",
 "name": "Suzuki Jimny",
-"i": 207,
+"i": 208,
 "article": "Suzuki Jimny",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2317,7 +2317,7 @@
 {
 "slug": "suzuki-s-cross",
 "name": "Suzuki S-Cross",
-"i": 208,
+"i": 209,
 "article": "Suzuki SX4",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2328,7 +2328,7 @@
 {
 "slug": "suzuki-alto",
 "name": "Suzuki Alto",
-"i": 209,
+"i": 210,
 "article": "Maruti Suzuki Alto",
 "author": "RL GNZLZ from Chile",
 "license": "CC BY-SA 2.0",
@@ -2339,7 +2339,7 @@
 {
 "slug": "suzuki-celerio",
 "name": "Suzuki Celerio",
-"i": 210,
+"i": 211,
 "article": "Suzuki Celerio",
 "author": "Exhibit Magazine",
 "license": "CC BY 3.0",
@@ -2350,7 +2350,7 @@
 {
 "slug": "suzuki-splash",
 "name": "Suzuki Splash",
-"i": 211,
+"i": 212,
 "article": "Suzuki Splash",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2361,7 +2361,7 @@
 {
 "slug": "suzuki-baleno",
 "name": "Suzuki Baleno",
-"i": 212,
+"i": 213,
 "article": "Suzuki Baleno (2015)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2372,7 +2372,7 @@
 {
 "slug": "suzuki-wagon-r",
 "name": "Suzuki Wagon R",
-"i": 213,
+"i": 214,
 "article": "Suzuki Wagon R",
 "author": "Mr.choppers",
 "license": "CC BY-SA 3.0",
@@ -2383,40 +2383,40 @@
 {
 "slug": "suzuki-samurai",
 "name": "Suzuki Samurai",
-"i": 214,
+"i": 215,
 "article": "Suzuki Jimny",
-"author": "Vauxford",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2019_Suzuki_Jimny_SZ5_4X4_Automatic_1.5.jpg",
+"author": "Greg Gjerdingen from Willmar, USA",
+"license": "CC BY 2.0",
+"license_url": "https://creativecommons.org/licenses/by/2.0",
+"page": "https://commons.wikimedia.org/wiki/File:Suzuki_Caribian_Sporty_(SJ413),_front_right.jpg",
 "skip": null
 },
 {
 "slug": "mazda-2",
 "name": "Mazda 2",
-"i": 215,
-"article": "Mazda MX-5",
-"author": "根川大橋 (Negawa Ohashi)",
+"i": 216,
+"article": "Mazda2",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Mazda_Roadster_(MX-5)_by_Negawa_Bridge_(cropped).jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2021_Mazda2_GT_Sport_NAV_MHEV_1.5_Front.jpg",
 "skip": null
 },
 {
 "slug": "mazda-3",
 "name": "Mazda 3",
-"i": 216,
-"article": "Mazda MX-5 (ND)",
-"author": "Alexander-93",
+"i": 217,
+"article": "Mazda3",
+"author": "SsmIntrigue",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Mazda_MX-5_(ND)_1X7A7471.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2019_Mazda3,_Front_Right,_10-07-2020.jpg",
 "skip": null
 },
 {
 "slug": "mazda-6",
 "name": "Mazda 6",
-"i": 217,
+"i": 218,
 "article": "Mazda6",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2427,7 +2427,7 @@
 {
 "slug": "mazda-cx-3",
 "name": "Mazda CX-3",
-"i": 218,
+"i": 219,
 "article": "Mazda CX-3",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2438,7 +2438,7 @@
 {
 "slug": "mazda-cx-30",
 "name": "Mazda CX-30",
-"i": 219,
+"i": 220,
 "article": "Mazda CX-30",
 "author": "EurovisionNim",
 "license": "CC BY-SA 4.0",
@@ -2449,7 +2449,7 @@
 {
 "slug": "mazda-cx-5",
 "name": "Mazda CX-5",
-"i": 220,
+"i": 221,
 "article": "Mazda CX-5",
 "author": "Mr.choppers",
 "license": "CC BY-SA 3.0",
@@ -2460,7 +2460,7 @@
 {
 "slug": "mazda-cx-60",
 "name": "Mazda CX-60",
-"i": 221,
+"i": 222,
 "article": "Mazda CX-60",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2471,7 +2471,7 @@
 {
 "slug": "mazda-mx-5",
 "name": "Mazda MX-5",
-"i": 222,
+"i": 223,
 "article": "Mazda MX-5",
 "author": "根川大橋 (Negawa Ohashi)",
 "license": "CC BY-SA 4.0",
@@ -2482,7 +2482,7 @@
 {
 "slug": "mazda-323",
 "name": "Mazda 323",
-"i": 223,
+"i": 224,
 "article": "Mazda Familia",
 "author": "OSX",
 "license": "Public domain",
@@ -2493,7 +2493,7 @@
 {
 "slug": "mitsubishi-outlander",
 "name": "Mitsubishi Outlander",
-"i": 224,
+"i": 225,
 "article": "Mitsubishi Outlander",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2504,7 +2504,7 @@
 {
 "slug": "mitsubishi-asx",
 "name": "Mitsubishi ASX",
-"i": 225,
+"i": 226,
 "article": "Mitsubishi ASX",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2515,7 +2515,7 @@
 {
 "slug": "mitsubishi-space-star",
 "name": "Mitsubishi Space Star",
-"i": 226,
+"i": 227,
 "article": "Mitsubishi Space Star",
 "author": "Rudolf Stricker",
 "license": "CC BY-SA 3.0",
@@ -2526,7 +2526,7 @@
 {
 "slug": "mitsubishi-colt",
 "name": "Mitsubishi Colt",
-"i": 227,
+"i": 228,
 "article": "Mitsubishi Colt",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2537,7 +2537,7 @@
 {
 "slug": "mitsubishi-lancer",
 "name": "Mitsubishi Lancer",
-"i": 228,
+"i": 229,
 "article": "Mitsubishi Lancer",
 "author": "IFCAR",
 "license": "Public domain",
@@ -2548,7 +2548,7 @@
 {
 "slug": "mitsubishi-pajero",
 "name": "Mitsubishi Pajero",
-"i": 229,
+"i": 230,
 "article": "Mitsubishi Pajero",
 "author": "DY5W-sport",
 "license": "CC BY-SA 3.0",
@@ -2559,7 +2559,7 @@
 {
 "slug": "mitsubishi-eclipse-cross",
 "name": "Mitsubishi Eclipse Cross",
-"i": 230,
+"i": 231,
 "article": "Mitsubishi Eclipse Cross",
 "author": "MercurySable99",
 "license": "CC BY-SA 4.0",
@@ -2570,7 +2570,7 @@
 {
 "slug": "honda-civic",
 "name": "Honda Civic",
-"i": 231,
+"i": 232,
 "article": "Honda Civic",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2581,7 +2581,7 @@
 {
 "slug": "honda-jazz",
 "name": "Honda Jazz",
-"i": 232,
+"i": 233,
 "article": "Honda Fit",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2592,7 +2592,7 @@
 {
 "slug": "honda-cr-v",
 "name": "Honda CR-V",
-"i": 233,
+"i": 234,
 "article": "Honda CR-V",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2603,7 +2603,7 @@
 {
 "slug": "honda-hr-v",
 "name": "Honda HR-V",
-"i": 234,
+"i": 235,
 "article": "Honda HR-V",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2614,7 +2614,7 @@
 {
 "slug": "honda-accord",
 "name": "Honda Accord",
-"i": 235,
+"i": 236,
 "article": "Honda Accord",
 "author": "MercurySable99",
 "license": "CC BY-SA 4.0",
@@ -2625,7 +2625,7 @@
 {
 "slug": "honda-zr-v",
 "name": "Honda ZR-V",
-"i": 236,
+"i": 237,
 "article": "Honda ZR-V",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2636,7 +2636,7 @@
 {
 "slug": "skoda-karoq",
 "name": "Skoda Karoq",
-"i": 237,
+"i": 238,
 "article": "Škoda Karoq",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2647,7 +2647,7 @@
 {
 "slug": "skoda-kodiaq",
 "name": "Skoda Kodiaq",
-"i": 238,
+"i": 239,
 "article": "Škoda Kodiaq",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2658,7 +2658,7 @@
 {
 "slug": "skoda-superb",
 "name": "Skoda Superb",
-"i": 239,
+"i": 240,
 "article": "Škoda Superb",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2669,7 +2669,7 @@
 {
 "slug": "skoda-scala",
 "name": "Skoda Scala",
-"i": 240,
+"i": 241,
 "article": "Škoda Scala",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2680,7 +2680,7 @@
 {
 "slug": "skoda-rapid",
 "name": "Skoda Rapid",
-"i": 241,
+"i": 242,
 "article": "Škoda Rapid (2012)",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2691,18 +2691,18 @@
 {
 "slug": "skoda-citigo",
 "name": "Skoda Citigo",
-"i": 242,
+"i": 243,
 "article": "Volkswagen Up",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Take_UP!_1.0.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Skoda_Citigo_SE_MPi_1.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "skoda-yeti",
 "name": "Skoda Yeti",
-"i": 243,
+"i": 244,
 "article": "Škoda Yeti",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2713,7 +2713,7 @@
 {
 "slug": "skoda-enyaq",
 "name": "Skoda Enyaq",
-"i": 244,
+"i": 245,
 "article": "Škoda Enyaq",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2724,18 +2724,18 @@
 {
 "slug": "skoda-roomster",
 "name": "Skoda Roomster",
-"i": -1,
+"i": 246,
 "article": "Škoda Roomster",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2014_Skoda_Roomster_SE_TDi_CR_1.6_Front.jpg",
+"skip": null
 },
 {
 "slug": "seat-ateca",
 "name": "Seat Ateca",
-"i": 245,
+"i": 247,
 "article": "SEAT Ateca",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2746,7 +2746,7 @@
 {
 "slug": "seat-tarraco",
 "name": "Seat Tarraco",
-"i": 246,
+"i": 248,
 "article": "SEAT Tarraco",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2757,18 +2757,18 @@
 {
 "slug": "seat-mii",
 "name": "Seat Mii",
-"i": 247,
+"i": 249,
 "article": "Volkswagen Up",
-"author": "Vauxford",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2013_Volkswagen_Take_UP!_1.0.jpg",
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Seat_Mii_1.0_Style_%E2%80%93_Frontansicht,_15._September_2012,_D%C3%BCsseldorf.jpg",
 "skip": null
 },
 {
 "slug": "seat-toledo",
 "name": "Seat Toledo",
-"i": 248,
+"i": 250,
 "article": "SEAT Toledo",
 "author": "Dennis Elzinga",
 "license": "CC BY 2.0",
@@ -2779,7 +2779,7 @@
 {
 "slug": "seat-altea",
 "name": "Seat Altea",
-"i": 249,
+"i": 251,
 "article": "SEAT Altea",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2790,7 +2790,7 @@
 {
 "slug": "seat-alhambra",
 "name": "Seat Alhambra",
-"i": 250,
+"i": 252,
 "article": "SEAT Alhambra",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2801,7 +2801,7 @@
 {
 "slug": "seat-cordoba",
 "name": "Seat Cordoba",
-"i": 251,
+"i": 253,
 "article": "SEAT Córdoba",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2812,7 +2812,7 @@
 {
 "slug": "cupra-formentor",
 "name": "Cupra Formentor",
-"i": 252,
+"i": 254,
 "article": "Cupra Formentor",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2823,7 +2823,7 @@
 {
 "slug": "cupra-born",
 "name": "Cupra Born",
-"i": 253,
+"i": 255,
 "article": "Cupra Born",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2834,7 +2834,7 @@
 {
 "slug": "volkswagen-tiguan",
 "name": "Volkswagen Tiguan",
-"i": 254,
+"i": 256,
 "article": "Volkswagen Tiguan",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2845,7 +2845,7 @@
 {
 "slug": "volkswagen-taigo",
 "name": "Volkswagen Taigo",
-"i": 255,
+"i": 257,
 "article": "Volkswagen Taigo",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -2856,7 +2856,7 @@
 {
 "slug": "volkswagen-touareg",
 "name": "Volkswagen Touareg",
-"i": 256,
+"i": 258,
 "article": "Volkswagen Touareg",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -2867,7 +2867,7 @@
 {
 "slug": "volkswagen-passat",
 "name": "Volkswagen Passat",
-"i": 257,
+"i": 259,
 "article": "Volkswagen Passat",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -2878,7 +2878,7 @@
 {
 "slug": "volkswagen-jetta",
 "name": "Volkswagen Jetta",
-"i": 258,
+"i": 260,
 "article": "Volkswagen Jetta",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -2889,7 +2889,7 @@
 {
 "slug": "volkswagen-up",
 "name": "Volkswagen Up!",
-"i": 259,
+"i": 261,
 "article": "Volkswagen Up",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2900,7 +2900,7 @@
 {
 "slug": "volkswagen-fox",
 "name": "Volkswagen Fox",
-"i": 260,
+"i": 262,
 "article": "Volkswagen Fox",
 "author": "NaBUru38",
 "license": "CC BY-SA 4.0",
@@ -2911,7 +2911,7 @@
 {
 "slug": "volkswagen-lupo",
 "name": "Volkswagen Lupo",
-"i": 261,
+"i": 263,
 "article": "Volkswagen Lupo",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2922,7 +2922,7 @@
 {
 "slug": "volkswagen-beetle",
 "name": "Volkswagen Beetle",
-"i": 262,
+"i": 264,
 "article": "Volkswagen Beetle",
 "author": "Vwexport1300",
 "license": "CC BY-SA 3.0",
@@ -2933,7 +2933,7 @@
 {
 "slug": "volkswagen-scirocco",
 "name": "Volkswagen Scirocco",
-"i": 263,
+"i": 265,
 "article": "Volkswagen Scirocco",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2944,7 +2944,7 @@
 {
 "slug": "volkswagen-arteon",
 "name": "Volkswagen Arteon",
-"i": 264,
+"i": 266,
 "article": "Volkswagen Arteon",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2955,7 +2955,7 @@
 {
 "slug": "volkswagen-touran",
 "name": "Volkswagen Touran",
-"i": 265,
+"i": 267,
 "article": "Volkswagen Touran",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2966,7 +2966,7 @@
 {
 "slug": "volkswagen-sharan",
 "name": "Volkswagen Sharan",
-"i": 266,
+"i": 268,
 "article": "Volkswagen Sharan",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2977,7 +2977,7 @@
 {
 "slug": "volkswagen-id-3",
 "name": "Volkswagen ID.3",
-"i": 267,
+"i": 269,
 "article": "Volkswagen ID.3",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -2988,7 +2988,7 @@
 {
 "slug": "volkswagen-id-4",
 "name": "Volkswagen ID.4",
-"i": 268,
+"i": 270,
 "article": "Volkswagen ID.4",
 "author": "LuvsMG481",
 "license": "CC BY-SA 4.0",
@@ -2999,7 +2999,7 @@
 {
 "slug": "toyota-avensis",
 "name": "Toyota Avensis",
-"i": 269,
+"i": 271,
 "article": "Toyota Avensis",
 "author": "Cutlass",
 "license": "CC0",
@@ -3010,7 +3010,7 @@
 {
 "slug": "toyota-prius",
 "name": "Toyota Prius",
-"i": 270,
+"i": 272,
 "article": "Toyota Prius",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3021,7 +3021,7 @@
 {
 "slug": "toyota-land-cruiser",
 "name": "Toyota Land Cruiser",
-"i": 271,
+"i": 273,
 "article": "Toyota Land Cruiser",
 "author": "Autosdeprimera",
 "license": "CC BY 3.0",
@@ -3032,18 +3032,18 @@
 {
 "slug": "toyota-verso",
 "name": "Toyota Verso",
-"i": -1,
+"i": 274,
 "article": "Toyota Verso",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2014_Toyota_Verso_Excel_D-4d_1.6_facelift_Front.jpg",
+"skip": null
 },
 {
 "slug": "toyota-celica",
 "name": "Toyota Celica",
-"i": 272,
+"i": 275,
 "article": "Toyota Celica",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3054,7 +3054,7 @@
 {
 "slug": "toyota-gt86",
 "name": "Toyota GT86",
-"i": 273,
+"i": 276,
 "article": "Toyota 86",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -3065,18 +3065,18 @@
 {
 "slug": "toyota-starlet",
 "name": "Toyota Starlet",
-"i": -1,
+"i": 277,
 "article": "Toyota Starlet",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"author": "Sabung.hamster",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Toyota_Starlet_1.3_SE_(front),_Denpasar.jpg",
+"skip": null
 },
 {
 "slug": "toyota-bz4x",
 "name": "Toyota bZ4X",
-"i": 274,
+"i": 278,
 "article": "Toyota bZ4X",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3087,7 +3087,7 @@
 {
 "slug": "toyota-iq",
 "name": "Toyota iQ",
-"i": 275,
+"i": 279,
 "article": "Toyota iQ",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3098,7 +3098,7 @@
 {
 "slug": "toyota-camry",
 "name": "Toyota Camry",
-"i": 276,
+"i": 280,
 "article": "Toyota Camry (XV70)",
 "author": "EurovisionNim",
 "license": "CC BY-SA 4.0",
@@ -3109,7 +3109,7 @@
 {
 "slug": "bmw-1",
 "name": "BMW Σειρά 1",
-"i": 277,
+"i": 281,
 "article": "BMW 1 Series",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3120,7 +3120,7 @@
 {
 "slug": "bmw-3",
 "name": "BMW Σειρά 3",
-"i": 278,
+"i": 282,
 "article": "BMW 3 Series",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3131,7 +3131,7 @@
 {
 "slug": "bmw-4",
 "name": "BMW Σειρά 4",
-"i": 279,
+"i": 283,
 "article": "BMW 4 Series",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3142,7 +3142,7 @@
 {
 "slug": "bmw-5",
 "name": "BMW Σειρά 5",
-"i": 280,
+"i": 284,
 "article": "BMW 5 Series (G60)",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3153,7 +3153,7 @@
 {
 "slug": "bmw-x1",
 "name": "BMW X1",
-"i": 281,
+"i": 285,
 "article": "BMW X1",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3164,7 +3164,7 @@
 {
 "slug": "bmw-x2",
 "name": "BMW X2",
-"i": 282,
+"i": 286,
 "article": "BMW X2",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3175,7 +3175,7 @@
 {
 "slug": "bmw-x3",
 "name": "BMW X3",
-"i": 283,
+"i": 287,
 "article": "BMW X3",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3186,7 +3186,7 @@
 {
 "slug": "bmw-x5",
 "name": "BMW X5",
-"i": 284,
+"i": 288,
 "article": "BMW X5",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3197,7 +3197,7 @@
 {
 "slug": "bmw-x6",
 "name": "BMW X6",
-"i": 285,
+"i": 289,
 "article": "BMW X6",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3208,7 +3208,7 @@
 {
 "slug": "bmw-x7",
 "name": "BMW X7",
-"i": 286,
+"i": 290,
 "article": "BMW X7",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3219,18 +3219,18 @@
 {
 "slug": "bmw-i3",
 "name": "BMW i3",
-"i": 287,
+"i": 291,
 "article": "BMW i3",
-"author": "© M 93",
-"license": "CC BY-SA 3.0 de",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:BMW_i3_50_xDrive_First_Edition_(NA0)_%E2%80%93_f2_20082026.jpg",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2018_BMW_i3_facelift_(1).jpg",
 "skip": null
 },
 {
 "slug": "bmw-i4",
 "name": "BMW i4",
-"i": 288,
+"i": 292,
 "article": "BMW i4",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3241,7 +3241,7 @@
 {
 "slug": "bmw-ix",
 "name": "BMW iX",
-"i": 289,
+"i": 293,
 "article": "BMW iX",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3252,29 +3252,29 @@
 {
 "slug": "bmw-z4",
 "name": "BMW Z4",
-"i": 290,
-"article": "BMW Z4 (E85)",
-"author": "Enrico Stirl a.ka.  Germaneon",
-"license": "CC BY-SA 3.0",
-"license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-"page": "https://commons.wikimedia.org/wiki/File:BMW_Z4_dash.jpg",
+"i": 294,
+"article": "BMW Z",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2019_BMW_Z4_M40i_Automatic_3.0.jpg",
 "skip": null
 },
 {
 "slug": "mercedes-a-class",
 "name": "Mercedes A-Class",
-"i": 291,
-"article": "Mercedes-Benz E-Class (W213)",
+"i": 295,
+"article": "Mercedes-Benz A-Class",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2019_Mercedes-Benz_E220d_SE_Automatic_2.0_Front.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Mercedes-Benz_A200_AMG_Line_Premium_Automatic_1.3_Front.jpg",
 "skip": null
 },
 {
 "slug": "mercedes-b-class",
 "name": "Mercedes B-Class",
-"i": 292,
+"i": 296,
 "article": "Mercedes-Benz B-Class",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3285,7 +3285,7 @@
 {
 "slug": "mercedes-c-class",
 "name": "Mercedes C-Class",
-"i": 293,
+"i": 297,
 "article": "Mercedes-Benz C-Class",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3296,7 +3296,7 @@
 {
 "slug": "mercedes-e-class",
 "name": "Mercedes E-Class",
-"i": 294,
+"i": 298,
 "article": "Mercedes-Benz E-Class",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3307,7 +3307,7 @@
 {
 "slug": "mercedes-cla",
 "name": "Mercedes CLA",
-"i": 295,
+"i": 299,
 "article": "Mercedes-Benz CLA",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3318,7 +3318,7 @@
 {
 "slug": "mercedes-gla",
 "name": "Mercedes GLA",
-"i": 296,
+"i": 300,
 "article": "Mercedes-Benz GLA",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3329,7 +3329,7 @@
 {
 "slug": "mercedes-glb",
 "name": "Mercedes GLB",
-"i": 297,
+"i": 301,
 "article": "Mercedes-Benz GLB",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3340,7 +3340,7 @@
 {
 "slug": "mercedes-glc",
 "name": "Mercedes GLC",
-"i": 298,
+"i": 302,
 "article": "Mercedes-Benz GLC",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3351,7 +3351,7 @@
 {
 "slug": "mercedes-gle",
 "name": "Mercedes GLE",
-"i": 299,
+"i": 303,
 "article": "Mercedes-Benz GLE",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3362,7 +3362,7 @@
 {
 "slug": "mercedes-g-class",
 "name": "Mercedes G-Class",
-"i": 300,
+"i": 304,
 "article": "Mercedes-Benz G-Class",
 "author": "Julian Herzog (Website)",
 "license": "CC BY 4.0",
@@ -3373,7 +3373,7 @@
 {
 "slug": "mercedes-eqa",
 "name": "Mercedes EQA",
-"i": 301,
+"i": 305,
 "article": "Mercedes-Benz EQA",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3384,7 +3384,7 @@
 {
 "slug": "mercedes-eqe",
 "name": "Mercedes EQE",
-"i": 302,
+"i": 306,
 "article": "Mercedes-Benz EQE",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3395,7 +3395,7 @@
 {
 "slug": "mercedes-190",
 "name": "Mercedes 190",
-"i": 303,
+"i": 307,
 "article": "Mercedes-Benz W201",
 "author": "Bretbmorgan",
 "license": "CC BY-SA 4.0",
@@ -3406,7 +3406,7 @@
 {
 "slug": "mercedes-slk",
 "name": "Mercedes SLK",
-"i": 304,
+"i": 308,
 "article": "Mercedes-Benz SLK-Class",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3417,7 +3417,7 @@
 {
 "slug": "audi-a1",
 "name": "Audi A1",
-"i": 305,
+"i": 309,
 "article": "Audi A1",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3428,7 +3428,7 @@
 {
 "slug": "audi-a3",
 "name": "Audi A3",
-"i": 306,
+"i": 310,
 "article": "Audi A3",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3439,7 +3439,7 @@
 {
 "slug": "audi-a4",
 "name": "Audi A4",
-"i": 307,
+"i": 311,
 "article": "Audi A4",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3450,7 +3450,7 @@
 {
 "slug": "audi-a5",
 "name": "Audi A5",
-"i": 308,
+"i": 312,
 "article": "Audi A5",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3461,7 +3461,7 @@
 {
 "slug": "audi-a6",
 "name": "Audi A6",
-"i": 309,
+"i": 313,
 "article": "Audi A6",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3472,7 +3472,7 @@
 {
 "slug": "audi-q2",
 "name": "Audi Q2",
-"i": 310,
+"i": 314,
 "article": "Audi Q2",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3483,7 +3483,7 @@
 {
 "slug": "audi-q3",
 "name": "Audi Q3",
-"i": 311,
+"i": 315,
 "article": "Audi Q3",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3494,7 +3494,7 @@
 {
 "slug": "audi-q5",
 "name": "Audi Q5",
-"i": 312,
+"i": 316,
 "article": "Audi Q5",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3505,7 +3505,7 @@
 {
 "slug": "audi-q7",
 "name": "Audi Q7",
-"i": 313,
+"i": 317,
 "article": "Audi Q7",
 "author": "Ethan Llamas",
 "license": "CC BY-SA 4.0",
@@ -3516,7 +3516,7 @@
 {
 "slug": "audi-q4-e-tron",
 "name": "Audi Q4 e-tron",
-"i": 314,
+"i": 318,
 "article": "Audi Q4 e-tron",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3527,7 +3527,7 @@
 {
 "slug": "audi-q8-e-tron",
 "name": "Audi Q8 e-tron",
-"i": 315,
+"i": 319,
 "article": "Audi Q8 e-tron",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3538,7 +3538,7 @@
 {
 "slug": "audi-tt",
 "name": "Audi TT",
-"i": 316,
+"i": 320,
 "article": "Audi TT",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3549,7 +3549,7 @@
 {
 "slug": "volvo-xc40",
 "name": "Volvo XC40",
-"i": 317,
+"i": 321,
 "article": "Volvo XC40",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -3560,7 +3560,7 @@
 {
 "slug": "volvo-xc60",
 "name": "Volvo XC60",
-"i": 318,
+"i": 322,
 "article": "Volvo XC60",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3571,7 +3571,7 @@
 {
 "slug": "volvo-xc90",
 "name": "Volvo XC90",
-"i": 319,
+"i": 323,
 "article": "Volvo XC90",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3582,7 +3582,7 @@
 {
 "slug": "volvo-v40",
 "name": "Volvo V40",
-"i": 320,
+"i": 324,
 "article": "Volvo V40 (2012–2019)",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3593,7 +3593,7 @@
 {
 "slug": "volvo-v60",
 "name": "Volvo V60",
-"i": 321,
+"i": 325,
 "article": "Volvo V60",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3604,7 +3604,7 @@
 {
 "slug": "volvo-v70",
 "name": "Volvo V70",
-"i": 322,
+"i": 326,
 "article": "Volvo V70",
 "author": "IFCAR",
 "license": "Public domain",
@@ -3615,7 +3615,7 @@
 {
 "slug": "volvo-v90",
 "name": "Volvo V90",
-"i": 323,
+"i": 327,
 "article": "Volvo V90",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -3626,7 +3626,7 @@
 {
 "slug": "volvo-s60",
 "name": "Volvo S60",
-"i": 324,
+"i": 328,
 "article": "Volvo S60",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3637,7 +3637,7 @@
 {
 "slug": "volvo-s90",
 "name": "Volvo S90",
-"i": 325,
+"i": 329,
 "article": "Volvo S90",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -3648,7 +3648,7 @@
 {
 "slug": "volvo-s40",
 "name": "Volvo S40",
-"i": 326,
+"i": 330,
 "article": "Volvo S40",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3659,7 +3659,7 @@
 {
 "slug": "volvo-ex30",
 "name": "Volvo EX30",
-"i": 327,
+"i": 331,
 "article": "Volvo EX30",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3670,18 +3670,18 @@
 {
 "slug": "volvo-c30",
 "name": "Volvo C30",
-"i": -1,
+"i": 332,
 "article": "Volvo C30",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
-"skip": "license: Attribution"
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Volvo_C30_R-Design_(Facelift)_%E2%80%93_Frontansicht,_1._September_2013,_M%C3%BCnster.jpg",
+"skip": null
 },
 {
 "slug": "tesla-model-3",
 "name": "Tesla Model 3",
-"i": 328,
+"i": 333,
 "article": "Tesla Model 3",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -3692,7 +3692,7 @@
 {
 "slug": "tesla-model-y",
 "name": "Tesla Model Y",
-"i": 329,
+"i": 334,
 "article": "Tesla Model Y",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3703,7 +3703,7 @@
 {
 "slug": "tesla-model-s",
 "name": "Tesla Model S",
-"i": 330,
+"i": 335,
 "article": "Tesla Model S",
 "author": "Peteratkins",
 "license": "CC BY-SA 4.0",
@@ -3714,7 +3714,7 @@
 {
 "slug": "tesla-model-x",
 "name": "Tesla Model X",
-"i": 331,
+"i": 336,
 "article": "Tesla Model X",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3725,7 +3725,7 @@
 {
 "slug": "mini-cooper",
 "name": "Mini Cooper",
-"i": 332,
+"i": 337,
 "article": "Mini Cooper",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3736,7 +3736,7 @@
 {
 "slug": "mini-countryman",
 "name": "Mini Countryman",
-"i": 333,
+"i": 338,
 "article": "Mini Countryman",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3747,7 +3747,7 @@
 {
 "slug": "mini-clubman",
 "name": "Mini Clubman",
-"i": 334,
+"i": 339,
 "article": "Mini Clubman (2007)",
 "author": "Jakub \"Flyz1\" Maciejewski",
 "license": "CC BY-SA 4.0",
@@ -3758,7 +3758,7 @@
 {
 "slug": "smart-fortwo",
 "name": "Smart ForTwo",
-"i": 335,
+"i": 340,
 "article": "Smart Fortwo",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3769,7 +3769,7 @@
 {
 "slug": "smart-forfour",
 "name": "Smart ForFour",
-"i": 336,
+"i": 341,
 "article": "Smart Forfour",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3780,18 +3780,18 @@
 {
 "slug": "smart-1",
 "name": "Smart #1",
-"i": 337,
-"article": "Smart (marque)",
-"author": "Smart Automobile",
-"license": "Public domain",
-"license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:Smart_2022.svg",
+"i": 342,
+"article": "Smart 1",
+"author": "JustAnotherCarDesigner",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:Smart_1_Brabus_005.jpg",
 "skip": null
 },
 {
 "slug": "alfa-romeo-mito",
 "name": "Alfa Romeo MiTo",
-"i": 338,
+"i": 343,
 "article": "Alfa Romeo MiTo",
 "author": "JoachimKohler-HB",
 "license": "CC BY-SA 4.0",
@@ -3802,29 +3802,29 @@
 {
 "slug": "alfa-romeo-giulietta",
 "name": "Alfa Romeo Giulietta",
-"i": 339,
-"article": "Alfa Romeo Giulietta",
-"author": "Mr.choppers",
-"license": "CC BY-SA 3.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:1960_Alfa_Romeo_Giulietta_Berlina_Normale_(2nd_series)_fR.jpg",
+"i": 344,
+"article": "Alfa Romeo Giulietta (2010)",
+"author": "M 93",
+"license": "CC BY-SA 3.0 de",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+"page": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Giulietta_(940,_Facelift)_%E2%80%93_Frontansicht,_8._Dezember_2015,_Funchal.jpg",
 "skip": null
 },
 {
 "slug": "alfa-romeo-giulia",
 "name": "Alfa Romeo Giulia",
-"i": 340,
-"article": "Alfa Romeo Giulia",
-"author": "Kelebek",
-"license": "Public domain",
-"license_url": "",
-"page": "https://commons.wikimedia.org/wiki/File:Alfa_Romeo_Giulia_Super_(cropped).jpg",
+"i": 345,
+"article": "Alfa Romeo Giulia (2015)",
+"author": "MercurySable99",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2018_Alfa_Romeo_Giulia_Q4,_front_left,_10-17-2022.jpg",
 "skip": null
 },
 {
 "slug": "alfa-romeo-stelvio",
 "name": "Alfa Romeo Stelvio",
-"i": 341,
+"i": 346,
 "article": "Alfa Romeo Stelvio",
 "author": "Motor Verso",
 "license": "CC BY 2.0",
@@ -3835,7 +3835,7 @@
 {
 "slug": "alfa-romeo-tonale",
 "name": "Alfa Romeo Tonale",
-"i": 342,
+"i": 347,
 "article": "Alfa Romeo Tonale",
 "author": "Matthias v.d. Elbe",
 "license": "CC BY 4.0",
@@ -3846,7 +3846,7 @@
 {
 "slug": "alfa-romeo-147",
 "name": "Alfa Romeo 147",
-"i": 343,
+"i": 348,
 "article": "Alfa Romeo 147",
 "author": "OSX",
 "license": "Public domain",
@@ -3857,7 +3857,7 @@
 {
 "slug": "alfa-romeo-156",
 "name": "Alfa Romeo 156",
-"i": 344,
+"i": 349,
 "article": "Alfa Romeo 156",
 "author": "Salexx156",
 "license": "CC BY-SA 4.0",
@@ -3868,7 +3868,7 @@
 {
 "slug": "lancia-ypsilon",
 "name": "Lancia Ypsilon",
-"i": 345,
+"i": 350,
 "article": "Lancia Ypsilon",
 "author": "Mihnea Lazăr",
 "license": "CC BY-SA 4.0",
@@ -3879,18 +3879,18 @@
 {
 "slug": "lancia-delta",
 "name": "Lancia Delta",
-"i": 346,
-"article": "Lancia Delta S4",
-"author": "Thesupermat",
-"license": "CC BY-SA 4.0",
-"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:R%C3%A9tromobile_2017_-_Lancia_Delta_S4_-_circa_1986_-_001.jpg",
+"i": 351,
+"article": "Lancia Delta",
+"author": "Mr.choppers",
+"license": "CC BY-SA 3.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:2021_Automobili_Amos_Delta_Futurista_no._8,_front_left2.jpg",
 "skip": null
 },
 {
 "slug": "jeep-renegade",
 "name": "Jeep Renegade",
-"i": 347,
+"i": 352,
 "article": "Jeep Renegade",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3901,7 +3901,7 @@
 {
 "slug": "jeep-compass",
 "name": "Jeep Compass",
-"i": 348,
+"i": 353,
 "article": "Jeep Compass",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -3912,7 +3912,7 @@
 {
 "slug": "jeep-avenger",
 "name": "Jeep Avenger",
-"i": 349,
+"i": 354,
 "article": "Jeep Avenger",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -3923,7 +3923,7 @@
 {
 "slug": "jeep-wrangler",
 "name": "Jeep Wrangler",
-"i": 350,
+"i": 355,
 "article": "Jeep Wrangler",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3934,7 +3934,7 @@
 {
 "slug": "jeep-grand-cherokee",
 "name": "Jeep Grand Cherokee",
-"i": 351,
+"i": 356,
 "article": "Jeep Grand Cherokee",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -3945,7 +3945,7 @@
 {
 "slug": "land-rover-range-rover-sport",
 "name": "Land Rover Range Rover Sport",
-"i": 352,
+"i": 357,
 "article": "Range Rover Sport",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3956,7 +3956,7 @@
 {
 "slug": "land-rover-range-rover",
 "name": "Land Rover Range Rover",
-"i": 353,
+"i": 358,
 "article": "Range Rover (L322)",
 "author": "Wikimedia Commons",
 "license": "Public domain",
@@ -3967,18 +3967,18 @@
 {
 "slug": "land-rover-range-rover-evoque",
 "name": "Land Rover Range Rover Evoque",
-"i": 354,
-"article": "Range Rover Sport",
+"i": 359,
+"article": "Range Rover Evoque",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2015_Land_Rover_Range_Rover_Sport_HSE_3.0_Front.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2019_Land_Rover_Range_Rover_Evoque_First_Edition_D180_Automatic_2.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "land-rover-discovery",
 "name": "Land Rover Discovery",
-"i": 355,
+"i": 360,
 "article": "Land Rover Discovery",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -3989,7 +3989,7 @@
 {
 "slug": "land-rover-defender",
 "name": "Land Rover Defender",
-"i": 356,
+"i": 361,
 "article": "Land Rover Defender",
 "author": "OSX",
 "license": "Public domain",
@@ -4000,7 +4000,7 @@
 {
 "slug": "land-rover-freelander",
 "name": "Land Rover Freelander",
-"i": 357,
+"i": 362,
 "article": "Land Rover Freelander",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4011,7 +4011,7 @@
 {
 "slug": "porsche-cayenne",
 "name": "Porsche Cayenne",
-"i": 358,
+"i": 363,
 "article": "Porsche Cayenne",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4022,7 +4022,7 @@
 {
 "slug": "porsche-macan",
 "name": "Porsche Macan",
-"i": 359,
+"i": 364,
 "article": "Porsche Macan",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -4033,7 +4033,7 @@
 {
 "slug": "porsche-911",
 "name": "Porsche 911",
-"i": 360,
+"i": 365,
 "article": "Porsche 911",
 "author": "Matti Blume",
 "license": "CC BY-SA 4.0",
@@ -4044,7 +4044,7 @@
 {
 "slug": "porsche-taycan",
 "name": "Porsche Taycan",
-"i": 361,
+"i": 366,
 "article": "Porsche Taycan",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4055,7 +4055,7 @@
 {
 "slug": "lexus-nx",
 "name": "Lexus NX",
-"i": 362,
+"i": 367,
 "article": "Lexus NX",
 "author": "Kevauto",
 "license": "CC BY-SA 4.0",
@@ -4066,7 +4066,7 @@
 {
 "slug": "lexus-rx",
 "name": "Lexus RX",
-"i": 363,
+"i": 368,
 "article": "Lexus RX",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4077,7 +4077,7 @@
 {
 "slug": "lexus-ux",
 "name": "Lexus UX",
-"i": 364,
+"i": 369,
 "article": "Lexus UX",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -4088,7 +4088,7 @@
 {
 "slug": "lexus-is",
 "name": "Lexus IS",
-"i": 365,
+"i": 370,
 "article": "Lexus IS",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -4099,7 +4099,7 @@
 {
 "slug": "lexus-ct",
 "name": "Lexus CT",
-"i": 366,
+"i": 371,
 "article": "Lexus CT",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4110,7 +4110,7 @@
 {
 "slug": "subaru-forester",
 "name": "Subaru Forester",
-"i": 367,
+"i": 372,
 "article": "Subaru Forester",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -4121,7 +4121,7 @@
 {
 "slug": "subaru-xv",
 "name": "Subaru XV",
-"i": 368,
+"i": 373,
 "article": "Subaru Crosstrek",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4132,7 +4132,7 @@
 {
 "slug": "subaru-outback",
 "name": "Subaru Outback",
-"i": 369,
+"i": 374,
 "article": "Subaru Outback",
 "author": "MercurySable99",
 "license": "CC BY-SA 4.0",
@@ -4143,7 +4143,7 @@
 {
 "slug": "subaru-impreza",
 "name": "Subaru Impreza",
-"i": 370,
+"i": 375,
 "article": "Subaru Impreza",
 "author": "MercurySable99",
 "license": "CC BY-SA 4.0",
@@ -4154,7 +4154,7 @@
 {
 "slug": "chevrolet-spark",
 "name": "Chevrolet Spark",
-"i": 371,
+"i": 376,
 "article": "Chevrolet Spark",
 "author": "MercurySable99",
 "license": "CC BY-SA 4.0",
@@ -4165,18 +4165,18 @@
 {
 "slug": "chevrolet-matiz",
 "name": "Chevrolet Matiz",
-"i": 372,
+"i": 377,
 "article": "Chevrolet Spark",
-"author": "MercurySable99",
+"author": "Vauxford",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2020_Chevrolet_Spark_LS,_front_right,_09-07-2024.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2007_Chevrolet_Matiz_SE_1.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "chevrolet-aveo",
 "name": "Chevrolet Aveo",
-"i": 373,
+"i": 378,
 "article": "Chevrolet Aveo",
 "author": "Vauxford",
 "license": "CC BY-SA 4.0",
@@ -4187,7 +4187,7 @@
 {
 "slug": "chevrolet-kalos",
 "name": "Chevrolet Kalos",
-"i": 374,
+"i": 379,
 "article": "Daewoo Kalos",
 "author": "OSX",
 "license": "Public domain",
@@ -4198,7 +4198,7 @@
 {
 "slug": "chevrolet-lacetti",
 "name": "Chevrolet Lacetti",
-"i": 375,
+"i": 380,
 "article": "Daewoo Lacetti",
 "author": "Damian B Oh",
 "license": "CC BY-SA 4.0",
@@ -4209,7 +4209,7 @@
 {
 "slug": "chevrolet-captiva",
 "name": "Chevrolet Captiva",
-"i": 376,
+"i": 381,
 "article": "Chevrolet Captiva",
 "author": "M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4220,7 +4220,7 @@
 {
 "slug": "chevrolet-cruze",
 "name": "Chevrolet Cruze",
-"i": 377,
+"i": 382,
 "article": "Chevrolet Cruze",
 "author": "Elise240SX",
 "license": "CC BY-SA 4.0",
@@ -4231,18 +4231,18 @@
 {
 "slug": "daewoo-matiz",
 "name": "Daewoo Matiz",
-"i": 378,
-"article": "Daewoo Tico",
-"author": "Stahlkocher",
-"license": "CC BY 4.0",
-"license_url": "https://creativecommons.org/licenses/by/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:Daewoo_Tico_vl_(cropped).png",
+"i": 383,
+"article": "Chevrolet Spark",
+"author": "Vauxford",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2007_Chevrolet_Matiz_SE_1.0_Front.jpg",
 "skip": null
 },
 {
 "slug": "daewoo-lanos",
 "name": "Daewoo Lanos",
-"i": 379,
+"i": 384,
 "article": "Daewoo Lanos",
 "author": "IFCAR",
 "license": "Public domain",
@@ -4253,7 +4253,7 @@
 {
 "slug": "daihatsu-terios",
 "name": "Daihatsu Terios",
-"i": 380,
+"i": 385,
 "article": "Daihatsu Terios",
 "author": "Wilzz99",
 "license": "CC BY-SA 4.0",
@@ -4264,7 +4264,7 @@
 {
 "slug": "daihatsu-sirion",
 "name": "Daihatsu Sirion",
-"i": 381,
+"i": 386,
 "article": "Daihatsu Sirion",
 "author": "Wilzz99",
 "license": "CC BY-SA 4.0",
@@ -4275,7 +4275,7 @@
 {
 "slug": "daihatsu-cuore",
 "name": "Daihatsu Cuore",
-"i": 382,
+"i": 387,
 "article": "Daihatsu Mira",
 "author": "TTTNIS",
 "license": "CC0",
@@ -4286,7 +4286,7 @@
 {
 "slug": "mg-zs",
 "name": "MG ZS",
-"i": 383,
+"i": 388,
 "article": "MG ZS (crossover)",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -4297,7 +4297,7 @@
 {
 "slug": "mg-hs",
 "name": "MG HS",
-"i": 384,
+"i": 389,
 "article": "MG HS",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4308,7 +4308,7 @@
 {
 "slug": "mg-mg4",
 "name": "MG MG4",
-"i": 385,
+"i": 390,
 "article": "MG4 EV",
 "author": "© M 93",
 "license": "CC BY-SA 3.0 de",
@@ -4319,18 +4319,18 @@
 {
 "slug": "mg-3",
 "name": "MG 3",
-"i": -1,
-"article": "MG Cars",
-"author": null,
-"license": null,
-"license_url": null,
-"page": null,
+"i": 391,
+"article": "MG3 (automobile)",
+"author": "Makizox",
+"license": "CC BY-SA 4.0",
+"license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:2015_MG_3_Style_VTi-Tech_1.5_Front.jpg",
 "skip": null
 },
 {
 "slug": "byd-atto-3",
 "name": "BYD Atto 3",
-"i": 386,
+"i": 392,
 "article": "BYD Atto 3",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -4341,7 +4341,7 @@
 {
 "slug": "byd-dolphin",
 "name": "BYD Dolphin",
-"i": 387,
+"i": 393,
 "article": "BYD Dolphin",
 "author": "User3204",
 "license": "CC BY-SA 4.0",
@@ -4352,7 +4352,7 @@
 {
 "slug": "byd-seal",
 "name": "BYD Seal",
-"i": 388,
+"i": 394,
 "article": "BYD Seal",
 "author": "User3204",
 "license": "CC BY-SA 4.0",
@@ -4363,40 +4363,40 @@
 {
 "slug": "byd-seal-u",
 "name": "BYD Seal U",
-"i": 389,
-"article": "BYD Seal",
+"i": 395,
+"article": "BYD Song Plus",
 "author": "User3204",
 "license": "CC BY-SA 4.0",
 "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-"page": "https://commons.wikimedia.org/wiki/File:2022_BYD_Seal.jpg",
+"page": "https://commons.wikimedia.org/wiki/File:2023_BYD_Song_Plus_DM-i_(front).jpg",
 "skip": null
 },
 {
 "slug": "polestar-2",
 "name": "Polestar 2",
-"i": 390,
-"article": "Polestar",
-"author": "Alex Gutaga",
-"license": "CC BY 3.0",
-"license_url": "https://creativecommons.org/licenses/by/3.0",
-"page": "https://commons.wikimedia.org/wiki/File:Polestar_headquarters_in_Gothenburg,_Sweden.png",
+"i": 396,
+"article": "Polestar 2",
+"author": "S5A-0043",
+"license": "CC BY 4.0",
+"license_url": "https://creativecommons.org/licenses/by/4.0",
+"page": "https://commons.wikimedia.org/wiki/File:(SGP-Singapore)_Private_Polestar_2_SNS777R_2024-11-02.jpg",
 "skip": null
 },
 {
 "slug": "chery-tiggo-4",
 "name": "Chery Tiggo 4",
-"i": 391,
-"article": "Chery Tiggo 8",
-"author": "JustAnotherCarDesigner",
-"license": "CC0",
-"license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-"page": "https://commons.wikimedia.org/wiki/File:Chery_Tiggo_8_Plus_018_(cropped).jpg",
+"i": 397,
+"article": "Chery Tiggo 5x",
+"author": "Autosdeprimera",
+"license": "CC BY 3.0",
+"license_url": "https://creativecommons.org/licenses/by/3.0",
+"page": "https://commons.wikimedia.org/wiki/File:2024_Chery_Tiggo_4_front_view.png",
 "skip": null
 },
 {
 "slug": "chery-tiggo-7",
 "name": "Chery Tiggo 7",
-"i": 392,
+"i": 398,
 "article": "Chery Tiggo 7",
 "author": "JustAnotherCarDesigner",
 "license": "CC BY-SA 4.0",
@@ -4407,7 +4407,7 @@
 {
 "slug": "ssangyong-tivoli",
 "name": "SsangYong Tivoli",
-"i": 393,
+"i": 399,
 "article": "KGM Tivoli",
 "author": "Alexander-93",
 "license": "CC BY-SA 4.0",
@@ -4418,7 +4418,7 @@
 {
 "slug": "ssangyong-korando",
 "name": "SsangYong Korando",
-"i": 394,
+"i": 400,
 "article": "SsangYong Korando",
 "author": "Alexander Migl",
 "license": "CC BY-SA 4.0",
@@ -4429,7 +4429,7 @@
 {
 "slug": "ssangyong-rexton",
 "name": "SsangYong Rexton",
-"i": 395,
+"i": 401,
 "article": "SsangYong Rexton",
 "author": "SmartTalk",
 "license": "CC BY-SA 4.0",
@@ -4440,7 +4440,7 @@
 {
 "slug": "lada-niva",
 "name": "Lada Niva",
-"i": 396,
+"i": 402,
 "article": "Lada Niva",
 "author": "TTTNIS",
 "license": "Public domain",
