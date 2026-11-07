@@ -16,7 +16,11 @@
   "neg": [
    "M3",
    "Cabrio",
-   "Convertible"
+   "Convertible",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
   ],
   "min_year": 1982,
   "max_year": 1994
@@ -42,7 +46,11 @@
    "M3",
    "Cabrio",
    "Convertible",
-   "GTR"
+   "GTR",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
   ],
   "min_year": 1990,
   "max_year": 2000
@@ -67,7 +75,11 @@
    "M3",
    "Cabrio",
    "Convertible",
-   "GTR"
+   "GTR",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
   ],
   "min_year": 1998,
   "max_year": 2007
@@ -95,7 +107,11 @@
    "Convertible",
    "GT2",
    "GT4",
-   "WTCC"
+   "WTCC",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
   ],
   "min_year": 2005,
   "max_year": 2013
@@ -120,7 +136,11 @@
   "neg": [
    "GT",
    "Gran Turismo",
-   "M3"
+   "M3",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
   ],
   "min_year": 2012,
   "max_year": 2019

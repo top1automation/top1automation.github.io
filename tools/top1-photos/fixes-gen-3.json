@@ -1,0 +1,715 @@
+[
+ {
+  "slug": "bmw-3-e30",
+  "name": "BMW Σειρά 3 E30",
+  "titles": [
+   "BMW 3 Series (E30)"
+  ],
+  "kw": [
+   "E30",
+   "3 Series",
+   "3er",
+   "318",
+   "320",
+   "325"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
+  ],
+  "min_year": 1982,
+  "max_year": 1994
+ },
+ {
+  "slug": "bmw-3-e36",
+  "name": "BMW Σειρά 3 E36",
+  "titles": [
+   "BMW 3 Series (E36)"
+  ],
+  "kw": [
+   "E36",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "323",
+   "325",
+   "328"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "GTR",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
+  ],
+  "min_year": 1990,
+  "max_year": 2000
+ },
+ {
+  "slug": "bmw-3-e46",
+  "name": "BMW Σειρά 3 E46",
+  "titles": [
+   "BMW 3 Series (E46)"
+  ],
+  "kw": [
+   "E46",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "325",
+   "330"
+  ],
+  "neg": [
+   "M3",
+   "Cabrio",
+   "Convertible",
+   "GTR",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
+  ],
+  "min_year": 1998,
+  "max_year": 2007
+ },
+ {
+  "slug": "bmw-3-f30",
+  "name": "BMW Σειρά 3 F30",
+  "titles": [
+   "BMW 3 Series (F30)"
+  ],
+  "kw": [
+   "F30",
+   "F31",
+   "3 Series",
+   "3er",
+   "316",
+   "318",
+   "320",
+   "328",
+   "330"
+  ],
+  "neg": [
+   "GT",
+   "Gran Turismo",
+   "M3",
+   "Pick Up",
+   "Pickup",
+   "Pick-up",
+   "Touring Car"
+  ],
+  "min_year": 2012,
+  "max_year": 2019
+ },
+ {
+  "slug": "bmw-5-e39",
+  "name": "BMW Σειρά 5 E39",
+  "titles": [
+   "BMW 5 Series (E39)"
+  ],
+  "kw": [
+   "E39",
+   "5 Series",
+   "5er",
+   "520",
+   "523",
+   "525",
+   "528",
+   "530",
+   "535",
+   "540"
+  ],
+  "neg": [
+   "M5"
+  ],
+  "min_year": 1995,
+  "max_year": 2004
+ },
+ {
+  "slug": "bmw-1-e87",
+  "name": "BMW Σειρά 1 E87",
+  "titles": [
+   "BMW 1 Series (E87)"
+  ],
+  "kw": [
+   "E87",
+   "E81",
+   "1 Series",
+   "1er",
+   "116",
+   "118",
+   "120",
+   "123",
+   "130"
+  ],
+  "neg": [
+   "Coupé",
+   "Coupe",
+   "Cabrio",
+   "E82",
+   "E88",
+   "M"
+  ],
+  "min_year": 2004,
+  "max_year": 2012
+ },
+ {
+  "slug": "mercedes-c-class-w203",
+  "name": "Mercedes C-Class W203",
+  "titles": [
+   "Mercedes-Benz C-Class (W203)"
+  ],
+  "kw": [
+   "W203",
+   "W 203",
+   "C 1",
+   "C 2",
+   "C 3",
+   "C180",
+   "C200",
+   "C220",
+   "C-Klasse",
+   "C-Class"
+  ],
+  "neg": [
+   "AMG",
+   "DTM",
+   "C 32",
+   "C 55",
+   "China"
+  ],
+  "min_year": 2000,
+  "max_year": 2008
+ },
+ {
+  "slug": "mercedes-c-class-w204",
+  "name": "Mercedes C-Class W204",
+  "titles": [
+   "Mercedes-Benz C-Class (W204)"
+  ],
+  "kw": [
+   "W204",
+   "W 204",
+   "C 1",
+   "C 2",
+   "C 3",
+   "C180",
+   "C200",
+   "C220",
+   "C250",
+   "C-Klasse",
+   "C-Class"
+  ],
+  "neg": [
+   "AMG",
+   "DTM",
+   "C 63",
+   "C63",
+   "Black Series",
+   "China"
+  ],
+  "min_year": 2007,
+  "max_year": 2015
+ },
+ {
+  "slug": "mercedes-e-class-w210",
+  "name": "Mercedes E-Class W210",
+  "titles": [
+   "Mercedes-Benz E-Class (W210)"
+  ],
+  "kw": [
+   "W210",
+   "W 210",
+   "E 2",
+   "E 3",
+   "E200",
+   "E220",
+   "E230",
+   "E240",
+   "E290",
+   "E300",
+   "E320",
+   "E-Klasse",
+   "E-Class"
+  ],
+  "neg": [
+   "AMG",
+   "E 55",
+   "E55",
+   "taxi",
+   "Taxi",
+   "China"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "mercedes-e-class-w211",
+  "name": "Mercedes E-Class W211",
+  "titles": [
+   "Mercedes-Benz E-Class (W211)"
+  ],
+  "kw": [
+   "W211",
+   "W 211",
+   "E 2",
+   "E 3",
+   "E200",
+   "E220",
+   "E270",
+   "E280",
+   "E320",
+   "E350",
+   "E-Klasse",
+   "E-Class"
+  ],
+  "neg": [
+   "AMG",
+   "E 63",
+   "E63",
+   "taxi",
+   "Taxi",
+   "China"
+  ],
+  "min_year": 2002,
+  "max_year": 2009
+ },
+ {
+  "slug": "volkswagen-transporter-t5",
+  "name": "Volkswagen Transporter T5",
+  "titles": [
+   "Volkswagen Transporter (T5)"
+  ],
+  "kw": [
+   "T5",
+   "Transporter",
+   "Caravelle",
+   "Multivan"
+  ],
+  "neg": [
+   "California",
+   "Camper",
+   "Amarok"
+  ],
+  "min_year": 2003,
+  "max_year": 2015
+ },
+ {
+  "slug": "volkswagen-polo-6n",
+  "name": "Volkswagen Polo 6N",
+  "titles": [
+   "Volkswagen Polo Mk3"
+  ],
+  "kw": [
+   "Polo"
+  ],
+  "neg": [
+   "Classic",
+   "Variant",
+   "Harlekin"
+  ],
+  "min_year": 1994,
+  "max_year": 2002
+ },
+ {
+  "slug": "volkswagen-polo-6r",
+  "name": "Volkswagen Polo 6R",
+  "titles": [
+   "Volkswagen Polo Mk5"
+  ],
+  "kw": [
+   "Polo"
+  ],
+  "neg": [
+   "Sedan",
+   "Vento",
+   "R WRC",
+   "WRC",
+   "Cross"
+  ],
+  "min_year": 2009,
+  "max_year": 2017
+ },
+ {
+  "slug": "volkswagen-golf-6",
+  "name": "Volkswagen Golf 6",
+  "titles": [
+   "Volkswagen Golf Mk6"
+  ],
+  "kw": [
+   "Golf"
+  ],
+  "neg": [
+   "Plus",
+   "Cabrio",
+   "Jetta",
+   "R"
+  ],
+  "min_year": 2008,
+  "max_year": 2014
+ },
+ {
+  "slug": "opel-corsa-c",
+  "name": "Opel Corsa C",
+  "titles": [
+   "Opel Corsa C"
+  ],
+  "kw": [
+   "Corsa"
+  ],
+  "neg": [
+   "Combo",
+   "Tigra",
+   "Sedan",
+   "Utility",
+   "Classic",
+   "Rally",
+   "Meriva"
+  ],
+  "min_year": 2000,
+  "max_year": 2007
+ },
+ {
+  "slug": "opel-frontera",
+  "name": "Opel Frontera",
+  "titles": [
+   "Opel Frontera"
+  ],
+  "kw": [
+   "Frontera"
+  ],
+  "neg": [],
+  "min_year": 1991,
+  "max_year": 2004
+ },
+ {
+  "slug": "toyota-rav4-xa20",
+  "name": "Toyota RAV4 XA20",
+  "titles": [
+   "Toyota RAV4 (XA20)"
+  ],
+  "kw": [
+   "RAV4",
+   "RAV 4",
+   "XA20"
+  ],
+  "neg": [
+   "EV"
+  ],
+  "min_year": 2000,
+  "max_year": 2006
+ },
+ {
+  "slug": "toyota-avensis-t25",
+  "name": "Toyota Avensis T25",
+  "titles": [
+   "Toyota Avensis (T250)"
+  ],
+  "kw": [
+   "Avensis",
+   "T25"
+  ],
+  "neg": [],
+  "min_year": 2003,
+  "max_year": 2009
+ },
+ {
+  "slug": "toyota-hilux-1997-2005",
+  "name": "Toyota Hilux 1997–2005",
+  "titles": [
+   "Toyota Hilux (sixth generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Surf",
+   "4Runner",
+   "Champ",
+   "Tiger"
+  ],
+  "min_year": 1997,
+  "max_year": 2005
+ },
+ {
+  "slug": "toyota-hilux-2005-2015",
+  "name": "Toyota Hilux 2005–2015",
+  "titles": [
+   "Toyota Hilux (N70)",
+   "Toyota Hilux (seventh generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Champ",
+   "Revo",
+   "Arctic",
+   "Surf"
+  ],
+  "min_year": 2005,
+  "max_year": 2015
+ },
+ {
+  "slug": "toyota-corolla-e12",
+  "name": "Toyota Corolla E12",
+  "titles": [
+   "Toyota Corolla (E120)"
+  ],
+  "kw": [
+   "Corolla",
+   "E12"
+  ],
+  "neg": [
+   "Verso",
+   "Spacio",
+   "Fielder",
+   "Altis",
+   "Runx",
+   "Allex",
+   "WRC",
+   "Axio",
+   "Fielder"
+  ],
+  "min_year": 2000,
+  "max_year": 2008
+ },
+ {
+  "slug": "mitsubishi-pajero-1991-1999",
+  "name": "Mitsubishi Pajero 1991–1999",
+  "titles": [
+   "Mitsubishi Pajero (second generation)",
+   "Mitsubishi Pajero"
+  ],
+  "kw": [
+   "Pajero",
+   "Montero",
+   "Shogun"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally",
+   "Mini",
+   "iO",
+   "Pinin",
+   "Sport"
+  ],
+  "min_year": 1991,
+  "max_year": 2000
+ },
+ {
+  "slug": "mitsubishi-colt-1995-2003",
+  "name": "Mitsubishi Colt 1995–2003",
+  "titles": [
+   "Mitsubishi Mirage (fifth generation)",
+   "Mitsubishi Colt"
+  ],
+  "kw": [
+   "Colt",
+   "Mirage"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "Asti",
+   "Dingo",
+   "Rally"
+  ],
+  "min_year": 1995,
+  "max_year": 2003
+ },
+ {
+  "slug": "skoda-fabia-6y",
+  "name": "Skoda Fabia 6Y",
+  "titles": [
+   "Škoda Fabia Mk1",
+   "Škoda Fabia (6Y)"
+  ],
+  "kw": [
+   "Fabia"
+  ],
+  "neg": [
+   "WRC",
+   "Rally",
+   "Sedan",
+   "sedan",
+   "Praktik"
+  ],
+  "min_year": 1999,
+  "max_year": 2008
+ },
+ {
+  "slug": "skoda-felicia",
+  "name": "Skoda Felicia",
+  "titles": [
+   "Škoda Felicia"
+  ],
+  "kw": [
+   "Felicia"
+  ],
+  "neg": [
+   "Kit Car",
+   "Rally",
+   "Pick",
+   "Fun"
+  ],
+  "min_year": 1994,
+  "max_year": 2001
+ },
+ {
+  "slug": "suzuki-swift-1989-2003",
+  "name": "Suzuki Swift 1989–2003",
+  "titles": [
+   "Suzuki Cultus",
+   "Suzuki Swift"
+  ],
+  "kw": [
+   "Swift",
+   "Cultus"
+  ],
+  "neg": [
+   "Sport",
+   "Rally",
+   "Kit",
+   "Ignis",
+   "Super 1600"
+  ],
+  "min_year": 1989,
+  "max_year": 2004
+ },
+ {
+  "slug": "suzuki-swift-2005-2010",
+  "name": "Suzuki Swift 2005–2010",
+  "titles": [
+   "Suzuki Swift (2004)",
+   "Suzuki Swift"
+  ],
+  "kw": [
+   "Swift"
+  ],
+  "neg": [
+   "Sport",
+   "Rally",
+   "S1600",
+   "Super 1600",
+   "Dzire",
+   "Sedan",
+   "sedan"
+  ],
+  "min_year": 2004,
+  "max_year": 2011
+ },
+ {
+  "slug": "lancia-y-ypsilon-1995-2003",
+  "name": "Lancia Y (Ypsilon) 1995–2003",
+  "titles": [
+   "Lancia Y",
+   "Lancia Y10"
+  ],
+  "kw": [
+   "Lancia Y",
+   "Lancia_Y",
+   "Y10"
+  ],
+  "neg": [
+   "Ypsilon"
+  ],
+  "min_year": 1985,
+  "max_year": 2003
+ },
+ {
+  "slug": "fiat-punto-1993-1999",
+  "name": "Fiat Punto 1993–1999",
+  "titles": [
+   "Fiat Punto (176)",
+   "Fiat Punto"
+  ],
+  "kw": [
+   "Punto"
+  ],
+  "neg": [
+   "Grande",
+   "Evo",
+   "Cabrio",
+   "Abarth",
+   "Rally",
+   "Kit"
+  ],
+  "min_year": 1993,
+  "max_year": 1999
+ },
+ {
+  "slug": "peugeot-306",
+  "name": "Peugeot 306",
+  "titles": [
+   "Peugeot 306"
+  ],
+  "kw": [
+   "306"
+  ],
+  "neg": [
+   "Maxi",
+   "Rally",
+   "Cabrio",
+   "Cabriolet",
+   "BTCC"
+  ],
+  "min_year": 1993,
+  "max_year": 2002
+ },
+ {
+  "slug": "peugeot-406",
+  "name": "Peugeot 406",
+  "titles": [
+   "Peugeot 406"
+  ],
+  "kw": [
+   "406"
+  ],
+  "neg": [
+   "BTCC",
+   "Taxi",
+   "taxi",
+   "STW"
+  ],
+  "min_year": 1995,
+  "max_year": 2005
+ },
+ {
+  "slug": "ford-fiesta-mk4",
+  "name": "Ford Fiesta Mk4",
+  "titles": [
+   "Ford Fiesta (fourth generation)",
+   "Ford Fiesta Mk4"
+  ],
+  "kw": [
+   "Fiesta"
+  ],
+  "neg": [
+   "Courier",
+   "Van",
+   "Rally",
+   "Ikon",
+   "Mazda",
+   "China",
+   "sedan",
+   "Sedan"
+  ],
+  "min_year": 1995,
+  "max_year": 2002
+ }
+]

@@ -24,10 +24,23 @@ BAD = re.compile(r"interior|interieur|interno|innenraum|\binnen|\binside|cockpit
                  r"\bcircuit|\btrack\b|\btrackday|\bdtm\b|\bbtcc\b|\bwtcc\b|\bstw\b|\btuning|\btuned|\bstance|\blowered|"
                  r"\bmodified|\bcustom\b|widebody|\bdrift|\bwreck|\bcrash|\bunfall|\brost\b|\brusty|abandoned|derelict|"
                  r"\bscrap|\bjunk|\bparts\b|model car|modellauto|\btoy\b|\btoys\b|diecast|\bscale\b|\blego\b|\bpolice|"
-                 r"polizei|\btaxi|ambulance|feuerwehr|fire dep|hearse|\.svg$|\.gif$|\.tif|\.pdf$|\.webm$|\.ogv$", re.I)
+                 r"polizei|\btaxi|ambulance|feuerwehr|\bfire\b|hearse|accident|tornado|rubble|licen[cs]e plate|kennzeichen|nummernschild|"
+                 r"filter|ladeger|batterie|battery|panoramio|\bcars\b|\b\d+x\b|convoy|cabrio|convertible|roadster|spider|"
+                 r"\bcoup[eé]\b|\.svg$|\.gif$|\.tif|\.pdf$|\.webm$|\.ogv$", re.I)
 
-SKIP_SUBCAT = re.compile(r"interior|detail|engine|motor|race|racing|rally|motorsport|tuning|modified|police|taxi|"
-                         r"model|toy|advert|brochure|wreck|crash|museum|logo|badge|wheel|light", re.I)
+SKIP_SUBCAT = re.compile(r"interior|detail|engine|\bmotor|\brace\b|racing|rally|motorsport|tuning|modified|police|taxi|"
+                         r"\bmodels?\b|scale model|\btoys?\b|advert|brochure|wreck|crash|accident|museum|logo|badge|wheel|"
+                         r"light|cabrio|convertible|coup[eé]|parts", re.I)
+# well-named photos are usually clean, whole-car shots: "2003 Nissan Micra E 1.0 Front.jpg", "... – Frontansicht, ...",
+# "Opel Astra G front 20071019.jpg", "... front left, 06-05-2025.jpg"
+CLEAN = re.compile(r"^(19|20)\d\d .*\bfront\)?\.jpe?g$|frontansicht|\bfront \d{8}\.jpe?g$|\bfront (left|right)\b|"
+                   r"\(front\)|\bfront\.jpe?g$", re.I)
+YEARS = re.compile(r"(?<!\d)(19[5-9]\d|20[0-3]\d)(?!\d)")
+
+
+def has(tokens, name):
+    """generation tokens match as whole words: 'AB' must not match 'Fabia'"""
+    return any(re.search(r"(?<![A-Za-z0-9])" + re.escape(t.strip()) + r"(?![A-Za-z0-9])", name, re.I) for t in tokens)
 MODEL_YEAR = fx.MODEL_YEAR
 FRONT = re.compile(r"front|vorne|frontansicht|avant|anteriore|voorkant|3/4|three.quarter|\bfl\b|\bfr\b", re.I)
 
@@ -43,18 +56,24 @@ def ok(name, f, need_gk):
     y = model_year(name)
     if y and (y < f["min_year"] - 1 or y > f["max_year"] + 1):
         return False
+    # any year older than the generation is a model year of an older car (photo dates are always later)
+    if any(int(v) < f["min_year"] - 1 for v in YEARS.findall(name)):
+        return False
+    if f["kw"] and not any(k.lower() in name.lower() for k in f["kw"]):
+        return False
+    gk = has(f["gk"], name)
+    yr = bool(y and f["min_year"] <= y <= f["max_year"])
     if need_gk:
-        gk = any(g.lower() in name.lower() for g in f["gk"])
-        if not gk and not (y and f["min_year"] <= y <= f["max_year"]):
-            return False
-        if f["kw"] and not any(k.lower() in name.lower() for k in f["kw"]):
-            return False
-    return True
+        return gk or yr
+    # inside the generation category: still needs one positive sign that this is a photo of the car
+    return gk or yr or bool(FRONT.search(name))
 
 
 def score(name, f):
     s = 3 if FRONT.search(name) else 0
-    if any(g.lower() in name.lower() for g in f["gk"]):
+    if CLEAN.search(name):
+        s += 2
+    if has(f["gk"], name):
         s += 1
     y = model_year(name)
     if y and f["min_year"] <= y <= f["max_year"]:
@@ -71,8 +90,8 @@ def cat_files(cat, depth=1):
     files, subs = [], []
     for m in r.get("query", {}).get("categorymembers", []):
         (files if m["ns"] == 6 else subs).append(m["title"])
-    if depth and len(files) < 12:
-        for s in [s for s in subs if not SKIP_SUBCAT.search(s)][:8]:
+    if depth:
+        for s in [s for s in subs if not SKIP_SUBCAT.search(s)][:10]:
             files += cat_files(s[len("Category:"):], depth - 1)
     return files
 
