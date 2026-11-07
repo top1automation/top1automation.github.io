@@ -1,0 +1,239 @@
+[
+ {
+  "slug": "toyota-corolla-e11",
+  "name": "Toyota Corolla E11",
+  "titles": [
+   "Toyota Corolla (E110)"
+  ],
+  "kw": [
+   "Corolla",
+   "E11"
+  ],
+  "neg": [
+   "Levin",
+   "Trueno",
+   "Spacio",
+   "WRC"
+  ],
+  "min_year": 1995,
+  "max_year": 2002
+ },
+ {
+  "slug": "toyota-corolla-e12",
+  "name": "Toyota Corolla E12",
+  "titles": [
+   "Toyota Corolla (E120)"
+  ],
+  "kw": [
+   "Corolla",
+   "E12"
+  ],
+  "neg": [
+   "Verso",
+   "Spacio",
+   "Fielder",
+   "Altis",
+   "Runx",
+   "Allex",
+   "WRC"
+  ],
+  "min_year": 2000,
+  "max_year": 2008
+ },
+ {
+  "slug": "toyota-corolla-e15",
+  "name": "Toyota Corolla E15",
+  "titles": [
+   "Toyota Corolla (E140)",
+   "Toyota Corolla (E150)"
+  ],
+  "kw": [
+   "Corolla"
+  ],
+  "neg": [
+   "Fielder",
+   "Axio",
+   "Rumion",
+   "Auris",
+   "Altis",
+   "Levin"
+  ],
+  "min_year": 2006,
+  "max_year": 2014
+ },
+ {
+  "slug": "toyota-yaris-xp10",
+  "name": "Toyota Yaris XP10",
+  "titles": [
+   "Toyota Yaris (XP10)",
+   "Toyota Vitz (XP10)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz",
+   "Echo"
+  ],
+  "neg": [
+   "Verso",
+   "Sedan",
+   "sedan",
+   "Platz",
+   "WRC"
+  ],
+  "min_year": 1999,
+  "max_year": 2006
+ },
+ {
+  "slug": "toyota-yaris-xp90",
+  "name": "Toyota Yaris XP90",
+  "titles": [
+   "Toyota Yaris (XP90)",
+   "Toyota Vitz (XP90)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "Belta",
+   "Vios"
+  ],
+  "min_year": 2005,
+  "max_year": 2012
+ },
+ {
+  "slug": "toyota-yaris-xp130",
+  "name": "Toyota Yaris XP130",
+  "titles": [
+   "Toyota Yaris (XP130)",
+   "Toyota Vitz (XP130)"
+  ],
+  "kw": [
+   "Yaris",
+   "Vitz"
+  ],
+  "neg": [
+   "Sedan",
+   "sedan",
+   "WRC",
+   "GRMN",
+   "iA"
+  ],
+  "min_year": 2011,
+  "max_year": 2020
+ },
+ {
+  "slug": "toyota-hilux-1988-1997",
+  "name": "Toyota Hilux 1988–1997",
+  "titles": [
+   "Toyota Hilux (fifth generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux",
+   "LN"
+  ],
+  "neg": [
+   "Surf",
+   "4Runner",
+   "Champ"
+  ],
+  "min_year": 1988,
+  "max_year": 1997
+ },
+ {
+  "slug": "toyota-hilux-1997-2005",
+  "name": "Toyota Hilux 1997–2005",
+  "titles": [
+   "Toyota Hilux (sixth generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Surf",
+   "4Runner",
+   "Champ",
+   "Tiger"
+  ],
+  "min_year": 1997,
+  "max_year": 2005
+ },
+ {
+  "slug": "toyota-hilux-2005-2015",
+  "name": "Toyota Hilux 2005–2015",
+  "titles": [
+   "Toyota Hilux (N70)",
+   "Toyota Hilux (seventh generation)",
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Champ",
+   "Revo",
+   "Arctic",
+   "Surf"
+  ],
+  "min_year": 2005,
+  "max_year": 2015
+ },
+ {
+  "slug": "toyota-rav4-xa20",
+  "name": "Toyota RAV4 XA20",
+  "titles": [
+   "Toyota RAV4 (XA20)"
+  ],
+  "kw": [
+   "RAV4",
+   "RAV 4",
+   "XA20"
+  ],
+  "neg": [
+   "EV"
+  ],
+  "min_year": 2000,
+  "max_year": 2006
+ },
+ {
+  "slug": "toyota-avensis-t25",
+  "name": "Toyota Avensis T25",
+  "titles": [
+   "Toyota Avensis (T250)"
+  ],
+  "kw": [
+   "Avensis",
+   "T25"
+  ],
+  "neg": [],
+  "min_year": 2003,
+  "max_year": 2009
+ },
+ {
+  "slug": "toyota-land-cruiser-prado-j120",
+  "name": "Toyota Land Cruiser Prado J120",
+  "titles": [
+   "Toyota Land Cruiser Prado (J120)",
+   "Toyota Land Cruiser Prado"
+  ],
+  "kw": [
+   "Prado",
+   "J120",
+   "J12",
+   "Land Cruiser",
+   "4Runner"
+  ],
+  "neg": [
+   "Dakar",
+   "Rally",
+   "J150",
+   "J90"
+  ],
+  "min_year": 2002,
+  "max_year": 2010
+ }
+]

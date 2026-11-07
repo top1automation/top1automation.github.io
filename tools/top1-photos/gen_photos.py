@@ -17,13 +17,15 @@ import fix_photos as fx
 from gen_cats import C
 
 HERE, OUT = fp.HERE, fp.OUT
-BAD = re.compile(r"interior|interieur|interno|innenraum|innen|inside|cockpit|dashboard|armaturen|engine|motorraum|"
-                 r"rear|heckansicht|hinten|back view|badge|logo|emblem|wheel|felge|seats|sitze|trunk|kofferraum|steering|"
-                 r"lenkrad|display|screen|headlight|taillight|scheinwerfer|detail|drawing|sketch|brochure|prospekt|advert|"
-                 r"race|racing|rennen|rally|motorsport|rring|hockenheim|circuit|track|dtm|btcc|wtcc|stw|"
-                 r"tuning|tuned|stance|lowered|modified|custom|widebody|drift|wreck|crash|unfall|rost|rusty|"
-                 r"abandoned|derelict|scrap|junk|parts|model car|modellauto|toy|diecast|scale|lego|police|polizei|"
-                 r"taxi|ambulance|feuerwehr|fire dep|hearse|limousine stretch|\.svg$|\.gif$|\.tif|\.pdf$|\.webm$|\.ogv$", re.I)
+BAD = re.compile(r"interior|interieur|interno|innenraum|\binnen|\binside|cockpit|dashboard|armaturen|\bengine|motorraum|"
+                 r"\brear\b|heckansicht|\bhinten|back view|\bbadge|\blogo|emblem|\bwheels?\b|\bfelge|\bseats?\b|\bsitze|"
+                 r"\btrunk|kofferraum|steering|lenkrad|\bdisplay|\bscreen|headlight|taillight|scheinwerfer|\bdetail|"
+                 r"drawing|sketch|brochure|prospekt|\badvert|\brace\b|\bracing|\brennen|\brally|motorsport|rring|hockenheim|"
+                 r"\bcircuit|\btrack\b|\btrackday|\bdtm\b|\bbtcc\b|\bwtcc\b|\bstw\b|\btuning|\btuned|\bstance|\blowered|"
+                 r"\bmodified|\bcustom\b|widebody|\bdrift|\bwreck|\bcrash|\bunfall|\brost\b|\brusty|abandoned|derelict|"
+                 r"\bscrap|\bjunk|\bparts\b|model car|modellauto|\btoy\b|\btoys\b|diecast|\bscale\b|\blego\b|\bpolice|"
+                 r"polizei|\btaxi|ambulance|feuerwehr|fire dep|hearse|\.svg$|\.gif$|\.tif|\.pdf$|\.webm$|\.ogv$", re.I)
+
 SKIP_SUBCAT = re.compile(r"interior|detail|engine|motor|race|racing|rally|motorsport|tuning|modified|police|taxi|"
                          r"model|toy|advert|brochure|wreck|crash|museum|logo|badge|wheel|light", re.I)
 MODEL_YEAR = fx.MODEL_YEAR
