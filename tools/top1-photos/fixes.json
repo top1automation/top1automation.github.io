@@ -1,0 +1,866 @@
+[
+ {
+  "slug": "toyota-c-hr",
+  "name": "Toyota C-HR",
+  "titles": [
+   "Toyota C-HR"
+  ],
+  "kw": [
+   "C-HR",
+   "CHR"
+  ],
+  "neg": [
+   "C-HR+",
+   "bZ"
+  ],
+  "min_year": 2016
+ },
+ {
+  "slug": "toyota-corolla",
+  "name": "Toyota Corolla",
+  "titles": [
+   "Toyota Corolla (E210)",
+   "Toyota Corolla"
+  ],
+  "kw": [
+   "Corolla"
+  ],
+  "neg": [
+   "GR ",
+   "GR_",
+   "Cross",
+   "Levin",
+   "Altis"
+  ],
+  "min_year": 2018
+ },
+ {
+  "slug": "fiat-500",
+  "name": "Fiat 500",
+  "titles": [
+   "Fiat 500 (2007)"
+  ],
+  "kw": [
+   "500"
+  ],
+  "neg": [
+   "500X",
+   "500L",
+   "500e",
+   "Abarth",
+   "Topolino"
+  ],
+  "min_year": 2007
+ },
+ {
+  "slug": "ford-puma",
+  "name": "Ford Puma",
+  "titles": [
+   "Ford Puma (crossover)"
+  ],
+  "kw": [
+   "Puma"
+  ],
+  "neg": [
+   "coupe",
+   "Coupé",
+   "coupé",
+   "Gen-E",
+   "Rally"
+  ],
+  "min_year": 2019
+ },
+ {
+  "slug": "toyota-hilux",
+  "name": "Toyota Hilux",
+  "titles": [
+   "Toyota Hilux"
+  ],
+  "kw": [
+   "Hilux"
+  ],
+  "neg": [
+   "Champ",
+   "Surf"
+  ],
+  "min_year": 2005
+ },
+ {
+  "slug": "isuzu-pick-up",
+  "name": "Isuzu Pick Up",
+  "titles": [
+   "Isuzu Faster",
+   "Isuzu D-Max"
+  ],
+  "kw": [
+   "Faster",
+   "Pick",
+   "TF",
+   "Rodeo",
+   "D-Max",
+   "DMAX",
+   "D-MAX"
+  ],
+  "neg": [],
+  "min_year": 1988
+ },
+ {
+  "slug": "nissan-pick-up",
+  "name": "Nissan Pick Up",
+  "titles": [
+   "Nissan Navara (D22)",
+   "Nissan Navara"
+  ],
+  "kw": [
+   "D22",
+   "Pick-up",
+   "Pickup",
+   "Pick Up",
+   "PickUp"
+  ],
+  "neg": [],
+  "min_year": 1997
+ },
+ {
+  "slug": "jeep-gladiator",
+  "name": "Jeep Gladiator",
+  "titles": [
+   "Jeep Gladiator (JT)"
+  ],
+  "kw": [
+   "Gladiator"
+  ],
+  "neg": [
+   "SJ"
+  ],
+  "min_year": 2019
+ },
+ {
+  "slug": "kia-k2500",
+  "name": "Kia K2500",
+  "titles": [
+   "Kia Bongo"
+  ],
+  "kw": [
+   "Bongo",
+   "K2500",
+   "K2700",
+   "K2900",
+   "K-2",
+   "K 2"
+  ],
+  "neg": [],
+  "min_year": 2004
+ },
+ {
+  "slug": "piaggio-porter",
+  "name": "Piaggio Porter",
+  "titles": [
+   "Piaggio Porter"
+  ],
+  "kw": [
+   "Porter"
+  ],
+  "neg": [],
+  "min_year": 1995
+ },
+ {
+  "slug": "ford-tourneo",
+  "name": "Ford Tourneo",
+  "titles": [
+   "Ford Tourneo Custom",
+   "Ford Transit Custom"
+  ],
+  "kw": [
+   "Tourneo"
+  ],
+  "neg": [
+   "Connect",
+   "Courier"
+  ],
+  "min_year": 2012
+ },
+ {
+  "slug": "citroen-jumper",
+  "name": "Citroen Jumper",
+  "titles": [
+   "Citroën Jumper"
+  ],
+  "kw": [
+   "Jumper"
+  ],
+  "neg": [],
+  "min_year": 2006
+ },
+ {
+  "slug": "citroen-nemo",
+  "name": "Citroen Nemo",
+  "titles": [
+   "Citroën Nemo",
+   "Fiat Fiorino"
+  ],
+  "kw": [
+   "Nemo"
+  ],
+  "neg": [],
+  "min_year": 2008
+ },
+ {
+  "slug": "peugeot-partner",
+  "name": "Peugeot Partner",
+  "titles": [
+   "Peugeot Partner"
+  ],
+  "kw": [
+   "Partner"
+  ],
+  "neg": [],
+  "min_year": 2008
+ },
+ {
+  "slug": "peugeot-rifter",
+  "name": "Peugeot Rifter",
+  "titles": [
+   "Peugeot Rifter",
+   "Peugeot Partner"
+  ],
+  "kw": [
+   "Rifter"
+  ],
+  "neg": [],
+  "min_year": 2018
+ },
+ {
+  "slug": "peugeot-expert",
+  "name": "Peugeot Expert",
+  "titles": [
+   "Peugeot Expert"
+  ],
+  "kw": [
+   "Expert"
+  ],
+  "neg": [],
+  "min_year": 2007
+ },
+ {
+  "slug": "peugeot-boxer",
+  "name": "Peugeot Boxer",
+  "titles": [
+   "Peugeot Boxer",
+   "Fiat Ducato"
+  ],
+  "kw": [
+   "Boxer"
+  ],
+  "neg": [],
+  "min_year": 2006
+ },
+ {
+  "slug": "peugeot-bipper",
+  "name": "Peugeot Bipper",
+  "titles": [
+   "Peugeot Bipper",
+   "Fiat Fiorino"
+  ],
+  "kw": [
+   "Bipper"
+  ],
+  "neg": [],
+  "min_year": 2008
+ },
+ {
+  "slug": "opel-movano",
+  "name": "Opel Movano",
+  "titles": [
+   "Opel Movano",
+   "Vauxhall Movano"
+  ],
+  "kw": [
+   "Movano"
+  ],
+  "neg": [],
+  "min_year": 2003
+ },
+ {
+  "slug": "mercedes-v-class",
+  "name": "Mercedes V-Class",
+  "titles": [
+   "Mercedes-Benz V-Class"
+  ],
+  "kw": [
+   "V-Klasse",
+   "V-Class",
+   "V 2",
+   "V 3",
+   "W447"
+  ],
+  "neg": [],
+  "min_year": 2014
+ },
+ {
+  "slug": "toyota-proace",
+  "name": "Toyota Proace",
+  "titles": [
+   "Toyota ProAce",
+   "Toyota Proace"
+  ],
+  "kw": [
+   "Proace",
+   "ProAce",
+   "PROACE"
+  ],
+  "neg": [
+   "City",
+   "Max",
+   "MAX"
+  ],
+  "min_year": 2013
+ },
+ {
+  "slug": "nissan-nv350",
+  "name": "Nissan NV350",
+  "titles": [
+   "Nissan NV350 Caravan",
+   "Nissan Caravan"
+  ],
+  "kw": [
+   "NV350",
+   "Caravan"
+  ],
+  "neg": [],
+  "min_year": 2012
+ },
+ {
+  "slug": "nissan-primastar",
+  "name": "Nissan Primastar",
+  "titles": [
+   "Nissan Primastar",
+   "Renault Trafic"
+  ],
+  "kw": [
+   "Primastar"
+  ],
+  "neg": [],
+  "min_year": 2001
+ },
+ {
+  "slug": "dacia-spring",
+  "name": "Dacia Spring",
+  "titles": [
+   "Dacia Spring"
+  ],
+  "kw": [
+   "Spring"
+  ],
+  "neg": [],
+  "min_year": 2020
+ },
+ {
+  "slug": "ford-fusion",
+  "name": "Ford Fusion",
+  "titles": [
+   "Ford Fusion (Europe)"
+  ],
+  "kw": [
+   "Fusion"
+  ],
+  "neg": [],
+  "min_year": 2002
+ },
+ {
+  "slug": "fiat-bravo",
+  "name": "Fiat Bravo",
+  "titles": [
+   "Fiat Bravo (2007)"
+  ],
+  "kw": [
+   "Bravo"
+  ],
+  "neg": [
+   "Brava"
+  ],
+  "min_year": 2007
+ },
+ {
+  "slug": "hyundai-ix35",
+  "name": "Hyundai ix35",
+  "titles": [
+   "Hyundai Tucson (LM)",
+   "Hyundai ix35"
+  ],
+  "kw": [
+   "ix35",
+   "IX35",
+   "iX35"
+  ],
+  "neg": [
+   "China",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022"
+  ],
+  "min_year": 2009
+ },
+ {
+  "slug": "hyundai-ioniq",
+  "name": "Hyundai Ioniq",
+  "titles": [
+   "Hyundai Ioniq (AE)",
+   "Hyundai Ioniq (2016)",
+   "Hyundai Ioniq"
+  ],
+  "kw": [
+   "Ioniq",
+   "IONIQ"
+  ],
+  "neg": [
+   "Ioniq 3",
+   "Ioniq 5",
+   "Ioniq 6",
+   "Ioniq 9",
+   "IONIQ 3",
+   "IONIQ 5",
+   "IONIQ 6",
+   "IONIQ 9",
+   "Ioniq_5",
+   "Ioniq_6",
+   "Concept"
+  ],
+  "min_year": 2016
+ },
+ {
+  "slug": "hyundai-matrix",
+  "name": "Hyundai Matrix",
+  "titles": [
+   "Hyundai Matrix",
+   "Hyundai Lavita"
+  ],
+  "kw": [
+   "Matrix",
+   "Lavita"
+  ],
+  "neg": [],
+  "min_year": 2001
+ },
+ {
+  "slug": "kia-xceed",
+  "name": "Kia XCeed",
+  "titles": [
+   "Kia XCeed",
+   "Kia Ceed"
+  ],
+  "kw": [
+   "XCeed",
+   "Xceed",
+   "XCEED"
+  ],
+  "neg": [],
+  "min_year": 2019
+ },
+ {
+  "slug": "suzuki-grand-vitara",
+  "name": "Suzuki Grand Vitara",
+  "titles": [
+   "Suzuki Grand Vitara",
+   "Suzuki Escudo"
+  ],
+  "kw": [
+   "Grand Vitara",
+   "Grand_Vitara"
+  ],
+  "neg": [],
+  "min_year": 1998
+ },
+ {
+  "slug": "suzuki-samurai",
+  "name": "Suzuki Samurai",
+  "titles": [
+   "Suzuki Samurai",
+   "Suzuki SJ",
+   "Suzuki Jimny"
+  ],
+  "kw": [
+   "Samurai",
+   "SJ4",
+   "SJ 4",
+   "SJ-4"
+  ],
+  "neg": [],
+  "min_year": 1981
+ },
+ {
+  "slug": "mazda-2",
+  "name": "Mazda 2",
+  "titles": [
+   "Mazda2"
+  ],
+  "kw": [
+   "Mazda2",
+   "Mazda 2",
+   "MAZDA2",
+   "Mazda_2"
+  ],
+  "neg": [
+   "Hybrid"
+  ],
+  "min_year": 2014
+ },
+ {
+  "slug": "mazda-3",
+  "name": "Mazda 3",
+  "titles": [
+   "Mazda3"
+  ],
+  "kw": [
+   "Mazda3",
+   "Mazda 3",
+   "MAZDA3",
+   "Mazda_3"
+  ],
+  "neg": [],
+  "min_year": 2013
+ },
+ {
+  "slug": "skoda-citigo",
+  "name": "Skoda Citigo",
+  "titles": [
+   "Škoda Citigo",
+   "Volkswagen Up"
+  ],
+  "kw": [
+   "Citigo"
+  ],
+  "neg": [],
+  "min_year": 2011
+ },
+ {
+  "slug": "seat-mii",
+  "name": "Seat Mii",
+  "titles": [
+   "SEAT Mii",
+   "Volkswagen Up"
+  ],
+  "kw": [
+   "Mii"
+  ],
+  "neg": [],
+  "min_year": 2011
+ },
+ {
+  "slug": "bmw-i3",
+  "name": "BMW i3",
+  "titles": [
+   "BMW i3 (I01)",
+   "BMW i3"
+  ],
+  "kw": [
+   "i3"
+  ],
+  "neg": [
+   "Neue Klasse",
+   "NA0",
+   "eDrive35",
+   "eDrive40",
+   "Sedan",
+   "sedan",
+   "Limousine"
+  ],
+  "min_year": 2013
+ },
+ {
+  "slug": "bmw-z4",
+  "name": "BMW Z4",
+  "titles": [
+   "BMW Z4"
+  ],
+  "kw": [
+   "Z4"
+  ],
+  "neg": [
+   "GT3",
+   "GTE",
+   "GTLM",
+   "DTM"
+  ],
+  "min_year": 2009
+ },
+ {
+  "slug": "mercedes-a-class",
+  "name": "Mercedes A-Class",
+  "titles": [
+   "Mercedes-Benz A-Class"
+  ],
+  "kw": [
+   "A-Klasse",
+   "A-Class",
+   "A 1",
+   "A 2",
+   "A 3",
+   "A 4",
+   "W177",
+   "W176",
+   "A1",
+   "A2"
+  ],
+  "neg": [
+   "Limousine",
+   "Sedan",
+   "sedan",
+   "AMG GT"
+  ],
+  "min_year": 2012
+ },
+ {
+  "slug": "smart-1",
+  "name": "Smart #1",
+  "titles": [
+   "Smart 1",
+   "Smart Hashtag One",
+   "Smart (marque)"
+  ],
+  "kw": [
+   "#1",
+   "Hashtag",
+   "Smart 1",
+   "smart 1",
+   "Smart_1",
+   "smart_1",
+   "SMART 1"
+  ],
+  "neg": [],
+  "min_year": 2022
+ },
+ {
+  "slug": "alfa-romeo-giulietta",
+  "name": "Alfa Romeo Giulietta",
+  "titles": [
+   "Alfa Romeo Giulietta (940)",
+   "Alfa Romeo Giulietta (2010)"
+  ],
+  "kw": [
+   "Giulietta"
+  ],
+  "neg": [
+   "Sprint",
+   "Spider"
+  ],
+  "min_year": 2010
+ },
+ {
+  "slug": "alfa-romeo-giulia",
+  "name": "Alfa Romeo Giulia",
+  "titles": [
+   "Alfa Romeo Giulia (952)",
+   "Alfa Romeo Giulia (2015)"
+  ],
+  "kw": [
+   "Giulia"
+  ],
+  "neg": [
+   "Giulietta",
+   "Sprint",
+   "GTA",
+   "Spider",
+   "TZ"
+  ],
+  "min_year": 2015
+ },
+ {
+  "slug": "lancia-delta",
+  "name": "Lancia Delta",
+  "titles": [
+   "Lancia Delta"
+  ],
+  "kw": [
+   "Delta"
+  ],
+  "neg": [
+   "S4",
+   "HF",
+   "Integrale",
+   "integrale",
+   "rally",
+   "Rally",
+   "WRC",
+   "Evo",
+   "EVO"
+  ],
+  "min_year": 2008
+ },
+ {
+  "slug": "land-rover-range-rover-evoque",
+  "name": "Land Rover Range Rover Evoque",
+  "titles": [
+   "Range Rover Evoque"
+  ],
+  "kw": [
+   "Evoque"
+  ],
+  "neg": [
+   "Convertible",
+   "convertible",
+   "Cabrio"
+  ],
+  "min_year": 2011
+ },
+ {
+  "slug": "chevrolet-matiz",
+  "name": "Chevrolet Matiz",
+  "titles": [
+   "Daewoo Matiz"
+  ],
+  "kw": [
+   "Matiz"
+  ],
+  "neg": [],
+  "min_year": 2005
+ },
+ {
+  "slug": "daewoo-matiz",
+  "name": "Daewoo Matiz",
+  "titles": [
+   "Daewoo Matiz"
+  ],
+  "kw": [
+   "Matiz"
+  ],
+  "neg": [],
+  "min_year": 1998
+ },
+ {
+  "slug": "polestar-2",
+  "name": "Polestar 2",
+  "titles": [
+   "Polestar 2"
+  ],
+  "kw": [
+   "Polestar 2",
+   "Polestar_2",
+   "POLESTAR 2"
+  ],
+  "neg": [],
+  "min_year": 2019
+ },
+ {
+  "slug": "chery-tiggo-4",
+  "name": "Chery Tiggo 4",
+  "titles": [
+   "Chery Tiggo 4",
+   "Chery Tiggo 3"
+  ],
+  "kw": [
+   "Tiggo 4",
+   "Tiggo_4",
+   "Tiggo 3x",
+   "Tiggo 3X",
+   "TIGGO 4"
+  ],
+  "neg": [],
+  "min_year": 2017
+ },
+ {
+  "slug": "byd-seal-u",
+  "name": "BYD Seal U",
+  "titles": [
+   "BYD Song Plus",
+   "BYD Seal U"
+  ],
+  "kw": [
+   "Seal U",
+   "Song Plus",
+   "Song_Plus",
+   "Seal_U",
+   "SEAL U",
+   "Sealion 6",
+   "Song PLUS"
+  ],
+  "neg": [],
+  "min_year": 2020
+ },
+ {
+  "slug": "mg-3",
+  "name": "MG 3",
+  "titles": [
+   "MG3 (hatchback)",
+   "MG 3",
+   "MG3"
+  ],
+  "kw": [
+   "MG3",
+   "MG 3",
+   "MG_3"
+  ],
+  "neg": [],
+  "min_year": 2011
+ },
+ {
+  "slug": "opel-meriva",
+  "name": "Opel Meriva",
+  "titles": [
+   "Opel Meriva"
+  ],
+  "kw": [
+   "Meriva"
+  ],
+  "neg": [],
+  "min_year": 2003
+ },
+ {
+  "slug": "skoda-roomster",
+  "name": "Skoda Roomster",
+  "titles": [
+   "Škoda Roomster"
+  ],
+  "kw": [
+   "Roomster"
+  ],
+  "neg": [],
+  "min_year": 2006
+ },
+ {
+  "slug": "toyota-verso",
+  "name": "Toyota Verso",
+  "titles": [
+   "Toyota Verso"
+  ],
+  "kw": [
+   "Verso"
+  ],
+  "neg": [
+   "Verso-S",
+   "Verso S",
+   "Verso_S"
+  ],
+  "min_year": 2009
+ },
+ {
+  "slug": "toyota-starlet",
+  "name": "Toyota Starlet",
+  "titles": [
+   "Toyota Starlet"
+  ],
+  "kw": [
+   "Starlet"
+  ],
+  "neg": [],
+  "min_year": 1984
+ },
+ {
+  "slug": "volvo-c30",
+  "name": "Volvo C30",
+  "titles": [
+   "Volvo C30"
+  ],
+  "kw": [
+   "C30"
+  ],
+  "neg": [
+   "Electric",
+   "electric",
+   "Polestar"
+  ],
+  "min_year": 2006
+ }
+]

@@ -12,7 +12,7 @@ import html, json, os, re, time, urllib.parse, urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "out")
-UA = "TOP1-site-thumbnails/1.0 (small car-care business site, one-time fetch)"
+UA = "TOP1-site-thumbnails/1.1 (https://top1automation.github.io; small car-care business site, one-time fetch)"
 W, H = 240, 150
 PER_SHEET = 100
 OK_LIC = re.compile(r"^(cc0|cc0 1\.0|public domain|pd|cc[ -]by(-sa)?([ -]\d(\.\d)?)?( [a-z]{2})?)$", re.I)
@@ -24,10 +24,11 @@ def get(url, tries=4):
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=30) as r:
                 return r.read()
-        except Exception:
+        except Exception as e:
             if i == tries - 1:
                 raise
-            time.sleep(2 ** (i + 1))
+            # 429 = too many requests: wait much longer before trying again
+            time.sleep(30 * (i + 1) if getattr(e, "code", None) == 429 else 2 ** (i + 1))
 
 
 def api(host, **p):
@@ -86,7 +87,10 @@ def main():
                     elif md:
                         c["skip"] = "license: " + md["license"]
             except Exception as e:
-                c["skip"] = "error: %s" % e
+                # temporary error: not cached, so the next run tries this model again
+                print("    error, will retry on next run: %s" % e, flush=True)
+                credits.append({"slug": m["slug"], "name": m["name"], "i": -1, "skip": "error: %s" % e})
+                continue
             cache[m["slug"]] = c
             json.dump(cache, open(cache_p, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
             time.sleep(0.5)
